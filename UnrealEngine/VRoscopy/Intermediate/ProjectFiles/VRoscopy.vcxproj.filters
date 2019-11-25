@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\VRoscopy.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{687E1ABF-CE7D-4770-995B-F394B2807DAD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\VRoscopy.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\VRoscopyEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\VRoscopy.png" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{CF3A2475-C790-4A97-9769-568FA97B6F02}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultScalability.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\VRoscopy">
+      <UniqueIdentifier>{5124C4A2-03CE-4826-B890-968D468F3B85}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\VRoscopy\DicomToMesh.cpp">
+      <Filter>Source\VRoscopy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VRoscopy\DicomToMesh.h">
+      <Filter>Source\VRoscopy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VRoscopy\MyWorldSettings.cpp">
+      <Filter>Source\VRoscopy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VRoscopy\MyWorldSettings.h">
+      <Filter>Source\VRoscopy</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\VRoscopy\VRoscopy.Build.cs">
+      <Filter>Source\VRoscopy</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\VRoscopy\VRoscopy.cpp">
+      <Filter>Source\VRoscopy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VRoscopy\VRoscopy.h">
+      <Filter>Source\VRoscopy</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
