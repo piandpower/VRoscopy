@@ -950,3 +950,115 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.01-14.52.59:231][766]LogFileHelpers: Auto-saving content packages took 0.383
 [2019.12.01-14.54.19:121][421]BlueprintLog: New page: Compile BP_MotionController
 [2019.12.01-14.54.19:761][421]LogUObjectHash: Compacting FUObjectHashTables data took   7.49ms
+[2019.12.01-15.02.59:740][471]LogUObjectHash: Compacting FUObjectHashTables data took   9.24ms
+[2019.12.01-15.02.59:740][471]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainLevel' took 0.113
+[2019.12.01-15.02.59:742][471]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_MotionController] ([1] browsable assets)...
+[2019.12.01-15.02.59:768][471]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController]
+[2019.12.01-15.02.59:768][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_MotionController]
+[2019.12.01-15.03.00:040][471]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/BP_MotionController_Auto41B046B9E48944EA4DA54A9A534B43C23.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_MotionController_Auto4.uasset'
+[2019.12.01-15.03.00:043][471]LogFileHelpers: Auto-saving content packages took 0.302
+[2019.12.01-15.06.48:313][146]LogHttp: Warning: 00000125F7BA4900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4B014B7D-41CD-67C8-82EC-CB8C0C6CD1E6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=364d500d4a7c49be2c5a77a2c8a9a195%7Cb45afa3f4c174d7cbc6deabba9b56a33%7C78f02ffb-5304-4661-a0e6-cdd3f9858eda&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.01-15.06.48:313][146]LogHttp: Warning: 00000125F7BA4900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.01-15.06.48:313][146]LogHttp: Warning: 00000125F7BA4900: libcurl info message cache 0 (Connection 41 seems to be dead!)
+[2019.12.01-15.06.48:313][146]LogHttp: Warning: 00000125F7BA4900: libcurl info message cache 1 (Closing connection 41)
+[2019.12.01-15.06.48:313][146]LogHttp: Warning: 00000125F7BA4900: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.12.01-15.06.48:313][146]LogHttp: Warning: 00000125F7BA4900: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.01-15.06.48:313][146]LogHttp: Warning: 00000125F7BA4900: libcurl info message cache 4 (Closing connection 42)
+[2019.12.01-15.06.48:313][146]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4B014B7D-41CD-67C8-82EC-CB8C0C6CD1E6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=364d500d4a7c49be2c5a77a2c8a9a195%7Cb45afa3f4c174d7cbc6deabba9b56a33%7C78f02ffb-5304-4661-a0e6-cdd3f9858eda&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.01-15.23.50:799][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-15.24.22:595][622]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.12.01-15.24.41:055][347]LogUObjectHash: Compacting FUObjectHashTables data took   6.54ms
+[2019.12.01-15.24.41:057][347]LogMetaData: Removing '/Game/VRInnerMotion/BP_VR_Inner_Motion.BP_VR_Inner_Motion:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/VRInnerMotion/NewBlueprint.PackageMetaData'
+[2019.12.01-15.24.41:057][347]LogMetaData: Removing '/Game/VRInnerMotion/BP_VR_Inner_Motion.SKEL_BP_VR_Inner_Motion_C' ref from Metadata '/Game/VRInnerMotion/NewBlueprint.PackageMetaData'
+[2019.12.01-15.24.41:057][347]LogMetaData: Removing '/Game/VRInnerMotion/BP_VR_Inner_Motion.BP_VR_Inner_Motion_C' ref from Metadata '/Game/VRInnerMotion/NewBlueprint.PackageMetaData'
+[2019.12.01-15.24.41:057][347]LogMetaData: Removing '/Game/VRInnerMotion/BP_VR_Inner_Motion.BP_VR_Inner_Motion:EventGraph.K2Node_Event_0' ref from Metadata '/Game/VRInnerMotion/NewBlueprint.PackageMetaData'
+[2019.12.01-15.24.41:057][347]LogMetaData: Removing '/Game/VRInnerMotion/BP_VR_Inner_Motion.BP_VR_Inner_Motion:EventGraph.K2Node_Event_1' ref from Metadata '/Game/VRInnerMotion/NewBlueprint.PackageMetaData'
+[2019.12.01-15.24.41:057][347]LogMetaData: Removing '/Game/VRInnerMotion/BP_VR_Inner_Motion.BP_VR_Inner_Motion:EventGraph.K2Node_Event_2' ref from Metadata '/Game/VRInnerMotion/NewBlueprint.PackageMetaData'
+[2019.12.01-15.24.41:137][347]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/BP_VR_Inner_Motion9B265BB74C2F37E8939730B37F467E61.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VRInnerMotion/BP_VR_Inner_Motion.uasset'
+[2019.12.01-15.24.41:476][347]LogUObjectHash: Compacting FUObjectHashTables data took   6.71ms
+[2019.12.01-15.24.41:540][347]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2019.12.01-15.24.41:587][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2019.12.01-15.25.07:266][471]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2019.12.01-15.25.07:728][471]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/MainLevel_Auto534A6CF4C42AFAC36268EC781E1F0329C.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Autosaves/Game/MainLevel_Auto5.umap'
+[2019.12.01-15.25.07:737][471]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainLevel' took 0.566
+[2019.12.01-15.25.07:737][471]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.566
+[2019.12.01-15.25.07:742][471]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_MotionController] ([1] browsable assets)...
+[2019.12.01-15.25.07:770][471]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController]
+[2019.12.01-15.25.07:770][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_MotionController]
+[2019.12.01-15.25.08:050][471]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/BP_MotionController_Auto57F6DBA404D5F982F2B5BEDB510F7FAEE.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_MotionController_Auto5.uasset'
+[2019.12.01-15.25.08:053][471]LogFileHelpers: Auto-saving content packages took 0.313
+[2019.12.01-15.25.48:456][665]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VRInnerMotion/BP_VR_Inner_Motion.BP_VR_Inner_Motion
+[2019.12.01-15.26.33:248][557]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.12.01-15.26.33:411][558]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 89
+[2019.12.01-15.26.33:411][558]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 79
+[2019.12.01-15.26.33:411][558]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 69
+[2019.12.01-15.26.48:484][964]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.01-15.27.01:925][239]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 59
+[2019.12.01-15.27.04:330][258]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.01-15.27.18:379][618]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 49
+[2019.12.01-15.27.35:847][213]BlueprintLog: New page: Compile BP_VR_Inner_Motion
+[2019.12.01-15.27.36:726][213]LogUObjectHash: Compacting FUObjectHashTables data took  13.70ms
+[2019.12.01-15.27.42:649][236]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2019.12.01-15.27.42:879][238]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2019.12.01-15.27.58:927][555]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2019.12.01-15.28.17:611][133]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2019.12.01-15.28.20:541][144]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2019.12.01-15.28.24:393][160]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.01-15.28.46:910][957]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2019.12.01-15.28.47:590][960]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2019.12.01-15.28.49:108][973]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2019.12.01-15.29.26:614][662]BlueprintLog: New page: Compile BP_VR_Inner_Motion
+[2019.12.01-15.29.26:996][662]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
+[2019.12.01-15.32.32:048][ 67]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.01-15.33.08:678][188]BlueprintLog: New page: Compile BP_VR_Inner_Motion
+[2019.12.01-15.33.09:077][188]LogUObjectHash: Compacting FUObjectHashTables data took   7.23ms
+[2019.12.01-15.34.51:311][459]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.01-15.35.37:622][524]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.01-15.35.40:622][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-15.36.15:707][307]LogUObjectHash: Compacting FUObjectHashTables data took   6.04ms
+[2019.12.01-15.36.15:707][307]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainLevel' took 0.087
+[2019.12.01-15.36.15:710][307]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VRInnerMotion/BP_VR_Inner_Motion] ([1] browsable assets)...
+[2019.12.01-15.36.15:734][307]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRInnerMotion/BP_VR_Inner_Motion.BP_VR_Inner_Motion]
+[2019.12.01-15.36.15:734][307]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRInnerMotion/BP_VR_Inner_Motion]
+[2019.12.01-15.36.15:773][307]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/BP_VR_Inner_Motion_Auto681ECF3224ACF94772F62F5806B3E72FC.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Autosaves/Game/VRInnerMotion/BP_VR_Inner_Motion_Auto6.uasset'
+[2019.12.01-15.36.15:776][307]LogFileHelpers: Auto-saving content packages took 0.068
+[2019.12.01-15.36.54:596][424]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.01-15.36.56:121][481]BlueprintLog: New page: Compile BP_VR_Inner_Motion
+[2019.12.01-15.36.56:509][481]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2019.12.01-15.36.57:058][497]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/BP_VR_Inner_Motion1BCF107E4FA504AA37FCDA828F78EC94.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VRInnerMotion/BP_VR_Inner_Motion.uasset'
+[2019.12.01-15.37.24:443][ 50]BlueprintLog: New page: Compile BP_VR_Inner_Motion
+[2019.12.01-15.37.24:826][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2019.12.01-15.37.25:347][ 65]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/BP_VR_Inner_Motion37625EBB43141FB9DB21EAB5DC871F06.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VRInnerMotion/BP_VR_Inner_Motion.uasset'
+[2019.12.01-15.37.48:993][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-15.38.01:004][954]LogEditorTransaction: Undo Modify Component(s)
+[2019.12.01-15.38.02:386][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-15.38.11:589][465]LogEditorTransaction: Undo Modify Component(s)
+[2019.12.01-15.38.15:639][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-15.38.48:803][630]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.01-15.38.52:626][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-15.39.00:239][174]LogEditorTransaction: Undo Modify Component(s)
+[2019.12.01-15.39.06:001][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-15.39.14:577][899]LogEditorTransaction: Undo Modify Component(s)
+[2019.12.01-15.39.18:428][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-15.39.21:359][229]LogEditorTransaction: Undo Modify Component(s)
+[2019.12.01-15.39.21:819][246]LogEditorTransaction: Undo Modify Component(s)
+[2019.12.01-15.39.31:625][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-15.39.31:706][740]BlueprintLog: New page: Compile BP_VR_Inner_Motion
+[2019.12.01-15.39.32:183][740]LogUObjectHash: Compacting FUObjectHashTables data took   6.34ms
+[2019.12.01-15.39.32:421][741]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/BP_VR_Inner_Motion41EB4E54452A59B95DAFEB955E8EE333.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VRInnerMotion/BP_VR_Inner_Motion.uasset'
+[2019.12.01-15.39.45:130][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-15.40.05:781][786]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.01-15.40.07:061][845]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2019.12.01-15.40.07:504][845]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/MainLevelBB0DB7784CC77A1BBFF83A9F434D35EA.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/MainLevel.umap'
+[2019.12.01-15.40.07:829][845]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/MainLevel_BuiltData8ABDC3C1421C2FAF928A6B866938DC8A.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/MainLevel_BuiltData.uasset'
+[2019.12.01-15.40.08:376][863]LogUObjectHash: Compacting FUObjectHashTables data took   7.07ms
+[2019.12.01-15.40.09:907][863]LogSlate: Window 'Save Content' being destroyed
+[2019.12.01-15.40.10:004][863]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/T_Brick_Clay_New_MatB04024AB4561525C56ED7D9A35A75836.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/StarterContent/Textures/T_Brick_Clay_New_Mat.uasset'
+[2019.12.01-15.40.10:049][863]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/T_Brick_Clay_Old_MatCD931F2D42C8B77C74D1A1BCBB6805BC.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/StarterContent/Textures/T_Brick_Clay_Old_Mat.uasset'
+[2019.12.01-15.40.10:107][863]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/T_Brick_Cut_Stone_MatAACFEE0F4089F3FC88DB73996C1C50FE.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/StarterContent/Textures/T_Brick_Cut_Stone_Mat.uasset'
+[2019.12.01-15.40.10:159][863]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/T_CobbleStone_Pebble_M_MatF5968F2841B71B6EC29F39A75A7337EA.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/StarterContent/Textures/T_CobbleStone_Pebble_M_Mat.uasset'
+[2019.12.01-15.40.10:208][863]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/T_CobbleStone_Pebble_MatFDD47FB04FC985D993EB74B72094D7FB.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/StarterContent/Textures/T_CobbleStone_Pebble_Mat.uasset'
+[2019.12.01-15.40.10:254][863]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/T_Concrete_Grime_Mat177B2B2445C9B4709A9E0B966E1C2DF5.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/StarterContent/Textures/T_Concrete_Grime_Mat.uasset'
+[2019.12.01-15.40.10:309][863]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/T_Wood_Floor_Walnut_MatC3D1A7BE40FC4B9FDF1979883E1A04E2.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/StarterContent/Textures/T_Wood_Floor_Walnut_Mat.uasset'
+[2019.12.01-15.40.10:355][863]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/T_Wood_Oak_MatDEAB786F4C99F754CA3565A2DC3BCF82.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/StarterContent/Textures/T_Wood_Oak_Mat.uasset'
+[2019.12.01-15.40.10:607][863]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/BP_MotionController97EEB07C4840BBFDDEB056886ED22BFC.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
