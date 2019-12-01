@@ -1,0 +1,1064 @@
+﻿Log file open, 12/01/19 15:14:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: VRoscopy
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.105301
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 520
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=Danrol92 -epicuserid=b45afa3f4c174d7cbc6deabba9b56a33 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.01-13.14.26:617][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.01-13.14.26:617][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.01-13.14.26:617][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Config/Windows/Engine.ini]
+[2019.12.01-13.14.26:617][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.01-13.14.26:617][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.12.01-13.14.26:617][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.12.01-13.14.26:617][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.12.01-13.14.26:617][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.12.01-13.14.26:617][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.12.01-13.14.26:617][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.12.01-13.14.26:617][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.12.01-13.14.26:617][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Config/Windows/Engine.ini]
+[2019.12.01-13.14.26:617][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Config/Windows/Engine.ini]
+[2019.12.01-13.14.26:617][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.01-13.14.26:617][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.01-13.14.26:617][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.01-13.14.26:618][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.01-13.14.26:618][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.01-13.14.26:618][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.01-13.14.26:618][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.01-13.14.26:618][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.01-13.14.26:618][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.01-13.14.26:618][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.01-13.14.26:618][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.01-13.14.26:618][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.01-13.14.26:618][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.01-13.14.26:618][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Config/Windows/Engine.ini]
+[2019.12.01-13.14.26:618][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.01-13.14.26:618][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.01-13.14.26:618][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.01-13.14.26:618][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.01-13.14.26:618][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.01-13.14.26:618][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.01-13.14.26:618][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.01-13.14.26:618][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.01-13.14.26:618][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.01-13.14.26:618][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.01-13.14.26:618][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.01-13.14.26:618][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.01-13.14.26:618][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.01-13.14.26:618][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Config/Windows/Engine.ini]
+[2019.12.01-13.14.26:618][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Config/Windows/Engine.ini]
+[2019.12.01-13.14.26:621][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Config/Windows/Scalability.ini]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Config/Windows/Scalability.ini]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Config/Windows/Scalability.ini]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Config/Windows/Scalability.ini]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.01-13.14.26:621][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.01-13.14.26:622][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.01-13.14.26:622][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.01-13.14.26:622][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.01-13.14.26:622][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.01-13.14.26:622][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.01-13.14.26:622][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.01-13.14.26:622][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.01-13.14.26:622][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.01-13.14.26:622][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.01-13.14.26:622][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.01-13.14.26:622][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Config/Windows/Scalability.ini]
+[2019.12.01-13.14.26:622][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.01-13.14.26:622][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.01-13.14.26:622][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.01-13.14.26:622][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.01-13.14.26:622][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.01-13.14.26:622][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.01-13.14.26:622][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.01-13.14.26:622][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.01-13.14.26:622][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Config/Windows/Scalability.ini]
+[2019.12.01-13.14.26:622][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.12.01-13.14.26:622][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.01-13.14.26:622][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.12.01-13.14.26:622][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.12.01-13.14.26:622][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.01-13.14.26:622][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.12.01-13.14.26:622][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.01-13.14.26:622][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.01-13.14.26:622][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.01-13.14.26:622][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.01-13.14.26:622][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.01-13.14.26:622][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.01-13.14.26:622][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.01-13.14.26:622][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Config/Windows/Scalability.ini]
+[2019.12.01-13.14.26:622][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.01-13.14.26:622][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.01-13.14.26:622][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.01-13.14.26:622][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.01-13.14.26:626][  0]LogHAL: Display: Platform has ~ 24 GB [25627287552 / 34359738368 / 24], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.01-13.14.26:626][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.01-13.14.26:626][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Config/Windows/Scalability.ini]
+[2019.12.01-13.14.26:626][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.01-13.14.26:626][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.01-13.14.26:626][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Config/Windows/Scalability.ini]
+[2019.12.01-13.14.26:626][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.12.01-13.14.26:626][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Config/Windows/Scalability.ini]
+[2019.12.01-13.14.26:626][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.01-13.14.26:626][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.01-13.14.26:626][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.01-13.14.26:626][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.01-13.14.26:626][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.01-13.14.26:626][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.01-13.14.26:626][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.01-13.14.26:626][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.01-13.14.26:626][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.01-13.14.26:626][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.01-13.14.26:626][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.01-13.14.26:626][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.01-13.14.26:626][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.01-13.14.26:626][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.01-13.14.26:626][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.01-13.14.26:626][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.01-13.14.26:626][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.01-13.14.26:626][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.01-13.14.26:626][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Config/Windows/Scalability.ini]
+[2019.12.01-13.14.26:626][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.12.01-13.14.26:626][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Config/Windows/Scalability.ini]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Config/Windows/Scalability.ini]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Config/Windows/Scalability.ini]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.01-13.14.26:627][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.01-13.14.26:628][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.01-13.14.26:628][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.01-13.14.26:628][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Config/Windows/Engine.ini]
+[2019.12.01-13.14.26:628][  0]LogInit: Computer: DANLAPTOP
+[2019.12.01-13.14.26:628][  0]LogInit: User: DAN
+[2019.12.01-13.14.26:628][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.12.01-13.14.26:628][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.01-13.14.26:628][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2019.12.01-13.14.26:628][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.01-13.14.26:628][  0]LogMemory: Process Physical Memory: 103.08 MB used, 103.09 MB peak
+[2019.12.01-13.14.26:628][  0]LogMemory: Process Virtual Memory: 88.13 MB used, 88.13 MB peak
+[2019.12.01-13.14.26:628][  0]LogMemory: Physical Memory: 11215.57 MB used,  13224.51 MB free, 24440.09 MB total
+[2019.12.01-13.14.26:628][  0]LogMemory: Virtual Memory: 4639.99 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.12.01-13.14.26:636][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.01-13.14.26:669][  0]LogInit: Using OS detected language (en-US).
+[2019.12.01-13.14.26:669][  0]LogInit: Using OS detected locale (en-US).
+[2019.12.01-13.14.26:670][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.01-13.14.26:890][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.01-13.14.26:941][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.01-13.14.26:941][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.01-13.14.27:207][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.01-13.14.27:207][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.01-13.14.27:293][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2019.12.01-13.14.27:293][  0]LogD3D11RHI:       2010/0/12220 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.12.01-13.14.27:302][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2019.12.01-13.14.27:302][  0]LogD3D11RHI:       128/0/12220 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.12.01-13.14.27:306][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.01-13.14.27:306][  0]LogD3D11RHI:       0/0/12220 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.01-13.14.27:306][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.01-13.14.27:360][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.01-13.14.27:360][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2019.12.01-13.14.27:360][  0]LogWindows: EnumDisplayDevices:
+[2019.12.01-13.14.27:361][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2019.12.01-13.14.27:361][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2019.12.01-13.14.27:361][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2019.12.01-13.14.27:362][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.12.01-13.14.27:362][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2019.12.01-13.14.27:362][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.12.01-13.14.27:362][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.12.01-13.14.27:362][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2019.12.01-13.14.27:418][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.01-13.14.27:448][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.12.01-13.14.27:918][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.01-13.14.27:931][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.01-13.14.27:944][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.01-13.14.27:956][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.01-13.14.27:978][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.01-13.14.27:992][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.01-13.14.28:005][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.01-13.14.28:021][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.01-13.14.28:027][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.01-13.14.28:085][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.01-13.14.28:085][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.01-13.14.28:085][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.01-13.14.28:085][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.01-13.14.28:085][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.01-13.14.28:085][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.01-13.14.28:085][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.01-13.14.28:085][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.01-13.14.28:085][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.01-13.14.28:085][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.01-13.14.28:085][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.01-13.14.28:085][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.01-13.14.28:085][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.01-13.14.28:085][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.01-13.14.28:085][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.01-13.14.28:085][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.01-13.14.28:085][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.01-13.14.28:085][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.01-13.14.28:088][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.01-13.14.28:118][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.01-13.14.28:118][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.01-13.14.28:138][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.01-13.14.28:138][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.01-13.14.28:149][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.01-13.14.28:158][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.01-13.14.28:166][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.01-13.14.28:176][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.01-13.14.28:206][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.01-13.14.28:206][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.01-13.14.28:206][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.01-13.14.28:218][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.01-13.14.28:287][  0]LogShaderCompilers: Guid format shader working directory is -56 characters bigger than the processId version (../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Intermediate/Shaders/WorkingDirectory/17868/).
+[2019.12.01-13.14.28:287][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/DAN/AppData/Local/Temp/UnrealShaderWorkingDir/52A5D5A543CD8803BA0939A259D0AFAD/'.
+[2019.12.01-13.14.28:290][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.01-13.14.28:290][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.01-13.14.28:290][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.01-13.14.29:045][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.01-13.14.29:121][  0]LogDerivedDataCache: Loaded boot cache 0.08s 90MB C:/Users/DAN/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.01-13.14.29:121][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/DAN/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.01-13.14.29:121][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.01-13.14.29:121][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.01-13.14.29:121][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.01-13.14.29:121][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.01-13.14.29:135][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.01-13.14.29:135][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.01-13.14.29:135][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.01-13.14.29:137][  0]LogDerivedDataCache: Using Local data cache path C:/Users/DAN/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.01-13.14.29:137][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.01-13.14.29:137][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.01-13.14.29:181][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.01-13.14.29:186][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.01-13.14.29:187][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.01-13.14.29:260][  0]LogAssetRegistry: FAssetRegistry took 0.0031 seconds to start up
+[2019.12.01-13.14.29:610][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.01-13.14.29:796][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.01-13.14.29:796][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.01-13.14.29:796][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.01-13.14.29:796][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.01-13.14.29:796][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.01-13.14.29:809][  0]LogNetVersion: VRoscopy 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 931555030)
+[2019.12.01-13.14.30:381][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.061935 seconds
+[2019.12.01-13.14.30:389][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.01-13.14.30:390][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.01-13.14.30:390][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.01-13.14.31:507][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.01-13.14.31:515][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.01-13.14.31:600][  0]SourceControl: Source control is disabled
+[2019.12.01-13.14.31:600][  0]SourceControl: Source control is disabled
+[2019.12.01-13.14.31:602][  0]SourceControl: Source control is disabled
+[2019.12.01-13.14.31:603][  0]SourceControl: Source control is disabled
+[2019.12.01-13.14.31:727][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.01-13.14.31:918][  0]LogOcInput: OculusInput pre-init called
+[2019.12.01-13.14.31:929][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.01-13.14.31:929][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.01-13.14.32:014][  0]LogEngine: Initializing Engine...
+[2019.12.01-13.14.32:015][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.01-13.14.32:016][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.01-13.14.32:331][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.01-13.14.32:354][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.01-13.14.32:398][  0]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.01-13.14.32:741][  0]LogInit: FAudioDevice initialized.
+[2019.12.01-13.14.32:742][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.01-13.14.32:849][  0]LogDerivedDataCache: Saved boot cache 0.11s 90MB C:/Users/DAN/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.01-13.14.32:861][  0]LogInit: Texture streaming: Enabled
+[2019.12.01-13.14.32:886][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.01-13.14.32:981][  0]LogInit: Transaction tracking system initialized
+[2019.12.01-13.14.33:028][  0]BlueprintLog: New page: Editor Load
+[2019.12.01-13.14.33:143][  0]LocalizationService: Localization service is disabled
+[2019.12.01-13.14.33:736][  0]LogFileCache: Scanning file cache for directory 'C:/integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/' took 0.02s
+[2019.12.01-13.14.33:736][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.01-13.14.33:736][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.01-13.14.34:079][  0]SourceControl: Source control is disabled
+[2019.12.01-13.14.34:094][  0]LightingResults: New page: Lighting Build
+[2019.12.01-13.14.34:098][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.01-13.14.34:098][  0]MapCheck: New page: Map Check
+[2019.12.01-13.14.34:098][  0]LightingResults: New page: Lighting Build
+[2019.12.01-13.14.34:131][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.12.01-13.14.34:636][  0]LogAIModule: Creating AISystem for world StartupMap
+[2019.12.01-13.14.34:646][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.01-13.14.34:676][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.12.01-13.14.34:676][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.01-13.14.34:676][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.188ms to complete.
+[2019.12.01-13.14.34:676][  0]LogFileHelpers: Loading map 'StartupMap' took 0.597
+[2019.12.01-13.14.34:866][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.01-13.14.34:875][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.01-13.14.34:884][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.01-13.14.34:893][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.01-13.14.34:912][  0]LogCollectionManager: Loaded 0 collections in 0.002279 seconds
+[2019.12.01-13.14.34:943][  0]LogFileCache: Scanning file cache for directory 'C:/integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Collections/' took 0.00s
+[2019.12.01-13.14.34:943][  0]LogFileCache: Scanning file cache for directory 'C:/integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/Developers/DAN/Collections/' took 0.00s
+[2019.12.01-13.14.34:943][  0]LogFileCache: Scanning file cache for directory 'C:/integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/Collections/' took 0.00s
+[2019.12.01-13.14.34:943][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.12.01-13.14.34:960][  0]LogContentBrowser: Native class hierarchy populated in 0.0141 seconds. Added 2864 classes and 682 folders.
+[2019.12.01-13.14.34:981][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.01-13.14.35:495][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.12.01-13.14.35:514][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.12.01-13.14.35:591][  0]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.01-13.14.35:596][  0]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.01-13.14.35:612][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.12.01-13.14.35:612][  0]LogLoad: (Engine Initialization) Total time: 10.52 seconds
+[2019.12.01-13.14.35:612][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.01-13.14.35:676][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.01-13.14.35:691][  0]LogSlate: Took 0.008746 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.01-13.14.36:004][  0]LogSlate: Took 0.010271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.01-13.14.36:028][  1]LogRenderer: Reallocating scene render targets to support 800x380 Format 26 NumSamples 1 (Frame:1).
+[2019.12.01-13.14.37:138][  5]LogAssetRegistry: Asset discovery search completed in 7.8795 seconds
+[2019.12.01-13.14.37:144][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000006 seconds (found 0 objects)
+[2019.12.01-13.14.37:144][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000084 seconds (updated 0 objects)
+[2019.12.01-13.14.40:906][ 22]LogEditorViewport: Clicking Background
+[2019.12.01-13.31.46:591][610]LogRenderer: Reallocating scene render targets to support 964x460 Format 26 NumSamples 1 (Frame:643).
+[2019.12.01-13.32.01:976][140]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-13.32.02:000][143]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.01-13.32.02:022][143]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2019.12.01-13.32.02:024][143]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.01-13.32.02:031][143]PIE: New page: PIE session: StartupMap (Dec 1, 2019, 5:32:02 PM)
+[2019.12.01-13.32.02:033][143]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.01-13.32.02:036][143]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2019.12.01-13.32.02:052][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015300s)
+[2019.12.01-13.32.02:054][143]LogAIModule: Creating AISystem for world StartupMap
+[2019.12.01-13.32.02:055][143]LogPlayLevel: PIE: World Init took: (0.003146s)
+[2019.12.01-13.32.02:055][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.018834s)
+[2019.12.01-13.32.02:078][143]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.12.01-13.32.02:106][143]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.01-13.32.02:255][143]LogInit: FAudioDevice initialized.
+[2019.12.01-13.32.02:273][143]LogLoad: Game class is 'GameModeBase'
+[2019.12.01-13.32.02:287][143]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2019.12.01-15.32.02
+[2019.12.01-13.32.02:291][143]LogWorld: Bringing up level for play took: 0.006174
+[2019.12.01-13.32.02:292][143]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2019.12.01-13.32.02:327][143]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 20 classes and 0 folders.
+[2019.12.01-13.32.02:336][143]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap -0.63
+[2019.12.01-13.32.02:337][143]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2019.12.01-13.32.05:665][470]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2019.12.01-13.32.05:666][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.01-13.32.05:666][470]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2019.12.01-13.32.05:666][470]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.01-13.32.05:678][470]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.01-13.32.05:679][470]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2019.12.01-13.32.05:710][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.01-13.32.05:714][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.12.01-13.32.05:759][473]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.12.01-13.32.33:533][595]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.01-13.35.17:574][524]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.12.01-13.51.44:121][926]LogEditorViewport: Clicking Background
+[2019.12.01-13.54.26:149][885]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-13.54.34:662][755]LogLinker: Warning: While loading '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VirtualRealityBP/Maps/HMDLocomotionMap.umap' failed to load '/Game/VirtualRealityBP/Maps/HMDLocomotionMap_BuiltData': Can't find file.
+[2019.12.01-13.54.34:662][755]LogLinker: Warning: While loading '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VirtualRealityBP/Maps/HMDLocomotionMap.umap' failed to load '/Game/VirtualRealityBP/Maps/HMDLocomotionMap_BuiltData': Can't find file.
+[2019.12.01-13.54.34:679][755]LogLinker: Warning: While loading '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VirtualRealityBP/Maps/HMDLocomotionMap.umap' failed to load '/Game/VirtualRealityBP/Maps/HMDLocomotionMap_BuiltData': Can't find file.
+[2019.12.01-13.54.34:680][755]LogLinker: Warning: While loading '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VirtualRealityBP/Maps/HMDLocomotionMap.umap' failed to load '/Game/VirtualRealityBP/Maps/HMDLocomotionMap_BuiltData': Can't find file.
+[2019.12.01-13.54.34:680][755]LogLinker: Warning: Failed to load '/Game/VirtualRealityBP/Maps/HMDLocomotionMap_BuiltData': Can't find file.
+[2019.12.01-13.54.34:680][755]LogLinker: Warning: Failed to load '/Game/VirtualRealityBP/Maps/HMDLocomotionMap_BuiltData': Can't find file.
+[2019.12.01-13.54.34:681][755]LogLinker: Warning: Failed to load '/Game/VirtualRealityBP/Maps/HMDLocomotionMap_BuiltData': Can't find file.
+[2019.12.01-13.54.34:681][755]LogLinker: Warning: Failed to load '/Game/VirtualRealityBP/Maps/HMDLocomotionMap_BuiltData': Can't find file.
+[2019.12.01-13.54.34:692][755]LogLinker: Warning: While loading '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VirtualRealityBP/Maps/HMDLocomotionMap.umap' failed to load '/Game/VirtualRealityBP/Maps/HMDLocomotionMap_BuiltData': Can't find file.
+[2019.12.01-13.54.34:693][755]LoadErrors: Failed to load /Game/VirtualRealityBP/Maps/HMDLocomotionMap_BuiltData.HMDLocomotionMap_BuiltData Referenced by PersistentLevel
+[2019.12.01-13.54.34:693][755]LogLinker: Warning: While loading '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VirtualRealityBP/Maps/HMDLocomotionMap.umap' failed to load '/Game/VirtualRealityBP/Maps/HMDLocomotionMap_BuiltData': Can't find file.
+[2019.12.01-13.54.34:710][755]LogMaterial: Display: Missing cached shader map for material M_Sky_Panning_Clouds2, compiling. 
+[2019.12.01-13.54.34:739][755]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2019.12.01-13.54.34:739][755]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2019.12.01-13.54.34:739][755]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2019.12.01-13.54.34:760][755]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.12.01-13.54.34:906][755]LogAIModule: Creating AISystem for world HMDLocomotionMap
+[2019.12.01-13.54.34:928][755]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap
+[2019.12.01-13.54.34:978][755]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2019.12.01-13.54.34:981][755]LightingResults: New page: Lighting Build
+[2019.12.01-13.54.34:981][755]LoadErrors: New page: Loading map: HMDLocomotionMap.umap
+[2019.12.01-13.54.34:982][755]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.01-13.54.34:983][755]MapCheck: New page: Map Check
+[2019.12.01-13.54.34:983][755]LightingResults: New page: Lighting Build
+[2019.12.01-13.54.35:021][755]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2019.12.01-13.54.35:037][755]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.01-13.54.35:080][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2019.12.01-13.54.35:141][755]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.01-13.54.35:143][755]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.16ms to complete.
+[2019.12.01-13.54.35:143][755]LogFileHelpers: Loading map 'HMDLocomotionMap' took 0.164
+[2019.12.01-13.54.37:310][878]LogLinker: Warning: While loading '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/VirtualRealityBP/Maps/MotionControllerMap_BuiltData': Can't find file.
+[2019.12.01-13.54.37:311][878]LogLinker: Warning: While loading '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/VirtualRealityBP/Maps/MotionControllerMap_BuiltData': Can't find file.
+[2019.12.01-13.54.37:315][878]LogLinker: Warning: While loading '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/VirtualRealityBP/Maps/MotionControllerMap_BuiltData': Can't find file.
+[2019.12.01-13.54.37:315][878]LogLinker: Warning: While loading '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/VirtualRealityBP/Maps/MotionControllerMap_BuiltData': Can't find file.
+[2019.12.01-13.54.37:316][878]LogLinker: Warning: Failed to load '/Game/VirtualRealityBP/Maps/MotionControllerMap_BuiltData': Can't find file.
+[2019.12.01-13.54.37:316][878]LogLinker: Warning: Failed to load '/Game/VirtualRealityBP/Maps/MotionControllerMap_BuiltData': Can't find file.
+[2019.12.01-13.54.37:316][878]LogLinker: Warning: Failed to load '/Game/VirtualRealityBP/Maps/MotionControllerMap_BuiltData': Can't find file.
+[2019.12.01-13.54.37:317][878]LogLinker: Warning: Failed to load '/Game/VirtualRealityBP/Maps/MotionControllerMap_BuiltData': Can't find file.
+[2019.12.01-13.54.37:333][878]LogLinker: Warning: While loading '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/VirtualRealityBP/Maps/MotionControllerMap_BuiltData': Can't find file.
+[2019.12.01-13.54.37:333][878]LoadErrors: Failed to load /Game/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.MotionControllerMap_BuiltData Referenced by PersistentLevel
+[2019.12.01-13.54.37:333][878]LogLinker: Warning: While loading '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/VirtualRealityBP/Maps/MotionControllerMap_BuiltData': Can't find file.
+[2019.12.01-13.54.37:357][878]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualReality/Mannequin/Animations/MannequinHand_Right_Open.MannequinHand_Right_Open
+[2019.12.01-13.54.37:359][878]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualReality/Mannequin/Animations/MannequinHand_Right_Open.MannequinHand_Right_Open) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.01-13.54.37:373][878]LogStaticMesh: Building static mesh BeamMesh...
+[2019.12.01-13.54.37:390][878]LogStaticMesh: Built static mesh [0.02s] /Game/VirtualReality/Meshes/BeamMesh.BeamMesh
+[2019.12.01-13.54.37:393][878]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualReality/Mannequin/Animations/MannequinHand_Right_Grab.MannequinHand_Right_Grab
+[2019.12.01-13.54.37:393][878]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualReality/Mannequin/Animations/MannequinHand_Right_Grab.MannequinHand_Right_Grab) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.01-13.54.37:394][878]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab.MannequinHand_Right_CanGrab
+[2019.12.01-13.54.37:394][878]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab.MannequinHand_Right_CanGrab) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.01-13.54.37:401][878]LogMaterial: Display: Missing cached shader map for material M_SplineArcMat, compiling. 
+[2019.12.01-13.54.37:464][878]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.12.01-13.54.37:476][878]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap
+[2019.12.01-13.54.37:523][878]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2019.12.01-13.54.37:524][878]LightingResults: New page: Lighting Build
+[2019.12.01-13.54.37:525][878]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2019.12.01-13.54.37:526][878]LogWorld: UWorld::CleanupWorld for HMDLocomotionMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.01-13.54.37:527][878]MapCheck: New page: Map Check
+[2019.12.01-13.54.37:527][878]LightingResults: New page: Lighting Build
+[2019.12.01-13.54.37:581][878]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2019.12.01-13.54.37:593][878]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.01-13.54.37:662][878]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2019.12.01-13.54.37:715][878]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.01-13.54.37:717][878]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.452ms to complete.
+[2019.12.01-13.54.37:717][878]LogFileHelpers: Loading map 'MotionControllerMap' took 0.194
+[2019.12.01-13.54.37:945][884]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 68
+[2019.12.01-13.54.38:706][938]LogAIModule: Creating AISystem for world StartupMap
+[2019.12.01-13.54.38:715][938]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/StartupMap.StartupMap
+[2019.12.01-13.54.38:755][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.12.01-13.54.38:756][938]LightingResults: New page: Lighting Build
+[2019.12.01-13.54.38:757][938]LoadErrors: New page: Loading map: StartupMap.umap
+[2019.12.01-13.54.38:758][938]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.01-13.54.38:760][938]MapCheck: New page: Map Check
+[2019.12.01-13.54.38:760][938]LightingResults: New page: Lighting Build
+[2019.12.01-13.54.38:804][938]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2019.12.01-13.54.38:809][938]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.01-13.54.38:851][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2019.12.01-13.54.38:909][938]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.01-13.54.38:909][938]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.177ms to complete.
+[2019.12.01-13.54.38:909][938]LogFileHelpers: Loading map 'StartupMap' took 0.154
+[2019.12.01-13.54.41:685][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-13.54.45:744][428]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 58
+[2019.12.01-13.54.48:900][464]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 48
+[2019.12.01-13.54.58:808][604]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 38
+[2019.12.01-13.55.15:823][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2019.12.01-13.55.18:041][811]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2019.12.01-13.55.18:041][811]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2019.12.01-13.55.21:032][882]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2019.12.01-13.55.21:996][900]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2019.12.01-13.55.26:648][970]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2019.12.01-13.55.26:775][973]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2019.12.01-14.02.05:931][ 71]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2019.12.01-14.02.06:625][ 71]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 121 classes and 0 folders.
+[2019.12.01-14.02.07:979][ 71]LogMaterial: Display: Missing cached shader map for material GridMaterial, compiling. 
+[2019.12.01-14.02.08:009][ 71]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2019.12.01-14.02.08:009][ 71]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2019.12.01-14.02.08:009][ 71]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2019.12.01-14.02.08:078][ 71]LogMaterial: Display: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2019.12.01-14.02.08:386][ 71]LogSlate: Took 0.008964 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.01-14.02.08:869][ 72]LogSlate: Took 0.011008 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.01-14.02.12:570][208]LogSlate: Window 'BP_MotionController' being destroyed
+[2019.12.01-14.02.12:595][208]LogSlate: Window 'BP_MotionController' being destroyed
+[2019.12.01-14.02.12:654][208]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.12.01-14.02.28:054][228]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/PickupActorInterface.PickupActorInterface
+[2019.12.01-14.02.31:807][421]LogSlate: Window 'PickupActorInterface' being destroyed
+[2019.12.01-14.02.31:834][421]LogSlate: Window 'PickupActorInterface' being destroyed
+[2019.12.01-14.02.31:883][421]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.12.01-14.02.46:338][908]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2019.12.01-14.02.50:600][988]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2019.12.01-14.02.57:182][ 68]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2019.12.01-14.03.00:320][121]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2019.12.01-14.03.05:816][243]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2019.12.01-14.03.08:209][284]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2019.12.01-14.03.11:711][377]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2019.12.01-14.05.38:599][433]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2019.12.01-14.05.38:602][433]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/Widgets/MainMenuWidget.SKEL_MainMenuWidget_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/Widgets/main.PackageMetaData'
+[2019.12.01-14.05.38:602][433]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/Widgets/MainMenuWidget.MainMenuWidget_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/Widgets/main.PackageMetaData'
+[2019.12.01-14.05.38:602][433]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/Widgets/MainMenuWidget.MainMenuWidget:EventGraph.K2Node_Event_0' ref from Metadata '/Game/VirtualRealityBP/Blueprints/Widgets/main.PackageMetaData'
+[2019.12.01-14.05.38:602][433]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/Widgets/MainMenuWidget.MainMenuWidget:EventGraph.K2Node_Event_1' ref from Metadata '/Game/VirtualRealityBP/Blueprints/Widgets/main.PackageMetaData'
+[2019.12.01-14.05.38:602][433]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/Widgets/MainMenuWidget.MainMenuWidget:EventGraph.K2Node_Event_2' ref from Metadata '/Game/VirtualRealityBP/Blueprints/Widgets/main.PackageMetaData'
+[2019.12.01-14.05.38:697][433]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/MainMenuWidget825F176A4BAED8BDBB2D85A9F6EEDAF9.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VirtualRealityBP/Blueprints/Widgets/MainMenuWidget.uasset'
+[2019.12.01-14.05.38:949][433]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.12.01-14.05.38:994][433]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.12.01-14.05.39:023][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.12.01-14.05.41:225][554]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/VirtualRealityBP/Blueprints/Widgets/MainMenuWidget.MainMenuWidget
+[2019.12.01-14.07.40:468][454]LogUObjectHash: Compacting FUObjectHashTables data took   8.07ms
+[2019.12.01-14.07.40:468][454]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/StartupMap' took 0.108
+[2019.12.01-14.07.40:472][454]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Widgets/MainMenuWidget] ([1] browsable assets)...
+[2019.12.01-14.07.40:473][454]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Widgets/MainMenuWidget]
+[2019.12.01-14.07.40:515][454]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/MainMenuWidget_Auto19E79BAC240EE0D36D8F6D28DA8D4AC18.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Widgets/MainMenuWidget_Auto1.uasset'
+[2019.12.01-14.07.40:516][454]LogFileHelpers: Auto-saving content packages took 0.046
+[2019.12.01-14.10.05:884][896]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/Widgets/MainMenu/MainMenuWidget.MainMenuWidget_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/Widgets/MainMenuWidget.PackageMetaData'
+[2019.12.01-14.10.05:884][896]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/Widgets/MainMenu/MainMenuWidget.SKEL_MainMenuWidget_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/Widgets/MainMenuWidget.PackageMetaData'
+[2019.12.01-14.10.05:884][896]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/Widgets/MainMenu/MainMenuWidget.MainMenuWidget:EventGraph.K2Node_Event_0' ref from Metadata '/Game/VirtualRealityBP/Blueprints/Widgets/MainMenuWidget.PackageMetaData'
+[2019.12.01-14.10.05:884][896]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/Widgets/MainMenu/MainMenuWidget.MainMenuWidget:EventGraph.K2Node_Event_1' ref from Metadata '/Game/VirtualRealityBP/Blueprints/Widgets/MainMenuWidget.PackageMetaData'
+[2019.12.01-14.10.05:885][896]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/Widgets/MainMenu/MainMenuWidget.MainMenuWidget:EventGraph.K2Node_Event_2' ref from Metadata '/Game/VirtualRealityBP/Blueprints/Widgets/MainMenuWidget.PackageMetaData'
+[2019.12.01-14.10.05:885][896]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/Widgets/MainMenu/MainMenuWidget.SKEL_MainMenuWidget_C:Button_78' ref from Metadata '/Game/VirtualRealityBP/Blueprints/Widgets/MainMenuWidget.PackageMetaData'
+[2019.12.01-14.10.05:885][896]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/Widgets/MainMenu/MainMenuWidget.SKEL_MainMenuWidget_C:BndEvt__Button_78_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/VirtualRealityBP/Blueprints/Widgets/MainMenuWidget.PackageMetaData'
+[2019.12.01-14.10.05:962][896]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/MainMenuWidgetF9E207354C5A3919CDF01DB1E9B18CAA.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VirtualRealityBP/Blueprints/Widgets/MainMenu/MainMenuWidget.uasset'
+[2019.12.01-14.10.06:498][896]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2019.12.01-14.10.06:560][896]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2019.12.01-14.10.06:596][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.12.01-14.24.58:258][974]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.12.01-14.25.22:031][849]LogUObjectHash: Compacting FUObjectHashTables data took   7.57ms
+[2019.12.01-14.25.22:033][849]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/Widgets/MainMenu/MainMenuActor.MainMenuActor:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/VirtualRealityBP/Blueprints/Widgets/MainMenu/NewBlueprint.PackageMetaData'
+[2019.12.01-14.25.22:033][849]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/Widgets/MainMenu/MainMenuActor.SKEL_MainMenuActor_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/Widgets/MainMenu/NewBlueprint.PackageMetaData'
+[2019.12.01-14.25.22:033][849]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/Widgets/MainMenu/MainMenuActor.MainMenuActor_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/Widgets/MainMenu/NewBlueprint.PackageMetaData'
+[2019.12.01-14.25.22:033][849]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/Widgets/MainMenu/MainMenuActor.MainMenuActor:EventGraph.K2Node_Event_0' ref from Metadata '/Game/VirtualRealityBP/Blueprints/Widgets/MainMenu/NewBlueprint.PackageMetaData'
+[2019.12.01-14.25.22:033][849]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/Widgets/MainMenu/MainMenuActor.MainMenuActor:EventGraph.K2Node_Event_1' ref from Metadata '/Game/VirtualRealityBP/Blueprints/Widgets/MainMenu/NewBlueprint.PackageMetaData'
+[2019.12.01-14.25.22:033][849]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/Widgets/MainMenu/MainMenuActor.MainMenuActor:EventGraph.K2Node_Event_2' ref from Metadata '/Game/VirtualRealityBP/Blueprints/Widgets/MainMenu/NewBlueprint.PackageMetaData'
+[2019.12.01-14.25.22:125][849]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/MainMenuActor219365A24B54AA630987778D062425A5.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VirtualRealityBP/Blueprints/Widgets/MainMenu/MainMenuActor.uasset'
+[2019.12.01-14.25.22:479][849]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2019.12.01-14.25.22:567][849]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2019.12.01-14.25.22:623][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.12.01-14.25.23:693][908]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Widgets/MainMenu/MainMenuActor.MainMenuActor
+[2019.12.01-14.25.24:478][909]LogRenderer: Reallocating scene render targets to support 964x684 Format 26 NumSamples 1 (Frame:1).
+[2019.12.01-14.26.10:933][112]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.01-14.26.46:272][ 73]BlueprintLog: New page: Compile MainMenuActor
+[2019.12.01-14.26.46:824][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   8.26ms
+[2019.12.01-14.27.05:826][666]BlueprintLog: New page: Compile MainMenuActor
+[2019.12.01-14.27.06:183][666]LogUObjectHash: Compacting FUObjectHashTables data took   7.22ms
+[2019.12.01-14.27.10:465][897]BlueprintLog: New page: Compile MainMenuWidget
+[2019.12.01-14.27.10:937][897]LogUObjectHash: Compacting FUObjectHashTables data took   6.59ms
+[2019.12.01-14.27.19:123][352]BlueprintLog: New page: Compile MainMenuActor
+[2019.12.01-14.27.19:428][352]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2019.12.01-14.27.20:952][423]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/MainMenuActor5DAEED4D4B4096C1E92AB6A1E0C643F6.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VirtualRealityBP/Blueprints/Widgets/MainMenu/MainMenuActor.uasset'
+[2019.12.01-14.28.01:617][624]LogEditorTransaction: Undo Modify Component(s)
+[2019.12.01-14.28.10:928][126]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2019.12.01-14.28.10:936][126]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.01-14.28.10:984][126]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/MainMenuActor9BBC9248440DBFA81885B8BC74DBBEE1.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VirtualRealityBP/Blueprints/Widgets/MainMenu/MainMenuActor.uasset'
+[2019.12.01-14.29.29:800][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-14.29.29:857][506]BlueprintLog: New page: Compile MainMenuActor
+[2019.12.01-14.29.30:273][506]LogUObjectHash: Compacting FUObjectHashTables data took   7.73ms
+[2019.12.01-14.29.40:420][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-14.29.47:902][504]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.01-14.29.48:737][549]LogEditorViewport: Clicking Background
+[2019.12.01-14.29.49:634][602]LogEditorViewport: Clicking on Actor (LMB): MainMenuActor_C (MainMenuActor)
+[2019.12.01-14.29.51:825][730]Cmd: DELETE
+[2019.12.01-14.29.51:825][730]Cmd: ACTOR DELETE
+[2019.12.01-14.29.51:851][730]LogEditorActor: Deleted Actor: MainMenuActor_C
+[2019.12.01-14.29.51:901][730]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2019.12.01-14.29.51:901][730]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2019.12.01-14.29.54:001][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-14.29.59:345][124]LogAIModule: Creating AISystem for world MainLevel
+[2019.12.01-14.29.59:359][124]LogAssetEditorManager: Opening Asset editor for World /Game/MainLevel.MainLevel
+[2019.12.01-14.29.59:408][124]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2019.12.01-14.30.06:158][124]LogSlate: Window 'Save Content' being destroyed
+[2019.12.01-14.30.06:268][124]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.12.01-14.30.06:691][124]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/StartupMap7B30BBE04E79C739D40A3CA9F68FF1EA.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2019.12.01-14.30.06:755][124]LogFileHelpers: Saving map 'StartupMap' took 0.565
+[2019.12.01-14.30.06:757][124]Cmd: MAP LOAD FILE="../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.01-14.30.06:757][124]LightingResults: New page: Lighting Build
+[2019.12.01-14.30.06:758][124]LoadErrors: New page: Loading map: MainLevel.umap
+[2019.12.01-14.30.06:758][124]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.01-14.30.06:759][124]MapCheck: New page: Map Check
+[2019.12.01-14.30.06:759][124]LightingResults: New page: Lighting Build
+[2019.12.01-14.30.06:819][124]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2019.12.01-14.30.06:843][124]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.01-14.30.06:888][124]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2019.12.01-14.30.06:920][124]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.01-14.30.06:920][124]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.249ms to complete.
+[2019.12.01-14.30.06:920][124]LogFileHelpers: Loading map 'MainLevel' took 0.165
+[2019.12.01-14.30.07:066][124]LogAIModule: Creating AISystem for world StartupMap
+[2019.12.01-14.30.10:654][332]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-14.30.27:500][303]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2019.12.01-14.30.27:509][303]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.01-14.30.27:603][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.12.01-14.30.28:158][303]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/MainLevelC338EEF5409FE38D3E073D9DA2FC54F4.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/MainLevel.umap'
+[2019.12.01-14.30.28:231][303]LogFileHelpers: Saving map 'MainLevel' took 0.694
+[2019.12.01-14.30.33:771][621]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.01-14.30.38:710][890]MapCheck: New page: Map Check
+[2019.12.01-14.30.38:727][890]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.01-14.30.38:760][890]Cmd: MAP REBUILD ALLVISIBLE
+[2019.12.01-14.30.38:760][890]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.12.01-14.30.38:787][890]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=false
+[2019.12.01-14.30.38:810][890]LightingResults: New page: Lighting Build - Dec 1, 2019, 6:30:38 PM
+[2019.12.01-14.30.38:924][890]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.12.01-14.30.39:181][890]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.12.01-14.30.39:205][890]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.12.01-14.30.40:236][890]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.12.01-14.30.40:236][890]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17868
+[2019.12.01-14.30.43:252][890]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.12.01-14.30.43:254][890]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.12.01-14.30.43:254][890]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.12.01-14.30.43:254][890]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.12.01-14.30.43:254][890]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.12.01-14.30.43:254][890]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.12.01-14.30.43:513][890]LogEditorBuildUtils: Build time 0:04
+[2019.12.01-14.30.43:614][891]LogUObjectHash: Compacting FUObjectHashTables data took   8.05ms
+[2019.12.01-14.30.53:202][963]Job is a success!
+[2019.12.01-14.30.53:661][964]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.025s
+[2019.12.01-14.30.53:661][964]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.12.01-14.30.53:661][964]LogVolumetricLightmapImport:      BrickData 215x5x5 = 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2019.12.01-14.30.53:661][964]LogVolumetricLightmapImport:      Bricks at Level
+[2019.12.01-14.30.53:661][964]LogVolumetricLightmapImport:          0: 2.3% covering 100.0% of volume
+[2019.12.01-14.30.53:662][964]LogVolumetricLightmapImport:          1: 9.3% covering 6.3% of volume
+[2019.12.01-14.30.53:662][964]LogVolumetricLightmapImport:          2: 88.4% covering 0.9% of volume
+[2019.12.01-14.30.54:738][964]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2019.12.01-14.30.54:738][964]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2019.12.01-14.30.54:738][964]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2019.12.01-14.30.54:738][964]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2019.12.01-14.30.54:738][964]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.12.01-14.30.54:738][964]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.12.01-14.30.55:158][964]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 256X256)
+[2019.12.01-14.30.55:162][964]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X256)
+[2019.12.01-14.30.55:249][964]LogStaticLightingSystem: MainLevel_BuiltData storing lightmap data for 17 meshes in 3 LightmapResourceClusters (5.7 Meshes per cluster).
+[2019.12.01-14.30.55:268][964]LogMaterial: Display: Material /Game/StarterContent/Textures/T_Wood_Floor_Walnut_Mat.T_Wood_Floor_Walnut_Mat needed to have new flag set bUsedWithStaticLighting !
+[2019.12.01-14.30.55:285][964]LogMaterial: Display: Missing cached shader map for material T_Wood_Floor_Walnut_Mat, compiling. 
+[2019.12.01-14.30.55:734][964]Lightmass on DANLAPTOP: 10.4 sec total, 601 ms importing, 54 ms setup, 1.82 sec photons, 5.48 sec processing, 0 ms extra exporting [51/51 mappings]. Threads: 21.9 sec total, 6.52 sec processing.
+[2019.12.01-14.30.55:734][964]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2019.12.01-14.30.55:734][964]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2019.12.01-14.30.55:734][964]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2019.12.01-14.30.55:734][964]LogMaterial: Display: Material /Game/StarterContent/Textures/T_Concrete_Grime_Mat.T_Concrete_Grime_Mat needed to have new flag set bUsedWithStaticLighting !
+[2019.12.01-14.30.55:742][964]LogMaterial: Display: Missing cached shader map for material T_Concrete_Grime_Mat, compiling. 
+[2019.12.01-14.30.56:393][964]LogMaterial: Display: Material /Game/StarterContent/Textures/T_Wood_Oak_Mat.T_Wood_Oak_Mat needed to have new flag set bUsedWithStaticLighting !
+[2019.12.01-14.30.56:401][964]LogMaterial: Display: Missing cached shader map for material T_Wood_Oak_Mat, compiling. 
+[2019.12.01-14.30.56:531][964]LogUObjectHash: Compacting FUObjectHashTables data took   6.61ms
+[2019.12.01-14.30.56:538][964]LogMaterial: Display: Material /Game/StarterContent/Textures/T_Brick_Cut_Stone_Mat.T_Brick_Cut_Stone_Mat needed to have new flag set bUsedWithStaticLighting !
+[2019.12.01-14.30.56:546][964]LogMaterial: Display: Missing cached shader map for material T_Brick_Cut_Stone_Mat, compiling. 
+[2019.12.01-14.30.56:599][964]LogMaterial: Display: Material /Game/StarterContent/Textures/T_Brick_Clay_Old_Mat.T_Brick_Clay_Old_Mat needed to have new flag set bUsedWithStaticLighting !
+[2019.12.01-14.30.56:616][964]LogMaterial: Display: Missing cached shader map for material T_Brick_Clay_Old_Mat, compiling. 
+[2019.12.01-14.30.56:668][964]LogMaterial: Display: Material /Game/StarterContent/Textures/T_CobbleStone_Pebble_M_Mat.T_CobbleStone_Pebble_M_Mat needed to have new flag set bUsedWithStaticLighting !
+[2019.12.01-14.30.56:711][964]LogMaterial: Display: Missing cached shader map for material T_CobbleStone_Pebble_M_Mat, compiling. 
+[2019.12.01-14.30.56:929][964]LogMaterial: Display: Material /Game/StarterContent/Textures/T_Brick_Clay_New_Mat.T_Brick_Clay_New_Mat needed to have new flag set bUsedWithStaticLighting !
+[2019.12.01-14.30.56:936][964]LogMaterial: Display: Missing cached shader map for material T_Brick_Clay_New_Mat, compiling. 
+[2019.12.01-14.30.56:987][964]LogMaterial: Display: Material /Game/StarterContent/Textures/T_CobbleStone_Pebble_Mat.T_CobbleStone_Pebble_Mat needed to have new flag set bUsedWithStaticLighting !
+[2019.12.01-14.30.56:993][964]LogMaterial: Display: Missing cached shader map for material T_CobbleStone_Pebble_Mat, compiling. 
+[2019.12.01-14.30.57:094][964]LogStaticLightingSystem: Illumination: 17.9 sec (987 ms encoding lightmaps, 425 ms encoding shadowmaps)
+[2019.12.01-14.30.57:094][964]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (2.7 MB streaming, 0.7 MB non-streaming), 4 textures
+[2019.12.01-14.30.57:094][964]LogStaticLightingSystem: Shadowmap texture memory: 1.7 MB (1.3 MB streaming, 0.3 MB non-streaming), 2 textures
+[2019.12.01-14.31.00:645][964]DumpUnbuiltLightIteractions
+[2019.12.01-14.31.00:645][964]Lights with unbuilt interactions: 0
+[2019.12.01-14.31.00:645][964]
+[2019.12.01-14.31.00:645][964]Primitives with unbuilt interactions: 0
+[2019.12.01-14.32.21:255][964]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 218
+[2019.12.01-14.32.21:255][964]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 208
+[2019.12.01-14.32.21:255][964]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 198
+[2019.12.01-14.32.21:255][964]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 188
+[2019.12.01-14.32.21:255][964]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 178
+[2019.12.01-14.32.21:255][964]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 168
+[2019.12.01-14.32.21:255][964]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 158
+[2019.12.01-14.32.21:255][964]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 148
+[2019.12.01-14.32.21:255][964]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 138
+[2019.12.01-14.32.21:255][964]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 128
+[2019.12.01-14.32.21:255][964]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 118
+[2019.12.01-14.32.21:255][964]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 108
+[2019.12.01-14.32.21:255][964]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 98
+[2019.12.01-14.32.21:255][964]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 88
+[2019.12.01-14.32.21:255][964]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 78
+[2019.12.01-14.32.21:255][964]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 68
+[2019.12.01-14.32.21:255][964]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 58
+[2019.12.01-14.32.21:255][964]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 48
+[2019.12.01-14.32.21:255][964]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2019.12.01-14.32.21:255][964]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2019.12.01-14.32.21:256][964]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2019.12.01-14.32.21:256][964]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2019.12.01-14.32.21:288][964]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2019.12.01-14.32.21:288][964]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2019.12.01-14.32.21:288][964]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2019.12.01-14.32.21:288][964]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2019.12.01-14.32.21:333][965]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.12.01-14.32.21:333][965]MapCheck: New page: MainLevel - Dec 1, 2019, 6:32:21 PM
+[2019.12.01-14.32.21:343][965]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 9.84ms to complete.
+[2019.12.01-14.34.33:686][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-14.34.37:149][854]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2019.12.01-14.35.20:525][801]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.12.01-14.35.20:526][801]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.12.01-14.36.15:630][921]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/BP_MotionController43C93A624B373C0000C9A7B08E979049.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2019.12.01-14.36.25:043][957]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.01-14.36.38:532][548]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.01-14.40.35:246][435]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.01-14.41.07:234][492]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.01-14.41.08:620][572]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.01-14.41.10:119][572]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.12.01-14.41.58:771][411]LogUObjectHash: Compacting FUObjectHashTables data took  10.31ms
+[2019.12.01-14.41.59:210][411]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/MainLevel_Auto2223928B840BF11170C0E81978A821A93.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Autosaves/Game/MainLevel_Auto2.umap'
+[2019.12.01-14.41.59:222][411]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainLevel' took 0.569
+[2019.12.01-14.41.59:222][411]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.569
+[2019.12.01-14.41.59:225][411]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_MotionController] ([1] browsable assets)...
+[2019.12.01-14.41.59:238][411]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController]
+[2019.12.01-14.41.59:238][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_MotionController]
+[2019.12.01-14.41.59:454][411]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/BP_MotionController_Auto29CF21306421CCBD38703939D38F533B4.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_MotionController_Auto2.uasset'
+[2019.12.01-14.41.59:456][411]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Brick_Clay_New_Mat] ([1] browsable assets)...
+[2019.12.01-14.41.59:468][411]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Brick_Clay_New_Mat.T_Brick_Clay_New_Mat]
+[2019.12.01-14.41.59:468][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Brick_Clay_New_Mat]
+[2019.12.01-14.41.59:507][411]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/T_Brick_Clay_New_Mat_Auto2F878C97C465818463E9EADA55D83ADD8.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Autosaves/Game/StarterContent/Textures/T_Brick_Clay_New_Mat_Auto2.uasset'
+[2019.12.01-14.41.59:509][411]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Brick_Clay_Old_Mat] ([1] browsable assets)...
+[2019.12.01-14.41.59:522][411]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Brick_Clay_Old_Mat.T_Brick_Clay_Old_Mat]
+[2019.12.01-14.41.59:522][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Brick_Clay_Old_Mat]
+[2019.12.01-14.41.59:553][411]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/T_Brick_Clay_Old_Mat_Auto24F4164D24E1C0B01B2FEAF9D72EE8CE8.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Autosaves/Game/StarterContent/Textures/T_Brick_Clay_Old_Mat_Auto2.uasset'
+[2019.12.01-14.41.59:556][411]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Brick_Cut_Stone_Mat] ([1] browsable assets)...
+[2019.12.01-14.41.59:568][411]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Brick_Cut_Stone_Mat.T_Brick_Cut_Stone_Mat]
+[2019.12.01-14.41.59:568][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Brick_Cut_Stone_Mat]
+[2019.12.01-14.41.59:608][411]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/T_Brick_Cut_Stone_Mat_Auto2A05CD57144AE76CC1054ABA266AE4CBD.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Autosaves/Game/StarterContent/Textures/T_Brick_Cut_Stone_Mat_Auto2.uasset'
+[2019.12.01-14.41.59:610][411]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_CobbleStone_Pebble_M_Mat] ([1] browsable assets)...
+[2019.12.01-14.41.59:627][411]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_CobbleStone_Pebble_M_Mat.T_CobbleStone_Pebble_M_Mat]
+[2019.12.01-14.41.59:627][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_CobbleStone_Pebble_M_Mat]
+[2019.12.01-14.41.59:667][411]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/T_CobbleStone_Pebble_M_Mat_Auto280BC9666431F097669BBF0BDE0B350E0.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Autosaves/Game/StarterContent/Textures/T_CobbleStone_Pebble_M_Mat_Auto2.uasset'
+[2019.12.01-14.41.59:670][411]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_CobbleStone_Pebble_Mat] ([1] browsable assets)...
+[2019.12.01-14.41.59:684][411]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_CobbleStone_Pebble_Mat.T_CobbleStone_Pebble_Mat]
+[2019.12.01-14.41.59:684][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_CobbleStone_Pebble_Mat]
+[2019.12.01-14.41.59:722][411]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/T_CobbleStone_Pebble_Mat_Auto205119E58434ABE186A3782A2D6014BCD.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Autosaves/Game/StarterContent/Textures/T_CobbleStone_Pebble_Mat_Auto2.uasset'
+[2019.12.01-14.41.59:724][411]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Concrete_Grime_Mat] ([1] browsable assets)...
+[2019.12.01-14.41.59:738][411]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Concrete_Grime_Mat.T_Concrete_Grime_Mat]
+[2019.12.01-14.41.59:738][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Concrete_Grime_Mat]
+[2019.12.01-14.41.59:768][411]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/T_Concrete_Grime_Mat_Auto2DC58ED714F2779BE0A09B19139E5982D.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Autosaves/Game/StarterContent/Textures/T_Concrete_Grime_Mat_Auto2.uasset'
+[2019.12.01-14.41.59:771][411]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Wood_Floor_Walnut_Mat] ([1] browsable assets)...
+[2019.12.01-14.41.59:782][411]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Wood_Floor_Walnut_Mat.T_Wood_Floor_Walnut_Mat]
+[2019.12.01-14.41.59:782][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Wood_Floor_Walnut_Mat]
+[2019.12.01-14.41.59:816][411]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/T_Wood_Floor_Walnut_Mat_Auto2A6CF690A47BC6DB080C6998F95B4C9A4.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Autosaves/Game/StarterContent/Textures/T_Wood_Floor_Walnut_Mat_Auto2.uasset'
+[2019.12.01-14.41.59:819][411]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Wood_Oak_Mat] ([1] browsable assets)...
+[2019.12.01-14.41.59:830][411]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Wood_Oak_Mat.T_Wood_Oak_Mat]
+[2019.12.01-14.41.59:830][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Wood_Oak_Mat]
+[2019.12.01-14.41.59:864][411]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/T_Wood_Oak_Mat_Auto281061546468A0CCF0D304FA0432AF58A.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Autosaves/Game/StarterContent/Textures/T_Wood_Oak_Mat_Auto2.uasset'
+[2019.12.01-14.41.59:866][411]LogFileHelpers: Auto-saving content packages took 0.642
+[2019.12.01-14.43.46:358][357]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.01-14.43.48:308][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-14.43.48:329][429]LogSlate: Window 'Project Settings' being destroyed
+[2019.12.01-14.43.48:352][429]LogSlate: Window 'Project Settings' being destroyed
+[2019.12.01-14.43.49:391][475]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.01-14.43.53:948][637]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.01-14.52.58:846][766]LogUObjectHash: Compacting FUObjectHashTables data took   9.95ms
+[2019.12.01-14.52.58:846][766]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainLevel' took 0.099
+[2019.12.01-14.52.58:849][766]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_MotionController] ([1] browsable assets)...
+[2019.12.01-14.52.58:878][766]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController]
+[2019.12.01-14.52.58:879][766]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_MotionController]
+[2019.12.01-14.52.59:228][766]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/BP_MotionController_Auto354E23DAF4E6659884DC43AB292FD7D04.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_MotionController_Auto3.uasset'
+[2019.12.01-14.52.59:231][766]LogFileHelpers: Auto-saving content packages took 0.383
+[2019.12.01-14.54.19:121][421]BlueprintLog: New page: Compile BP_MotionController
+[2019.12.01-14.54.19:761][421]LogUObjectHash: Compacting FUObjectHashTables data took   7.49ms
+[2019.12.01-15.02.59:740][471]LogUObjectHash: Compacting FUObjectHashTables data took   9.24ms
+[2019.12.01-15.02.59:740][471]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainLevel' took 0.113
+[2019.12.01-15.02.59:742][471]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_MotionController] ([1] browsable assets)...
+[2019.12.01-15.02.59:768][471]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController]
+[2019.12.01-15.02.59:768][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_MotionController]
+[2019.12.01-15.03.00:040][471]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/BP_MotionController_Auto41B046B9E48944EA4DA54A9A534B43C23.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_MotionController_Auto4.uasset'
+[2019.12.01-15.03.00:043][471]LogFileHelpers: Auto-saving content packages took 0.302
+[2019.12.01-15.06.48:313][146]LogHttp: Warning: 00000125F7BA4900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4B014B7D-41CD-67C8-82EC-CB8C0C6CD1E6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=364d500d4a7c49be2c5a77a2c8a9a195%7Cb45afa3f4c174d7cbc6deabba9b56a33%7C78f02ffb-5304-4661-a0e6-cdd3f9858eda&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.01-15.06.48:313][146]LogHttp: Warning: 00000125F7BA4900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.01-15.06.48:313][146]LogHttp: Warning: 00000125F7BA4900: libcurl info message cache 0 (Connection 41 seems to be dead!)
+[2019.12.01-15.06.48:313][146]LogHttp: Warning: 00000125F7BA4900: libcurl info message cache 1 (Closing connection 41)
+[2019.12.01-15.06.48:313][146]LogHttp: Warning: 00000125F7BA4900: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.12.01-15.06.48:313][146]LogHttp: Warning: 00000125F7BA4900: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.01-15.06.48:313][146]LogHttp: Warning: 00000125F7BA4900: libcurl info message cache 4 (Closing connection 42)
+[2019.12.01-15.06.48:313][146]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4B014B7D-41CD-67C8-82EC-CB8C0C6CD1E6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=364d500d4a7c49be2c5a77a2c8a9a195%7Cb45afa3f4c174d7cbc6deabba9b56a33%7C78f02ffb-5304-4661-a0e6-cdd3f9858eda&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.01-15.23.50:799][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-15.24.22:595][622]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.12.01-15.24.41:055][347]LogUObjectHash: Compacting FUObjectHashTables data took   6.54ms
+[2019.12.01-15.24.41:057][347]LogMetaData: Removing '/Game/VRInnerMotion/BP_VR_Inner_Motion.BP_VR_Inner_Motion:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/VRInnerMotion/NewBlueprint.PackageMetaData'
+[2019.12.01-15.24.41:057][347]LogMetaData: Removing '/Game/VRInnerMotion/BP_VR_Inner_Motion.SKEL_BP_VR_Inner_Motion_C' ref from Metadata '/Game/VRInnerMotion/NewBlueprint.PackageMetaData'
+[2019.12.01-15.24.41:057][347]LogMetaData: Removing '/Game/VRInnerMotion/BP_VR_Inner_Motion.BP_VR_Inner_Motion_C' ref from Metadata '/Game/VRInnerMotion/NewBlueprint.PackageMetaData'
+[2019.12.01-15.24.41:057][347]LogMetaData: Removing '/Game/VRInnerMotion/BP_VR_Inner_Motion.BP_VR_Inner_Motion:EventGraph.K2Node_Event_0' ref from Metadata '/Game/VRInnerMotion/NewBlueprint.PackageMetaData'
+[2019.12.01-15.24.41:057][347]LogMetaData: Removing '/Game/VRInnerMotion/BP_VR_Inner_Motion.BP_VR_Inner_Motion:EventGraph.K2Node_Event_1' ref from Metadata '/Game/VRInnerMotion/NewBlueprint.PackageMetaData'
+[2019.12.01-15.24.41:057][347]LogMetaData: Removing '/Game/VRInnerMotion/BP_VR_Inner_Motion.BP_VR_Inner_Motion:EventGraph.K2Node_Event_2' ref from Metadata '/Game/VRInnerMotion/NewBlueprint.PackageMetaData'
+[2019.12.01-15.24.41:137][347]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/BP_VR_Inner_Motion9B265BB74C2F37E8939730B37F467E61.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VRInnerMotion/BP_VR_Inner_Motion.uasset'
+[2019.12.01-15.24.41:476][347]LogUObjectHash: Compacting FUObjectHashTables data took   6.71ms
+[2019.12.01-15.24.41:540][347]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2019.12.01-15.24.41:587][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2019.12.01-15.25.07:266][471]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2019.12.01-15.25.07:728][471]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/MainLevel_Auto534A6CF4C42AFAC36268EC781E1F0329C.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Autosaves/Game/MainLevel_Auto5.umap'
+[2019.12.01-15.25.07:737][471]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainLevel' took 0.566
+[2019.12.01-15.25.07:737][471]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.566
+[2019.12.01-15.25.07:742][471]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_MotionController] ([1] browsable assets)...
+[2019.12.01-15.25.07:770][471]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController]
+[2019.12.01-15.25.07:770][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_MotionController]
+[2019.12.01-15.25.08:050][471]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/BP_MotionController_Auto57F6DBA404D5F982F2B5BEDB510F7FAEE.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_MotionController_Auto5.uasset'
+[2019.12.01-15.25.08:053][471]LogFileHelpers: Auto-saving content packages took 0.313
+[2019.12.01-15.25.48:456][665]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VRInnerMotion/BP_VR_Inner_Motion.BP_VR_Inner_Motion
+[2019.12.01-15.26.33:248][557]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.12.01-15.26.33:411][558]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 89
+[2019.12.01-15.26.33:411][558]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 79
+[2019.12.01-15.26.33:411][558]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 69
+[2019.12.01-15.26.48:484][964]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.01-15.27.01:925][239]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 59
+[2019.12.01-15.27.04:330][258]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.01-15.27.18:379][618]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 49
+[2019.12.01-15.27.35:847][213]BlueprintLog: New page: Compile BP_VR_Inner_Motion
+[2019.12.01-15.27.36:726][213]LogUObjectHash: Compacting FUObjectHashTables data took  13.70ms
+[2019.12.01-15.27.42:649][236]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2019.12.01-15.27.42:879][238]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2019.12.01-15.27.58:927][555]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2019.12.01-15.28.17:611][133]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2019.12.01-15.28.20:541][144]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2019.12.01-15.28.24:393][160]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.01-15.28.46:910][957]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2019.12.01-15.28.47:590][960]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2019.12.01-15.28.49:108][973]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2019.12.01-15.29.26:614][662]BlueprintLog: New page: Compile BP_VR_Inner_Motion
+[2019.12.01-15.29.26:996][662]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
+[2019.12.01-15.32.32:048][ 67]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.01-15.33.08:678][188]BlueprintLog: New page: Compile BP_VR_Inner_Motion
+[2019.12.01-15.33.09:077][188]LogUObjectHash: Compacting FUObjectHashTables data took   7.23ms
+[2019.12.01-15.34.51:311][459]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.01-15.35.37:622][524]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.01-15.35.40:622][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-15.36.15:707][307]LogUObjectHash: Compacting FUObjectHashTables data took   6.04ms
+[2019.12.01-15.36.15:707][307]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainLevel' took 0.087
+[2019.12.01-15.36.15:710][307]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VRInnerMotion/BP_VR_Inner_Motion] ([1] browsable assets)...
+[2019.12.01-15.36.15:734][307]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRInnerMotion/BP_VR_Inner_Motion.BP_VR_Inner_Motion]
+[2019.12.01-15.36.15:734][307]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRInnerMotion/BP_VR_Inner_Motion]
+[2019.12.01-15.36.15:773][307]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/BP_VR_Inner_Motion_Auto681ECF3224ACF94772F62F5806B3E72FC.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Autosaves/Game/VRInnerMotion/BP_VR_Inner_Motion_Auto6.uasset'
+[2019.12.01-15.36.15:776][307]LogFileHelpers: Auto-saving content packages took 0.068
+[2019.12.01-15.36.54:596][424]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.01-15.36.56:121][481]BlueprintLog: New page: Compile BP_VR_Inner_Motion
+[2019.12.01-15.36.56:509][481]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2019.12.01-15.36.57:058][497]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/BP_VR_Inner_Motion1BCF107E4FA504AA37FCDA828F78EC94.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VRInnerMotion/BP_VR_Inner_Motion.uasset'
+[2019.12.01-15.37.24:443][ 50]BlueprintLog: New page: Compile BP_VR_Inner_Motion
+[2019.12.01-15.37.24:826][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2019.12.01-15.37.25:347][ 65]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/BP_VR_Inner_Motion37625EBB43141FB9DB21EAB5DC871F06.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VRInnerMotion/BP_VR_Inner_Motion.uasset'
+[2019.12.01-15.37.48:993][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-15.38.01:004][954]LogEditorTransaction: Undo Modify Component(s)
+[2019.12.01-15.38.02:386][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-15.38.11:589][465]LogEditorTransaction: Undo Modify Component(s)
+[2019.12.01-15.38.15:639][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-15.38.48:803][630]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.01-15.38.52:626][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-15.39.00:239][174]LogEditorTransaction: Undo Modify Component(s)
+[2019.12.01-15.39.06:001][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-15.39.14:577][899]LogEditorTransaction: Undo Modify Component(s)
+[2019.12.01-15.39.18:428][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-15.39.21:359][229]LogEditorTransaction: Undo Modify Component(s)
+[2019.12.01-15.39.21:819][246]LogEditorTransaction: Undo Modify Component(s)
+[2019.12.01-15.39.31:625][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-15.39.31:706][740]BlueprintLog: New page: Compile BP_VR_Inner_Motion
+[2019.12.01-15.39.32:183][740]LogUObjectHash: Compacting FUObjectHashTables data took   6.34ms
+[2019.12.01-15.39.32:421][741]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/BP_VR_Inner_Motion41EB4E54452A59B95DAFEB955E8EE333.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VRInnerMotion/BP_VR_Inner_Motion.uasset'
+[2019.12.01-15.39.45:130][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-15.40.05:781][786]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.01-15.40.07:061][845]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2019.12.01-15.40.07:504][845]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/MainLevelBB0DB7784CC77A1BBFF83A9F434D35EA.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/MainLevel.umap'
+[2019.12.01-15.40.07:829][845]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/MainLevel_BuiltData8ABDC3C1421C2FAF928A6B866938DC8A.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/MainLevel_BuiltData.uasset'
+[2019.12.01-15.40.08:376][863]LogUObjectHash: Compacting FUObjectHashTables data took   7.07ms
+[2019.12.01-15.40.09:907][863]LogSlate: Window 'Save Content' being destroyed
+[2019.12.01-15.40.10:004][863]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/T_Brick_Clay_New_MatB04024AB4561525C56ED7D9A35A75836.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/StarterContent/Textures/T_Brick_Clay_New_Mat.uasset'
+[2019.12.01-15.40.10:049][863]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/T_Brick_Clay_Old_MatCD931F2D42C8B77C74D1A1BCBB6805BC.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/StarterContent/Textures/T_Brick_Clay_Old_Mat.uasset'
+[2019.12.01-15.40.10:107][863]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/T_Brick_Cut_Stone_MatAACFEE0F4089F3FC88DB73996C1C50FE.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/StarterContent/Textures/T_Brick_Cut_Stone_Mat.uasset'
+[2019.12.01-15.40.10:159][863]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/T_CobbleStone_Pebble_M_MatF5968F2841B71B6EC29F39A75A7337EA.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/StarterContent/Textures/T_CobbleStone_Pebble_M_Mat.uasset'
+[2019.12.01-15.40.10:208][863]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/T_CobbleStone_Pebble_MatFDD47FB04FC985D993EB74B72094D7FB.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/StarterContent/Textures/T_CobbleStone_Pebble_Mat.uasset'
+[2019.12.01-15.40.10:254][863]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/T_Concrete_Grime_Mat177B2B2445C9B4709A9E0B966E1C2DF5.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/StarterContent/Textures/T_Concrete_Grime_Mat.uasset'
+[2019.12.01-15.40.10:309][863]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/T_Wood_Floor_Walnut_MatC3D1A7BE40FC4B9FDF1979883E1A04E2.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/StarterContent/Textures/T_Wood_Floor_Walnut_Mat.uasset'
+[2019.12.01-15.40.10:355][863]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/T_Wood_Oak_MatDEAB786F4C99F754CA3565A2DC3BCF82.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/StarterContent/Textures/T_Wood_Oak_Mat.uasset'
+[2019.12.01-15.40.10:607][863]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/BP_MotionController97EEB07C4840BBFDDEB056886ED22BFC.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
