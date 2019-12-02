@@ -800,3 +800,51 @@ Make sure 'BP_VR_Inner_Motion_C' has been compiled for  Set LeftController
 [2019.12.02-11.14.35:059][413]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
 [2019.12.02-11.14.35:109][413]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
 [2019.12.02-11.14.35:141][414]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.12.02-11.24.22:545][362]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2019.12.02-11.24.22:866][362]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/MainLevel_Auto52359F52B40FBA46BB0318F94662360F8.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Autosaves/Game/MainLevel_Auto5.umap'
+[2019.12.02-11.24.22:871][362]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainLevel' took 0.380
+[2019.12.02-11.24.22:871][362]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.380
+[2019.12.02-11.33.41:443][832]LogD3D11RHI: GetQueryData is taking a very long time (5.0 s)
+[2019.12.02-11.33.46:442][832]LogD3D11RHI: GetQueryData is taking a very long time (10.0 s)
+[2019.12.02-11.33.51:443][832]LogD3D11RHI: GetQueryData is taking a very long time (15.0 s)
+[2019.12.02-11.33.56:443][832]LogD3D11RHI: GetQueryData is taking a very long time (20.0 s)
+[2019.12.02-11.34.51:145][771]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.02-11.34.51:927][836]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.02-11.34.52:265][861]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.02-11.34.57:767][214]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.02-11.34.59:699][375]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.02-11.35.01:088][375]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.12.02-11.36.34:338][103]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.02-11.38.29:978][771]LogSlate: Window 'Project Settings' being destroyed
+[2019.12.02-11.38.46:615][549]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.02-11.38.49:957][822]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.02-11.38.49:993][822]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.12.02-11.38.49:993][822]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.02-11.38.49:993][822]PIE: New page: PIE session: MainLevel (Dec 2, 2019, 3:38:49 PM)
+[2019.12.02-11.38.49:994][822]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.12.02-11.38.50:023][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028810s)
+[2019.12.02-11.38.50:024][822]LogAIModule: Creating AISystem for world MainLevel
+[2019.12.02-11.38.50:024][822]LogPlayLevel: PIE: World Init took: (0.001233s)
+[2019.12.02-11.38.50:024][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.030260s)
+[2019.12.02-11.38.50:165][822]LogUObjectHash: Compacting FUObjectHashTables data took   9.04ms
+[2019.12.02-11.38.50:190][822]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.02-11.38.50:301][822]LogInit: FAudioDevice initialized.
+[2019.12.02-11.38.50:311][822]LogLoad: Game class is 'GameModeBase'
+[2019.12.02-11.38.50:314][822]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.12.02-13.38.50
+[2019.12.02-11.38.50:315][822]LogWorld: Bringing up level for play took: 0.004083
+[2019.12.02-11.38.50:316][822]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.12.02-11.38.50:321][822]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.12.02-11.38.50:321][822]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.12.02-11.38.50:324][822]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.183
+[2019.12.02-11.38.50:324][822]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.12.02-11.38.57:082][513]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.12.02-11.38.57:082][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-11.38.57:082][513]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2019.12.02-11.38.57:083][513]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-11.38.57:099][513]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.02-11.38.57:100][513]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.12.02-11.38.57:158][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-11.38.57:177][513]LogSlate: Slate User Unregistered.  User Index 8
+[2019.12.02-11.38.57:177][513]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.12.02-11.38.57:183][513]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2019.12.02-11.38.57:210][514]LogPlayLevel: Display: Destroying online subsystem :Context_9
