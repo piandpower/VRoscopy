@@ -611,3 +611,192 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.02-10.29.31:214][942]BlueprintLog: New page: Compile BP_VR_Inner_Motion
 [2019.12.02-10.29.31:533][942]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
 [2019.12.02-10.29.32:076][953]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/BP_VR_Inner_Motion8BF0E5D54FEB9E0EFDDBEBB73BE7D840.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VRInnerMotion/BP_VR_Inner_Motion.uasset'
+[2019.12.02-10.33.22:681][423]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2019.12.02-10.33.23:078][423]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/MainLevel_Auto2E45FBADE431B13D0DAEBE3A20C27ABEC.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Autosaves/Game/MainLevel_Auto2.umap'
+[2019.12.02-10.33.23:087][423]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainLevel' took 0.461
+[2019.12.02-10.33.23:087][423]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.461
+[2019.12.02-10.40.58:933][733]LogLinker: Warning: While loading '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/VirtualRealityBP/Maps/MotionControllerMap_BuiltData': Can't find file.
+[2019.12.02-10.40.58:933][733]LogLinker: Warning: While loading '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/VirtualRealityBP/Maps/MotionControllerMap_BuiltData': Can't find file.
+[2019.12.02-10.40.58:937][733]LogLinker: Warning: While loading '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/VirtualRealityBP/Maps/MotionControllerMap_BuiltData': Can't find file.
+[2019.12.02-10.40.58:937][733]LogLinker: Warning: While loading '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/VirtualRealityBP/Maps/MotionControllerMap_BuiltData': Can't find file.
+[2019.12.02-10.40.58:938][733]LogLinker: Warning: Failed to load '/Game/VirtualRealityBP/Maps/MotionControllerMap_BuiltData': Can't find file.
+[2019.12.02-10.40.58:938][733]LogLinker: Warning: Failed to load '/Game/VirtualRealityBP/Maps/MotionControllerMap_BuiltData': Can't find file.
+[2019.12.02-10.40.58:938][733]LogLinker: Warning: Failed to load '/Game/VirtualRealityBP/Maps/MotionControllerMap_BuiltData': Can't find file.
+[2019.12.02-10.40.58:939][733]LogLinker: Warning: Failed to load '/Game/VirtualRealityBP/Maps/MotionControllerMap_BuiltData': Can't find file.
+[2019.12.02-10.40.58:951][733]LogLinker: Warning: While loading '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/VirtualRealityBP/Maps/MotionControllerMap_BuiltData': Can't find file.
+[2019.12.02-10.40.58:951][733]LoadErrors: Failed to load /Game/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.MotionControllerMap_BuiltData Referenced by PersistentLevel
+[2019.12.02-10.40.58:951][733]LogLinker: Warning: While loading '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/VirtualRealityBP/Maps/MotionControllerMap_BuiltData': Can't find file.
+[2019.12.02-10.40.59:075][733]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.12.02-10.40.59:086][733]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap
+[2019.12.02-10.40.59:128][733]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2019.12.02-10.41.04:069][733]LogSlate: Window 'Save Content' being destroyed
+[2019.12.02-10.41.04:145][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.12.02-10.41.04:460][733]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/MainLevelE7FB8B5D454244803DADD2B715A6EF12.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/MainLevel.umap'
+[2019.12.02-10.41.04:508][733]LogFileHelpers: Saving map 'MainLevel' took 0.408
+[2019.12.02-10.41.04:510][733]LightingResults: New page: Lighting Build
+[2019.12.02-10.41.04:511][733]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2019.12.02-10.41.04:512][733]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-10.41.04:513][733]MapCheck: New page: Map Check
+[2019.12.02-10.41.04:513][733]LightingResults: New page: Lighting Build
+[2019.12.02-10.41.04:557][733]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2019.12.02-10.41.04:564][733]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.02-10.41.04:602][733]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2019.12.02-10.41.04:646][733]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.02-10.41.04:646][733]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.293ms to complete.
+[2019.12.02-10.41.04:646][733]LogFileHelpers: Loading map 'MotionControllerMap' took 0.137
+[2019.12.02-10.41.04:755][733]LogAIModule: Creating AISystem for world MainLevel
+[2019.12.02-10.41.25:395][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-10.41.32:432][489]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2019.12.02-10.42.27:334][170]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2019.12.02-10.42.27:836][170]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.12.02-10.42.27:836][170]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.12.02-10.43.00:389][ 39]LogRenderer: Reallocating scene render targets to support 964x684 Format 26 NumSamples 1 (Frame:1).
+[2019.12.02-10.51.20:622][ 71]LogEditorTransaction: Undo Paste clipboard contents
+[2019.12.02-10.52.04:216][490]LogEditorTransaction: Undo Delete current selection
+[2019.12.02-10.52.39:111][300]BlueprintLog: New page: Compile BP_VR_Inner_Motion
+[2019.12.02-10.52.39:123][300]LogBlueprint: Warning: [Compiler BP_VR_Inner_Motion] Could not find a variable named "RightController" in 'BP_VR_Inner_Motion_C'.
+Make sure 'BP_VR_Inner_Motion_C' has been compiled for  Set RightController
+[2019.12.02-10.52.39:124][300]LogBlueprint: Warning: [Compiler BP_VR_Inner_Motion] Could not find a variable named "LeftController" in 'BP_VR_Inner_Motion_C'.
+Make sure 'BP_VR_Inner_Motion_C' has been compiled for  Set LeftController
+[2019.12.02-10.52.39:125][300]LogBlueprint: Error: [Compiler BP_VR_Inner_Motion] The property associated with  Left Controller  could not be found in '/Game/VRInnerMotion/BP_VR_Inner_Motion.BP_VR_Inner_Motion_C'
+[2019.12.02-10.52.39:125][300]LogBlueprint: Error: [Compiler BP_VR_Inner_Motion] The property associated with  Right Controller  could not be found in '/Game/VRInnerMotion/BP_VR_Inner_Motion.BP_VR_Inner_Motion_C'
+[2019.12.02-10.52.39:408][300]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2019.12.02-10.52.59:708][347]LogEditorTransaction: Undo Move Node
+[2019.12.02-10.53.00:262][367]LogEditorTransaction: Undo Add Node
+[2019.12.02-10.53.00:792][393]LogEditorTransaction: Undo Delete current selection
+[2019.12.02-10.54.07:947][852]LogEditorTransaction: Undo Add Node
+[2019.12.02-10.54.08:407][867]LogEditorTransaction: Undo Delete current selection
+[2019.12.02-10.54.08:881][887]LogEditorTransaction: Undo Add Node
+[2019.12.02-10.54.09:403][910]LogEditorTransaction: Undo Move Node
+[2019.12.02-10.54.10:193][947]LogEditorTransaction: Undo Delete current selection
+[2019.12.02-10.54.10:473][958]LogEditorTransaction: Undo Create Pin Link
+[2019.12.02-10.55.01:454][673]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2019.12.02-10.55.01:454][673]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.047
+[2019.12.02-10.55.01:456][673]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VRInnerMotion/BP_VR_Inner_Motion] ([1] browsable assets)...
+[2019.12.02-10.55.01:475][673]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRInnerMotion/BP_VR_Inner_Motion.BP_VR_Inner_Motion]
+[2019.12.02-10.55.01:475][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRInnerMotion/BP_VR_Inner_Motion]
+[2019.12.02-10.55.01:535][673]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/BP_VR_Inner_Motion_Auto388CFF70245FA68151A1EA68A2FD571BB.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Autosaves/Game/VRInnerMotion/BP_VR_Inner_Motion_Auto3.uasset'
+[2019.12.02-10.55.01:537][673]LogFileHelpers: Auto-saving content packages took 0.081
+[2019.12.02-10.58.52:690][394]BlueprintLog: New page: Compile BP_VR_Inner_Motion
+[2019.12.02-10.58.52:699][394]LogBlueprint: Warning: [Compiler BP_VR_Inner_Motion] 'Motion Controller Component' does not inherit from 'BP Motion Controller' ( Cast To MotionControllerComponent  would always fail).
+[2019.12.02-10.58.52:699][394]LogBlueprint: Warning: [Compiler BP_VR_Inner_Motion] 'Motion Controller Component' does not inherit from 'BP Motion Controller' ( Cast To MotionControllerComponent  would always fail).
+[2019.12.02-10.58.52:970][394]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2019.12.02-10.59.12:226][295]LogEditorTransaction: Undo Create Pin Link
+[2019.12.02-10.59.12:649][310]LogEditorTransaction: Undo Create Pin Link
+[2019.12.02-10.59.13:106][331]LogEditorTransaction: Undo Move Node
+[2019.12.02-10.59.13:530][351]LogEditorTransaction: Undo Move Nodes
+[2019.12.02-10.59.13:961][371]LogEditorTransaction: Undo Move Nodes
+[2019.12.02-10.59.14:411][392]LogEditorTransaction: Undo Paste clipboard contents
+[2019.12.02-10.59.14:927][417]LogEditorTransaction: Undo Move Node
+[2019.12.02-10.59.15:394][440]LogEditorTransaction: Undo Move Node
+[2019.12.02-10.59.15:807][460]LogEditorTransaction: Undo Create Pin Link
+[2019.12.02-10.59.16:229][480]LogEditorTransaction: Undo Create Pin Link
+[2019.12.02-10.59.16:659][501]LogEditorTransaction: Undo Move Node
+[2019.12.02-10.59.17:112][523]LogEditorTransaction: Undo Move Node
+[2019.12.02-10.59.17:691][552]LogEditorTransaction: Undo Move Node
+[2019.12.02-10.59.18:117][572]LogEditorTransaction: Undo Move Node
+[2019.12.02-10.59.18:570][594]LogEditorTransaction: Undo Delete current selection
+[2019.12.02-10.59.19:061][618]LogEditorTransaction: Undo Create Pin Link
+[2019.12.02-10.59.19:535][641]LogEditorTransaction: Undo Create Pin Link
+[2019.12.02-10.59.19:958][661]LogEditorTransaction: Undo Move Node
+[2019.12.02-11.00.13:633][385]BlueprintLog: New page: Compile BP_VR_Inner_Motion
+[2019.12.02-11.00.13:913][385]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2019.12.02-11.05.01:862][704]LogUObjectHash: Compacting FUObjectHashTables data took   8.06ms
+[2019.12.02-11.05.01:862][704]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.081
+[2019.12.02-11.05.01:867][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VRInnerMotion/BP_VR_Inner_Motion] ([1] browsable assets)...
+[2019.12.02-11.05.01:897][704]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRInnerMotion/BP_VR_Inner_Motion.BP_VR_Inner_Motion]
+[2019.12.02-11.05.01:897][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRInnerMotion/BP_VR_Inner_Motion]
+[2019.12.02-11.05.01:997][704]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/BP_VR_Inner_Motion_Auto497DA65B746971C29D1D9C882FCA92CB0.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Autosaves/Game/VRInnerMotion/BP_VR_Inner_Motion_Auto4.uasset'
+[2019.12.02-11.05.02:001][704]LogFileHelpers: Auto-saving content packages took 0.135
+[2019.12.02-11.10.46:035][ 90]Cmd: SELECT NONE
+[2019.12.02-11.10.58:217][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-11.11.14:414][790]Cmd: EDIT COPY
+[2019.12.02-11.11.23:218][506]LogAssetEditorManager: Opening Asset editor for World /Game/MainLevel.MainLevel
+[2019.12.02-11.11.23:265][506]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2019.12.02-11.11.31:252][506]LogSlate: Window 'Save Content' being destroyed
+[2019.12.02-11.11.31:344][506]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.12.02-11.11.31:648][506]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/MainLevel22451ECB4E14BEA8035B1B820388BF42.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/MainLevel.umap'
+[2019.12.02-11.11.31:661][506]LogFileHelpers: Saving map 'MainLevel' took 0.380
+[2019.12.02-11.11.31:668][506]Cmd: MAP LOAD FILE="../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.02-11.11.31:669][506]LightingResults: New page: Lighting Build
+[2019.12.02-11.11.31:670][506]LoadErrors: New page: Loading map: MainLevel.umap
+[2019.12.02-11.11.31:671][506]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-11.11.31:672][506]MapCheck: New page: Map Check
+[2019.12.02-11.11.31:672][506]LightingResults: New page: Lighting Build
+[2019.12.02-11.11.31:716][506]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2019.12.02-11.11.31:726][506]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.02-11.11.31:768][506]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.12.02-11.11.31:809][506]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.02-11.11.31:809][506]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.188ms to complete.
+[2019.12.02-11.11.31:811][506]LogFileHelpers: Loading map 'MainLevel' took 0.145
+[2019.12.02-11.11.33:504][644]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.12.02-11.11.34:327][712]Cmd: EDIT PASTE
+[2019.12.02-11.11.35:797][826]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane)
+[2019.12.02-11.11.35:856][826]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.02-11.11.36:689][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.12.02-11.11.42:505][392]Cmd: TRANSACTION UNDO
+[2019.12.02-11.11.42:505][392]LogEditorTransaction: Undo Move Actors
+[2019.12.02-11.11.44:409][539]Cmd: TRANSACTION UNDO
+[2019.12.02-11.11.44:409][539]LogEditorTransaction: Undo Move Actors
+[2019.12.02-11.11.45:190][599]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2019.12.02-11.11.52:461][115]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2019.12.02-11.11.52:566][120]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2019.12.02-11.11.55:069][296]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-11.12.12:716][228]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.12.02-11.12.13:003][228]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2019.12.02-11.12.24:643][805]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.12.02-11.12.24:928][805]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2019.12.02-11.12.46:077][832]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-11.12.48:766][964]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.02-11.12.48:766][964]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-11.12.53:140][247]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2019.12.02-11.13.34:521][243]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.12.02-11.13.34:806][243]LogSlate: Slate User Unregistered.  User Index 8
+[2019.12.02-11.13.34:806][243]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.12.02-11.13.34:811][243]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2019.12.02-11.13.36:202][289]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/MotionControllerPawnB56C0AAB441496A4A0CC00BCEAEB9BF3.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2019.12.02-11.13.46:307][785]LogEditorTransaction: Undo Paste clipboard contents
+[2019.12.02-11.14.05:054][618]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.12.02-11.14.05:326][618]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2019.12.02-11.14.17:553][393]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2019.12.02-11.14.21:039][393]LogSlate: Window 'Save Content' being destroyed
+[2019.12.02-11.14.21:173][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.12.02-11.14.21:494][393]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/MainLevel8E0EED0F42536EC1D4D67696C383F013.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/MainLevel.umap'
+[2019.12.02-11.14.21:540][393]LogFileHelpers: Saving map 'MainLevel' took 0.408
+[2019.12.02-11.14.21:658][393]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/MotionControllerPawn93FF73824632FA50D2C0C493B5565133.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2019.12.02-11.14.21:764][393]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/BP_VR_Inner_Motion9D0069AF45FC7878CB2DD1AE95716896.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/VRInnerMotion/BP_VR_Inner_Motion.uasset'
+[2019.12.02-11.14.30:269][ 89]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.12.02-11.14.30:269][ 89]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.02-11.14.30:270][ 89]LogPlayLevel: [PlayLevel] Compiling BP_VR_Inner_Motion before play...
+[2019.12.02-11.14.30:549][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2019.12.02-11.14.30:549][ 89]LogPlayLevel: PlayLevel: Blueprint regeneration took 279 ms (1 blueprints)
+[2019.12.02-11.14.30:549][ 89]PIE: New page: PIE session: MainLevel (Dec 2, 2019, 3:14:30 PM)
+[2019.12.02-11.14.30:552][ 89]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.02-11.14.30:553][ 89]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.12.02-11.14.30:569][ 89]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015593s)
+[2019.12.02-11.14.30:570][ 89]LogAIModule: Creating AISystem for world MainLevel
+[2019.12.02-11.14.30:571][ 89]LogPlayLevel: PIE: World Init took: (0.001355s)
+[2019.12.02-11.14.30:571][ 89]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.017326s)
+[2019.12.02-11.14.30:608][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2019.12.02-11.14.30:627][ 89]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.02-11.14.30:741][ 89]LogInit: FAudioDevice initialized.
+[2019.12.02-11.14.30:763][ 89]LogLoad: Game class is 'GameModeBase'
+[2019.12.02-11.14.30:768][ 89]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.12.02-13.14.30
+[2019.12.02-11.14.30:795][ 89]LogWorld: Bringing up level for play took: 0.031322
+[2019.12.02-11.14.30:795][ 89]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.12.02-11.14.30:813][ 89]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 20 classes and 0 folders.
+[2019.12.02-11.14.30:821][ 89]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.12.02-11.14.30:821][ 89]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.12.02-11.14.30:830][ 89]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.689
+[2019.12.02-11.14.30:830][ 89]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.12.02-11.14.34:967][413]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.12.02-11.14.34:968][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-11.14.34:968][413]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2019.12.02-11.14.34:968][413]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-11.14.35:004][413]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.02-11.14.35:004][413]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.12.02-11.14.35:056][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-11.14.35:059][413]LogSlate: Slate User Unregistered.  User Index 8
+[2019.12.02-11.14.35:059][413]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.12.02-11.14.35:109][413]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2019.12.02-11.14.35:141][414]LogPlayLevel: Display: Destroying online subsystem :Context_8
