@@ -1,3 +1,3 @@
-C:\integrationcourseenv\Projects\!!!AfekaFinalProject\VRoscopy\UnrealEngine\VRoscopy\Source\VRoscopy\VRoscopy.Build.cs
-C:\integrationcourseenv\Projects\!!!AfekaFinalProject\VRoscopy\UnrealEngine\VRoscopy\Source\VRoscopy.Target.cs
-C:\integrationcourseenv\Projects\!!!AfekaFinalProject\VRoscopy\UnrealEngine\VRoscopy\Source\VRoscopyEditor.Target.cs
+C:\Users\Afeka.051-Z210-1\Documents\GitHub\VRoscopyDanrol\VRoscopy\UnrealEngine\VRoscopy\Source\VRoscopy\VRoscopy.Build.cs
+C:\Users\Afeka.051-Z210-1\Documents\GitHub\VRoscopyDanrol\VRoscopy\UnrealEngine\VRoscopy\Source\VRoscopy.Target.cs
+C:\Users\Afeka.051-Z210-1\Documents\GitHub\VRoscopyDanrol\VRoscopy\UnrealEngine\VRoscopy\Source\VRoscopyEditor.Target.cs

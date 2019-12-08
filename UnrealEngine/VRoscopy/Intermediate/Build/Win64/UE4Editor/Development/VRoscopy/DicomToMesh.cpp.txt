@@ -1,2 +1,2 @@
-C:\integrationcourseenv\Projects\!!!AfekaFinalProject\VRoscopy\UnrealEngine\VRoscopy\Intermediate\Build\Win64\UE4Editor\Development\VRoscopy\Definitions.VRoscopy.h
-c:\integrationcourseenv\projects\!!!afekafinalproject\vroscopy\unrealengine\vroscopy\source\vroscopy\DicomToMesh.h
+C:\Users\Afeka.051-Z210-1\Documents\GitHub\VRoscopyDanrol\VRoscopy\UnrealEngine\VRoscopy\Intermediate\Build\Win64\UE4Editor\Development\VRoscopy\Definitions.VRoscopy.h
+c:\users\afeka.051-z210-1\documents\github\vroscopydanrol\vroscopy\unrealengine\vroscopy\source\vroscopy\DicomToMesh.h

@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\VRoscopy.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{687E1ABF-CE7D-4770-995B-F394B2807DAD}</UniqueIdentifier>
+      <UniqueIdentifier>{98B27F69-091C-4DE0-AD11-81C1BFAC0E7F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\VRoscopy.Target.cs">
       <Filter>Source</Filter>
@@ -13,7 +13,7 @@
     </None>
     <None Include="..\..\VRoscopy.png" />
     <Filter Include="Config">
-      <UniqueIdentifier>{CF3A2475-C790-4A97-9769-568FA97B6F02}</UniqueIdentifier>
+      <UniqueIdentifier>{B7B8B2B9-2D32-4C3C-BD37-68213EC0A9C6}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
       <Filter>Config</Filter>
@@ -31,12 +31,18 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\VRoscopy">
-      <UniqueIdentifier>{5124C4A2-03CE-4826-B890-968D468F3B85}</UniqueIdentifier>
+      <UniqueIdentifier>{D34C826A-B0B5-4AE3-B4B6-126D61A0FAB5}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\VRoscopy\DicomToMesh.cpp">
       <Filter>Source\VRoscopy</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\VRoscopy\DicomToMesh.h">
+      <Filter>Source\VRoscopy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VRoscopy\FileChooser.cpp">
+      <Filter>Source\VRoscopy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VRoscopy\FileChooser.h">
       <Filter>Source\VRoscopy</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\VRoscopy\MyWorldSettings.cpp">
