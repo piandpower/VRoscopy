@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\VRoscopy.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{98B27F69-091C-4DE0-AD11-81C1BFAC0E7F}</UniqueIdentifier>
+      <UniqueIdentifier>{DE280CA8-1E4B-4163-A3B0-29F5BB777F3E}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\VRoscopy.Target.cs">
       <Filter>Source</Filter>
@@ -13,7 +13,7 @@
     </None>
     <None Include="..\..\VRoscopy.png" />
     <Filter Include="Config">
-      <UniqueIdentifier>{B7B8B2B9-2D32-4C3C-BD37-68213EC0A9C6}</UniqueIdentifier>
+      <UniqueIdentifier>{626CA28F-8440-4C71-9C85-A22F7ADDD198}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
       <Filter>Config</Filter>
@@ -31,8 +31,14 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\VRoscopy">
-      <UniqueIdentifier>{D34C826A-B0B5-4AE3-B4B6-126D61A0FAB5}</UniqueIdentifier>
+      <UniqueIdentifier>{C3FFF41B-06CC-4DF4-A201-D6D9CC84BC87}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\VRoscopy\CppLib.cpp">
+      <Filter>Source\VRoscopy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VRoscopy\CppLib.h">
+      <Filter>Source\VRoscopy</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\VRoscopy\DicomToMesh.cpp">
       <Filter>Source\VRoscopy</Filter>
     </ClCompile>

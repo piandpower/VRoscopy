@@ -1,5 +1,16 @@
-C:\Users\Afeka.051-Z210-1\Documents\GitHub\VRoscopyDanrol\VRoscopy\UnrealEngine\VRoscopy\Intermediate\Build\Win64\UE4Editor\Development\VRoscopy\Definitions.VRoscopy.h
+C:\integrationcourseenv\Projects\!!!AfekaFinalProject\VRoscopy\UnrealEngine\VRoscopy\Intermediate\Build\Win64\UE4Editor\Development\VRoscopy\Definitions.VRoscopy.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\Afeka.051-Z210-1\Documents\GitHub\VRoscopyDanrol\VRoscopy\UnrealEngine\VRoscopy\Source\VRoscopy/MyWorldSettings.h
-c:\users\afeka.051-z210-1\documents\github\vroscopydanrol\vroscopy\unrealengine\vroscopy\intermediate\build\win64\ue4editor\inc\vroscopy\MyWorldSettings.generated.h
+C:\integrationcourseenv\Projects\!!!AfekaFinalProject\VRoscopy\UnrealEngine\VRoscopy\Source\VRoscopy/MyWorldSettings.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/WorldSettings.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/DamageType.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DamageType.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Info.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Info.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/AudioVolume.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Volume.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Volume.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioVolume.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/ConstructorHelpers.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\WorldSettings.generated.h
+c:\integrationcourseenv\projects\!!!afekafinalproject\vroscopy\unrealengine\vroscopy\intermediate\build\win64\ue4editor\inc\vroscopy\MyWorldSettings.generated.h
