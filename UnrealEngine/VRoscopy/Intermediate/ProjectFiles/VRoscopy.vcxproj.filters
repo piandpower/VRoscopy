@@ -45,12 +45,6 @@
     <ClInclude Include="..\..\Source\VRoscopy\DicomToMesh.h">
       <Filter>Source\VRoscopy</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Source\VRoscopy\FileChooser.cpp">
-      <Filter>Source\VRoscopy</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\VRoscopy\FileChooser.h">
-      <Filter>Source\VRoscopy</Filter>
-    </ClInclude>
     <ClCompile Include="..\..\Source\VRoscopy\MyWorldSettings.cpp">
       <Filter>Source\VRoscopy</Filter>
     </ClCompile>
@@ -66,5 +60,15 @@
     <ClInclude Include="..\..\Source\VRoscopy\VRoscopy.h">
       <Filter>Source\VRoscopy</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\VRoscopy\FilePicker.h">
+      <Filter>Source\VRoscopy</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\VRoscopy\FilePicker.cpp">
+      <Filter>Source\VRoscopy</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
