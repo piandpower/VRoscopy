@@ -1,3 +1,3 @@
-C:\integrationcourseenv\Projects\!!!AfekaFinalProject\VRoscopy\UnrealEngine\VRoscopy\Source\VRoscopy\VRoscopy.Build.cs
-C:\integrationcourseenv\Projects\!!!AfekaFinalProject\VRoscopy\UnrealEngine\VRoscopy\Source\VRoscopy.Target.cs
-C:\integrationcourseenv\Projects\!!!AfekaFinalProject\VRoscopy\UnrealEngine\VRoscopy\Source\VRoscopyEditor.Target.cs
+D:\VRoscopy_repo\VRoscopy\UnrealEngine\VRoscopy\Source\VRoscopy\VRoscopy.Build.cs
+D:\VRoscopy_repo\VRoscopy\UnrealEngine\VRoscopy\Source\VRoscopy.Target.cs
+D:\VRoscopy_repo\VRoscopy\UnrealEngine\VRoscopy\Source\VRoscopyEditor.Target.cs
