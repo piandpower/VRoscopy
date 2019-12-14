@@ -15,7 +15,7 @@ void EmptyLinkFunctionForGeneratedCodeFilePicker() {}
 // Cross Module References
 	VROSCOPY_API UClass* Z_Construct_UClass_UFilePicker_NoRegister();
 	VROSCOPY_API UClass* Z_Construct_UClass_UFilePicker();
-	ENGINE_API UClass* Z_Construct_UClass_UActorComponent();
+	ENGINE_API UClass* Z_Construct_UClass_UBlueprint();
 	UPackage* Z_Construct_UPackage__Script_VRoscopy();
 	VROSCOPY_API UFunction* Z_Construct_UFunction_UFilePicker_OpenFileDialog();
 	VROSCOPY_API UFunction* Z_Construct_UFunction_UFilePicker_PrintData();
@@ -93,7 +93,7 @@ void EmptyLinkFunctionForGeneratedCodeFilePicker() {}
 		{ "ToolTip", "* Opens a file dialog for the specified data. Leave FileTypes empty to be able to select any files.\n* Filetypes must be in the format of: <File type Description>|*.<actual extension>\n* You can combine multiple extensions by placing \";\" between them\n* For example: Text Files|*.txt|Excel files|*.csv|Image Files|*.png;*.jpg;*.bmp will display 3 lines for 3 different type of files." },
 	};
 #endif
-	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_UFilePicker_OpenFileDialog_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_UFilePicker, nullptr, "OpenFileDialog", nullptr, nullptr, sizeof(FilePicker_eventOpenFileDialog_Parms), Z_Construct_UFunction_UFilePicker_OpenFileDialog_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_UFilePicker_OpenFileDialog_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04420401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_UFilePicker_OpenFileDialog_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_UFilePicker_OpenFileDialog_Statics::Function_MetaDataParams)) };
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_UFilePicker_OpenFileDialog_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_UFilePicker, nullptr, "OpenFileDialog", nullptr, nullptr, sizeof(FilePicker_eventOpenFileDialog_Parms), Z_Construct_UFunction_UFilePicker_OpenFileDialog_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_UFilePicker_OpenFileDialog_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04422401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_UFilePicker_OpenFileDialog_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_UFilePicker_OpenFileDialog_Statics::Function_MetaDataParams)) };
 	UFunction* Z_Construct_UFunction_UFilePicker_OpenFileDialog()
 	{
 		static UFunction* ReturnFunction = nullptr;
@@ -136,7 +136,7 @@ void EmptyLinkFunctionForGeneratedCodeFilePicker() {}
 		{ "ToolTip", "Prints the data of the given file" },
 	};
 #endif
-	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_UFilePicker_PrintData_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_UFilePicker, nullptr, "PrintData", nullptr, nullptr, sizeof(FilePicker_eventPrintData_Parms), Z_Construct_UFunction_UFilePicker_PrintData_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_UFilePicker_PrintData_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_UFilePicker_PrintData_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_UFilePicker_PrintData_Statics::Function_MetaDataParams)) };
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_UFilePicker_PrintData_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_UFilePicker, nullptr, "PrintData", nullptr, nullptr, sizeof(FilePicker_eventPrintData_Parms), Z_Construct_UFunction_UFilePicker_PrintData_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_UFilePicker_PrintData_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04022401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_UFilePicker_PrintData_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_UFilePicker_PrintData_Statics::Function_MetaDataParams)) };
 	UFunction* Z_Construct_UFunction_UFilePicker_PrintData()
 	{
 		static UFunction* ReturnFunction = nullptr;
@@ -161,17 +161,15 @@ void EmptyLinkFunctionForGeneratedCodeFilePicker() {}
 		static const UE4CodeGen_Private::FClassParams ClassParams;
 	};
 	UObject* (*const Z_Construct_UClass_UFilePicker_Statics::DependentSingletons[])() = {
-		(UObject* (*)())Z_Construct_UClass_UActorComponent,
+		(UObject* (*)())Z_Construct_UClass_UBlueprint,
 		(UObject* (*)())Z_Construct_UPackage__Script_VRoscopy,
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_UFilePicker_Statics::FuncInfo[] = {
-		{ &Z_Construct_UFunction_UFilePicker_OpenFileDialog, "OpenFileDialog" }, // 1040350058
-		{ &Z_Construct_UFunction_UFilePicker_PrintData, "PrintData" }, // 1269192099
+		{ &Z_Construct_UFunction_UFilePicker_OpenFileDialog, "OpenFileDialog" }, // 3014060545
+		{ &Z_Construct_UFunction_UFilePicker_PrintData, "PrintData" }, // 1778754835
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UFilePicker_Statics::Class_MetaDataParams[] = {
-		{ "BlueprintSpawnableComponent", "" },
-		{ "ClassGroupNames", "Custom" },
 		{ "IncludePath", "FilePicker.h" },
 		{ "ModuleRelativePath", "FilePicker.h" },
 	};
@@ -191,7 +189,7 @@ void EmptyLinkFunctionForGeneratedCodeFilePicker() {}
 		ARRAY_COUNT(FuncInfo),
 		0,
 		0,
-		0x00B000A4u,
+		0x009000A4u,
 		METADATA_PARAMS(Z_Construct_UClass_UFilePicker_Statics::Class_MetaDataParams, ARRAY_COUNT(Z_Construct_UClass_UFilePicker_Statics::Class_MetaDataParams))
 	};
 	UClass* Z_Construct_UClass_UFilePicker()
@@ -203,7 +201,7 @@ void EmptyLinkFunctionForGeneratedCodeFilePicker() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UFilePicker, 3710109662);
+	IMPLEMENT_CLASS(UFilePicker, 826813935);
 	template<> VROSCOPY_API UClass* StaticClass<UFilePicker>()
 	{
 		return UFilePicker::StaticClass();
