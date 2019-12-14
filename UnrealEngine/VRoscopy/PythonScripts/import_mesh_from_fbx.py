@@ -8,7 +8,9 @@ import unreal
 #skeletal_mesh_fbx = ''
 
 
-def importMyAssets(static_mesh_fbx = 'C:/Users/DAN/Desktop/untitled.fbx'):
+def importMyAssets(static_mesh_fbx = ''):
+	if static_mesh_fbx is '':
+		return
     static_mesh_task = buildImportTask(static_mesh_fbx, '/Game/StaticMeshes', buildStaticMeshImportOptions())
     executeImportTasks([static_mesh_task])
 
