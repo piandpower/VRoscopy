@@ -1,2 +1,2 @@
-D:\VRoscopy_repo\VRoscopy\UnrealEngine\VRoscopy\Intermediate\Build\Win64\UE4Editor\Development\VRoscopy\Definitions.VRoscopy.h
-d:\vroscopy_repo\vroscopy\unrealengine\vroscopy\source\vroscopy\VRoscopy.h
+C:\integrationcourseenv\Projects\!!!AfekaFinalProject\VRoscopy\UnrealEngine\VRoscopy\Intermediate\Build\Win64\UE4Editor\Development\VRoscopy\Definitions.VRoscopy.h
+c:\integrationcourseenv\projects\!!!afekafinalproject\vroscopy\unrealengine\vroscopy\source\vroscopy\VRoscopy.h

@@ -382,5 +382,5 @@
 #define MAINFRAME_VTABLE DLLIMPORT_VTABLE
 #define MAINFRAME_API DLLIMPORT
 #define WITH_PYTHON 1
-#define UE_PYTHON_DIR "{ENGINE_DIR}/Binaries/ThirdParty/Python/Win64"
+#define UE_PYTHON_DIR "C:/Users/DAN/AppData/Local/Programs/Python/Python36"
 #define HAVE_ROUND 1

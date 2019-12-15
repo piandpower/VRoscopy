@@ -1,102 +1,112 @@
-D:\VRoscopy_repo\VRoscopy\UnrealEngine\VRoscopy\Intermediate\Build\Win64\UE4Editor\Development\VRoscopy\Definitions.VRoscopy.h
-d:\vroscopy_repo\vroscopy\unrealengine\vroscopy\source\vroscopy\CppLib.h
-D:\VRoscopy_repo\VRoscopy\UnrealEngine\VRoscopy\Intermediate\Build\Win64\UE4Editor\Inc\VRoscopy\CppLib.generated.h
-J:\UE_4.23\Engine\Source\Editor/UnrealEd/Public/LevelEditorViewport.h
-J:\UE_4.23\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
-J:\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
-J:\UE_4.23\Engine\Source\Editor/ContentBrowser/Public/ContentBrowserModule.h
-j:\ue_4.23\engine\source\editor\contentbrowser\public\ContentBrowserDelegates.h
-J:\UE_4.23\Engine\Source\Developer/AssetTools/Public/IAssetTypeActions.h
-J:\UE_4.23\Engine\Source\Developer/Merge/Public/Merge.h
-J:\UE_4.23\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailManager.h
-J:\UE_4.23\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailRenderer.h
-J:\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailRenderer.generated.h
-J:\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailManager.generated.h
-J:\UE_4.23\Engine\Source\Editor/ContentBrowser/Private/SContentBrowser.h
-J:\UE_4.23\Engine\Source\Developer\CollectionManager\Public\CollectionManagerTypes.h
-J:\UE_4.23\Engine\Source\Developer\SourceControl\Public\ISourceControlState.h
-J:\UE_4.23\Engine\Source\Editor\ContentBrowser\Public\IContentBrowserSingleton.h
-J:\UE_4.23\Engine\Source\Developer/AssetTools/Public/AssetTypeCategories.h
-J:\UE_4.23\Engine\Source\Editor/ContentBrowser/Private/HistoryManager.h
-j:\ue_4.23\engine\source\editor\contentbrowser\private\SourcesData.h
-J:\UE_4.23\Engine\Source\Developer\CollectionManager\Public\ICollectionManager.h
-J:\UE_4.23\Engine\Source\Developer\CollectionManager\Public\CollectionManagerModule.h
-J:\UE_4.23\Engine\Source\Runtime/AssetRegistry/Public/AssetRegistryModule.h
-J:\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\Misc/AssetRegistryInterface.h
-j:\ue_4.23\engine\source\runtime\assetregistry\public\IAssetRegistry.h
-J:\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\IAssetRegistry.generated.h
-J:\UE_4.23\Engine\Source\../Plugins/Experimental/PythonScriptPlugin/Source/PythonScriptPlugin/Private/PythonScriptPlugin.h
-j:\ue_4.23\engine\plugins\experimental\pythonscriptplugin\source\pythonscriptplugin\private\IncludePython.h
-J:\UE_4.23\Engine\Source\ThirdParty\Python\Win64\include\Python.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\patchlevel.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\pyconfig.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\io.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_io.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\basetsd.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\pymacconfig.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\assert.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\pyport.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\math.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\time.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\pymath.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\pymem.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\object.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\objimpl.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\pydebug.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\unicodeobject.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\intobject.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\boolobject.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\longobject.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\floatobject.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\complexobject.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\rangeobject.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\stringobject.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\memoryobject.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\bufferobject.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\bytesobject.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\bytearrayobject.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\tupleobject.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\listobject.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\dictobject.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\enumobject.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\setobject.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\methodobject.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\moduleobject.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\funcobject.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\classobject.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\fileobject.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\cobject.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\pycapsule.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\traceback.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\sliceobject.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\cellobject.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\iterobject.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\genobject.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\descrobject.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\warnings.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\weakrefobject.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\codecs.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\pyerrors.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\pystate.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\pyarena.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\modsupport.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\pythonrun.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\ceval.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\sysmodule.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\intrcheck.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\import.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\abstract.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\compile.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\code.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\eval.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\pyctype.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\pystrtod.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\pystrcmp.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\dtoa.h
-j:\ue_4.23\engine\source\thirdparty\python\win64\include\pyfpe.h
-J:\UE_4.23\Engine\Source\ThirdParty\Python\Win64\include\structmember.h
-J:\UE_4.23\Engine\Plugins\Experimental\PythonScriptPlugin\Source\PythonScriptPlugin\Public\IPythonScriptPlugin.h
-j:\ue_4.23\engine\plugins\experimental\pythonscriptplugin\source\pythonscriptplugin\public\PythonScriptTypes.h
-J:\UE_4.23\Engine\Plugins\Experimental\PythonScriptPlugin\Intermediate\Build\Win64\UE4Editor\Inc\PythonScriptPlugin\PythonScriptTypes.generated.h
-j:\ue_4.23\engine\plugins\experimental\pythonscriptplugin\source\pythonscriptplugin\private\PyUtil.h
-j:\ue_4.23\engine\plugins\experimental\pythonscriptplugin\source\pythonscriptplugin\private\PyPtr.h
+C:\integrationcourseenv\Projects\!!!AfekaFinalProject\VRoscopy\UnrealEngine\VRoscopy\Intermediate\Build\Win64\UE4Editor\Development\VRoscopy\Definitions.VRoscopy.h
+c:\integrationcourseenv\projects\!!!afekafinalproject\vroscopy\unrealengine\vroscopy\source\vroscopy\CppLib.h
+C:\integrationcourseenv\Projects\!!!AfekaFinalProject\VRoscopy\UnrealEngine\VRoscopy\Intermediate\Build\Win64\UE4Editor\Inc\VRoscopy\CppLib.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor/UnrealEd/Public/LevelEditorViewport.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor/ContentBrowser/Public/ContentBrowserModule.h
+c:\program files\epic games\ue_4.23\engine\source\editor\contentbrowser\public\ContentBrowserDelegates.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Developer/AssetTools/Public/IAssetTypeActions.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Developer/Merge/Public/Merge.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailManager.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailRenderer.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailRenderer.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailManager.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor/ContentBrowser/Private/SContentBrowser.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Developer\CollectionManager\Public\CollectionManagerTypes.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Developer\SourceControl\Public\ISourceControlState.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\ContentBrowser\Public\IContentBrowserSingleton.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Developer/AssetTools/Public/AssetTypeCategories.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor/ContentBrowser/Private/HistoryManager.h
+c:\program files\epic games\ue_4.23\engine\source\editor\contentbrowser\private\SourcesData.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Developer\CollectionManager\Public\ICollectionManager.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Developer\CollectionManager\Public\CollectionManagerModule.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime/AssetRegistry/Public/AssetRegistryModule.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\Misc/AssetRegistryInterface.h
+c:\program files\epic games\ue_4.23\engine\source\runtime\assetregistry\public\IAssetRegistry.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\IAssetRegistry.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\../Plugins/Experimental/PythonScriptPlugin/Source/PythonScriptPlugin/Private/PythonScriptPlugin.h
+c:\program files\epic games\ue_4.23\engine\plugins\experimental\pythonscriptplugin\source\pythonscriptplugin\private\IncludePython.h
+C:\Users\DAN\AppData\Local\Programs\Python\Python36\include\Python.h
+c:\users\dan\appdata\local\programs\python\python36\include\patchlevel.h
+c:\users\dan\appdata\local\programs\python\python36\include\pyconfig.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\io.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\corecrt_io.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\basetsd.h
+c:\users\dan\appdata\local\programs\python\python36\include\pymacconfig.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\assert.h
+c:\users\dan\appdata\local\programs\python\python36\include\pyport.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\inttypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\time.h
+c:\users\dan\appdata\local\programs\python\python36\include\pymacro.h
+c:\users\dan\appdata\local\programs\python\python36\include\pyatomic.h
+c:\users\dan\appdata\local\programs\python\python36\include\pymath.h
+c:\users\dan\appdata\local\programs\python\python36\include\pytime.h
+c:\users\dan\appdata\local\programs\python\python36\include\object.h
+c:\users\dan\appdata\local\programs\python\python36\include\pymem.h
+c:\users\dan\appdata\local\programs\python\python36\include\objimpl.h
+c:\users\dan\appdata\local\programs\python\python36\include\typeslots.h
+c:\users\dan\appdata\local\programs\python\python36\include\pyhash.h
+c:\users\dan\appdata\local\programs\python\python36\include\pydebug.h
+c:\users\dan\appdata\local\programs\python\python36\include\bytearrayobject.h
+c:\users\dan\appdata\local\programs\python\python36\include\bytesobject.h
+c:\users\dan\appdata\local\programs\python\python36\include\unicodeobject.h
+c:\users\dan\appdata\local\programs\python\python36\include\longobject.h
+c:\users\dan\appdata\local\programs\python\python36\include\longintrepr.h
+c:\users\dan\appdata\local\programs\python\python36\include\boolobject.h
+c:\users\dan\appdata\local\programs\python\python36\include\floatobject.h
+c:\users\dan\appdata\local\programs\python\python36\include\complexobject.h
+c:\users\dan\appdata\local\programs\python\python36\include\rangeobject.h
+c:\users\dan\appdata\local\programs\python\python36\include\memoryobject.h
+c:\users\dan\appdata\local\programs\python\python36\include\tupleobject.h
+c:\users\dan\appdata\local\programs\python\python36\include\listobject.h
+c:\users\dan\appdata\local\programs\python\python36\include\dictobject.h
+c:\users\dan\appdata\local\programs\python\python36\include\odictobject.h
+c:\users\dan\appdata\local\programs\python\python36\include\enumobject.h
+c:\users\dan\appdata\local\programs\python\python36\include\setobject.h
+c:\users\dan\appdata\local\programs\python\python36\include\methodobject.h
+c:\users\dan\appdata\local\programs\python\python36\include\moduleobject.h
+c:\users\dan\appdata\local\programs\python\python36\include\funcobject.h
+c:\users\dan\appdata\local\programs\python\python36\include\classobject.h
+c:\users\dan\appdata\local\programs\python\python36\include\fileobject.h
+c:\users\dan\appdata\local\programs\python\python36\include\pycapsule.h
+c:\users\dan\appdata\local\programs\python\python36\include\traceback.h
+c:\users\dan\appdata\local\programs\python\python36\include\pystate.h
+c:\users\dan\appdata\local\programs\python\python36\include\sliceobject.h
+c:\users\dan\appdata\local\programs\python\python36\include\cellobject.h
+c:\users\dan\appdata\local\programs\python\python36\include\iterobject.h
+c:\users\dan\appdata\local\programs\python\python36\include\genobject.h
+c:\users\dan\appdata\local\programs\python\python36\include\descrobject.h
+c:\users\dan\appdata\local\programs\python\python36\include\warnings.h
+c:\users\dan\appdata\local\programs\python\python36\include\weakrefobject.h
+c:\users\dan\appdata\local\programs\python\python36\include\structseq.h
+c:\users\dan\appdata\local\programs\python\python36\include\namespaceobject.h
+c:\users\dan\appdata\local\programs\python\python36\include\codecs.h
+c:\users\dan\appdata\local\programs\python\python36\include\pyerrors.h
+c:\users\dan\appdata\local\programs\python\python36\include\pyarena.h
+c:\users\dan\appdata\local\programs\python\python36\include\modsupport.h
+c:\users\dan\appdata\local\programs\python\python36\include\pythonrun.h
+c:\users\dan\appdata\local\programs\python\python36\include\pylifecycle.h
+c:\users\dan\appdata\local\programs\python\python36\include\ceval.h
+c:\users\dan\appdata\local\programs\python\python36\include\sysmodule.h
+c:\users\dan\appdata\local\programs\python\python36\include\osmodule.h
+c:\users\dan\appdata\local\programs\python\python36\include\intrcheck.h
+c:\users\dan\appdata\local\programs\python\python36\include\import.h
+c:\users\dan\appdata\local\programs\python\python36\include\abstract.h
+c:\users\dan\appdata\local\programs\python\python36\include\bltinmodule.h
+c:\users\dan\appdata\local\programs\python\python36\include\compile.h
+c:\users\dan\appdata\local\programs\python\python36\include\code.h
+c:\users\dan\appdata\local\programs\python\python36\include\eval.h
+c:\users\dan\appdata\local\programs\python\python36\include\pyctype.h
+c:\users\dan\appdata\local\programs\python\python36\include\pystrtod.h
+c:\users\dan\appdata\local\programs\python\python36\include\pystrcmp.h
+c:\users\dan\appdata\local\programs\python\python36\include\dtoa.h
+c:\users\dan\appdata\local\programs\python\python36\include\fileutils.h
+c:\users\dan\appdata\local\programs\python\python36\include\pyfpe.h
+C:\Users\DAN\AppData\Local\Programs\Python\Python36\include\structmember.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Plugins\Experimental\PythonScriptPlugin\Source\PythonScriptPlugin\Public\IPythonScriptPlugin.h
+c:\program files\epic games\ue_4.23\engine\plugins\experimental\pythonscriptplugin\source\pythonscriptplugin\public\PythonScriptTypes.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Plugins\Experimental\PythonScriptPlugin\Intermediate\Build\Win64\UE4Editor\Inc\PythonScriptPlugin\PythonScriptTypes.generated.h
+c:\program files\epic games\ue_4.23\engine\plugins\experimental\pythonscriptplugin\source\pythonscriptplugin\private\PyUtil.h
+c:\program files\epic games\ue_4.23\engine\plugins\experimental\pythonscriptplugin\source\pythonscriptplugin\private\PyPtr.h
