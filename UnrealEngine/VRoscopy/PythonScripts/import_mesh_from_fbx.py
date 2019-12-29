@@ -7,11 +7,14 @@ import unreal
 #static_mesh_fbx = 'C:/Users/DAN/Desktop/untitled.fbx'
 #skeletal_mesh_fbx = ''
 
+output_asset_path = '/Game/StaticMeshes'
+# output_asset_path = '/Content/StaticMeshes'
+
 
 def importMyAssets(static_mesh_fbx = None):
     if static_mesh_fbx is None:
         return
-    static_mesh_task = buildImportTask(static_mesh_fbx, '/Game/StaticMeshes', buildStaticMeshImportOptions())
+    static_mesh_task = buildImportTask(static_mesh_fbx, output_asset_path, buildStaticMeshImportOptions())
     executeImportTasks([static_mesh_task])
 
 
