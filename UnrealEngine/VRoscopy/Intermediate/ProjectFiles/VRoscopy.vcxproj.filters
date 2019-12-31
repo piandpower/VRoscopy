@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\VRoscopy.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{2DDD5479-9FF0-4B27-B6F0-D4808F262E68}</UniqueIdentifier>
+      <UniqueIdentifier>{A7F19C38-9DB5-4C79-AD7C-72BD2ACCF534}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\VRoscopy.Target.cs">
       <Filter>Source</Filter>
@@ -13,8 +13,11 @@
     </None>
     <None Include="..\..\VRoscopy.png" />
     <Filter Include="Config">
-      <UniqueIdentifier>{053238F5-9BC5-46C4-B03A-2F22748579F3}</UniqueIdentifier>
+      <UniqueIdentifier>{EE0C40B3-539E-43FC-BE13-980C4C019CC6}</UniqueIdentifier>
     </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
     <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
       <Filter>Config</Filter>
     </None>
@@ -31,7 +34,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\VRoscopy">
-      <UniqueIdentifier>{E8568ED9-4C25-4AE1-A1F3-08E21E910C75}</UniqueIdentifier>
+      <UniqueIdentifier>{3C3CF10A-FBAF-4365-9828-9E5F1D04B9C4}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\VRoscopy\CppLib.cpp">
       <Filter>Source\VRoscopy</Filter>
@@ -43,6 +46,15 @@
       <Filter>Source\VRoscopy</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\VRoscopy\DicomToMesh.h">
+      <Filter>Source\VRoscopy</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\VRoscopy\FDDFileTreeItem.h">
+      <Filter>Source\VRoscopy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VRoscopy\FilePicker.cpp">
+      <Filter>Source\VRoscopy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VRoscopy\FilePicker.h">
       <Filter>Source\VRoscopy</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\VRoscopy\MyWorldSettings.cpp">
@@ -62,12 +74,12 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\Source\VRoscopy\FilePicker.h">
+    <ClInclude Include="..\..\Source\VRoscopy\SSlateFileExplorer.h">
       <Filter>Source\VRoscopy</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Source\VRoscopy\FilePicker.cpp">
+    <ClCompile Include="..\..\Source\VRoscopy\SSlateFileExplorer.cpp">
       <Filter>Source\VRoscopy</Filter>
     </ClCompile>
   </ItemGroup>
