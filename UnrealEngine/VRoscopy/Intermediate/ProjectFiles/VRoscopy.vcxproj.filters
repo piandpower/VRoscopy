@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\VRoscopy.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{A7F19C38-9DB5-4C79-AD7C-72BD2ACCF534}</UniqueIdentifier>
+      <UniqueIdentifier>{6A01CE50-34D7-40D4-A6A9-DD7F5EA87319}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\VRoscopy.Target.cs">
       <Filter>Source</Filter>
@@ -13,7 +13,7 @@
     </None>
     <None Include="..\..\VRoscopy.png" />
     <Filter Include="Config">
-      <UniqueIdentifier>{EE0C40B3-539E-43FC-BE13-980C4C019CC6}</UniqueIdentifier>
+      <UniqueIdentifier>{F1AE528E-227A-416F-AA6A-09AEDFBAA80A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -34,12 +34,15 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\VRoscopy">
-      <UniqueIdentifier>{3C3CF10A-FBAF-4365-9828-9E5F1D04B9C4}</UniqueIdentifier>
+      <UniqueIdentifier>{7B1768E8-B033-4B6B-9A26-F43A684584FC}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\VRoscopy\CppLib.cpp">
       <Filter>Source\VRoscopy</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\VRoscopy\CppLib.h">
+      <Filter>Source\VRoscopy</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\VRoscopy\DDFileTreeItem.h">
       <Filter>Source\VRoscopy</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\VRoscopy\DicomToMesh.cpp">
@@ -48,19 +51,31 @@
     <ClInclude Include="..\..\Source\VRoscopy\DicomToMesh.h">
       <Filter>Source\VRoscopy</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Source\VRoscopy\FDDFileTreeItem.h">
-      <Filter>Source\VRoscopy</Filter>
-    </ClInclude>
     <ClCompile Include="..\..\Source\VRoscopy\FilePicker.cpp">
       <Filter>Source\VRoscopy</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\VRoscopy\FilePicker.h">
       <Filter>Source\VRoscopy</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\VRoscopy\MyGameModeBase.cpp">
+      <Filter>Source\VRoscopy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VRoscopy\MyGameModeBase.h">
+      <Filter>Source\VRoscopy</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\VRoscopy\MyWorldSettings.cpp">
       <Filter>Source\VRoscopy</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\VRoscopy\MyWorldSettings.h">
+      <Filter>Source\VRoscopy</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\VRoscopy\SDDFileTree.h">
+      <Filter>Source\VRoscopy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VRoscopy\SlateHUD.cpp">
+      <Filter>Source\VRoscopy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VRoscopy\SlateHUD.h">
       <Filter>Source\VRoscopy</Filter>
     </ClInclude>
     <None Include="..\..\Source\VRoscopy\VRoscopy.Build.cs">
@@ -72,15 +87,5 @@
     <ClInclude Include="..\..\Source\VRoscopy\VRoscopy.h">
       <Filter>Source\VRoscopy</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\Source\VRoscopy\SSlateFileExplorer.h">
-      <Filter>Source\VRoscopy</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\Source\VRoscopy\SSlateFileExplorer.cpp">
-      <Filter>Source\VRoscopy</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>

@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeVRoscopy_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xCB87D547,
-				0x9158BAEC,
+				0x1D0CA747,
+				0x263092DB,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);
