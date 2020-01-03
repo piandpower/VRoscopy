@@ -72,12 +72,6 @@
     <ClInclude Include="..\..\Source\VRoscopy\SDDFileTree.h">
       <Filter>Source\VRoscopy</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Source\VRoscopy\SlateHUD.cpp">
-      <Filter>Source\VRoscopy</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\VRoscopy\SlateHUD.h">
-      <Filter>Source\VRoscopy</Filter>
-    </ClInclude>
     <None Include="..\..\Source\VRoscopy\VRoscopy.Build.cs">
       <Filter>Source\VRoscopy</Filter>
     </None>
@@ -87,5 +81,10 @@
     <ClInclude Include="..\..\Source\VRoscopy\VRoscopy.h">
       <Filter>Source\VRoscopy</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\VRoscopy\SDDFileTree.cpp">
+      <Filter>Source\VRoscopy</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
