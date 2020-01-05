@@ -1657,3 +1657,1405 @@ MainLevel_C.InpActEvt_Tab_K2Node_InputKeyEvent_0
 [2020.01.05-16.49.26:179][616]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
 [2020.01.05-16.49.26:480][616]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/MainLevel4FEFA6D543FE6D30B10EE5AC7F3BB332.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/MainLevel.umap'
 [2020.01.05-16.49.26:964][616]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/MainLevel_BuiltDataF67CDDB641F8C4D8B624D0A044EF67D6.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/MainLevel_BuiltData.uasset'
+[2020.01.05-16.53.15:365][678]LogHttp: Warning: 000002810D72EFC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE81CE8BB-4C0B-B0C3-3481-5D8703734AE6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=364d500d4a7c49be2c5a77a2c8a9a195%7Cb45afa3f4c174d7cbc6deabba9b56a33%7C78f02ffb-5304-4661-a0e6-cdd3f9858eda&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2020.01.05-16.53.15:366][678]LogHttp: Warning: 000002810D72EFC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.01.05-16.53.15:366][678]LogHttp: Warning: 000002810D72EFC0: libcurl info message cache 0 (Connection 2 seems to be dead!)
+[2020.01.05-16.53.15:366][678]LogHttp: Warning: 000002810D72EFC0: libcurl info message cache 1 (Closing connection 2)
+[2020.01.05-16.53.15:367][678]LogHttp: Warning: 000002810D72EFC0: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.01.05-16.53.15:367][678]LogHttp: Warning: 000002810D72EFC0: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.01.05-16.53.15:367][678]LogHttp: Warning: 000002810D72EFC0: libcurl info message cache 4 (Closing connection 3)
+[2020.01.05-16.53.15:367][678]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE81CE8BB-4C0B-B0C3-3481-5D8703734AE6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=364d500d4a7c49be2c5a77a2c8a9a195%7Cb45afa3f4c174d7cbc6deabba9b56a33%7C78f02ffb-5304-4661-a0e6-cdd3f9858eda&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.05-17.09.04:273][ 61]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-17.09.16:839][ 88]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{354b9f55-9037-4e42-a6d0-fe287cba09e7} was removed. Shutting down audio device.
+[2020.01.05-17.09.16:839][ 88]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{354b9f55-9037-4e42-a6d0-fe287cba09e7} was removed. Shutting down audio device.
+[2020.01.05-17.09.16:839][ 88]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.05-17.09.24:705][ 99]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-17.11.44:780][921]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/MainLevel.MainLevel:PersistentLevel.MainLevel
+[2020.01.05-17.21.07:473][246]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.05-17.21.07:502][246]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-17.21.07:502][246]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.05-17.21.07:503][246]PIE: New page: PIE session: MainLevel (Jan 5, 2020, 9:21:07 PM)
+[2020.01.05-17.21.07:503][246]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2020.01.05-17.21.07:524][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020393s)
+[2020.01.05-17.21.07:525][246]LogAIModule: Creating AISystem for world MainLevel
+[2020.01.05-17.21.07:526][246]LogPlayLevel: PIE: World Init took: (0.002142s)
+[2020.01.05-17.21.07:526][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.023278s)
+[2020.01.05-17.21.07:572][246]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2020.01.05-17.21.07:604][246]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-17.21.07:614][246]LogInit: FAudioDevice initialized.
+[2020.01.05-17.21.07:637][246]LogLoad: Game class is 'MyGameModeBase'
+[2020.01.05-17.21.07:640][246]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2020.01.05-19.21.07
+[2020.01.05-17.21.07:641][246]LogWorld: Bringing up level for play took: 0.003899
+[2020.01.05-17.21.07:642][246]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.01.05-17.21.07:650][246]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.649
+[2020.01.05-17.21.07:651][246]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-17.21.10:534][451]LogPython: Error: Traceback (most recent call last):
+[2020.01.05-17.21.10:535][451]LogPython: Error:   File "<string>", line 3, in <module>
+[2020.01.05-17.21.10:535][451]LogPython: Error:   File "C:/integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/PythonScripts\run_stl_to_fbx.py", line 19, in run_cmd
+[2020.01.05-17.21.10:535][451]LogPython: Error:     cp = subprocess.run(
+[2020.01.05-17.21.10:535][451]LogPython: Error: AttributeError: 'module' object has no attribute 'run'
+[2020.01.05-17.21.10:536][451]LogBlueprintUserMessages: [MainLevel_C_1] STL Converted into FBX
+[2020.01.05-17.21.13:462][689]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.05-17.22.15:431][ 15]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-17.22.15:431][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-17.22.15:432][ 15]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2020.01.05-17.22.15:432][ 15]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.05-17.22.15:459][ 15]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.05-17.22.15:459][ 15]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-17.22.15:505][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-17.22.15:511][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.01.05-17.22.15:569][ 16]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.01.05-17.24.40:958][879]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.05-17.24.40:984][879]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-17.24.40:985][879]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.05-17.24.40:985][879]PIE: New page: PIE session: MainLevel (Jan 5, 2020, 9:24:40 PM)
+[2020.01.05-17.24.40:985][879]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2020.01.05-17.24.41:000][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015048s)
+[2020.01.05-17.24.41:002][879]LogAIModule: Creating AISystem for world MainLevel
+[2020.01.05-17.24.41:002][879]LogPlayLevel: PIE: World Init took: (0.001446s)
+[2020.01.05-17.24.41:002][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.017001s)
+[2020.01.05-17.24.41:039][879]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.01.05-17.24.41:067][879]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-17.24.41:076][879]LogInit: FAudioDevice initialized.
+[2020.01.05-17.24.41:088][879]LogLoad: Game class is 'MyGameModeBase'
+[2020.01.05-17.24.41:091][879]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2020.01.05-19.24.41
+[2020.01.05-17.24.41:091][879]LogWorld: Bringing up level for play took: 0.002801
+[2020.01.05-17.24.41:092][879]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.01.05-17.24.41:098][879]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.096
+[2020.01.05-17.24.41:099][879]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-17.24.47:740][543]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-17.24.47:741][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-17.24.47:741][543]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2020.01.05-17.24.47:741][543]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.05-17.24.47:764][543]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.05-17.24.47:765][543]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-17.24.47:806][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-17.24.47:811][543]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.01.05-17.24.47:855][544]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.01.05-17.24.53:516][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (untitled_Mesh)
+[2020.01.05-17.26.06:160][701]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.05-17.26.18:959][ 71]LogPython: py -v
+[2020.01.05-17.26.18:959][ 71]LogPython: Error: Traceback (most recent call last):
+[2020.01.05-17.26.18:959][ 71]LogPython: Error:   File "<string>", line 1, in <module>
+[2020.01.05-17.26.18:959][ 71]LogPython: Error: NameError: name 'py' is not defined
+[2020.01.05-17.27.02:343][155]LogPython: python
+[2020.01.05-17.27.02:343][155]LogPython: Error: Traceback (most recent call last):
+[2020.01.05-17.27.02:344][155]LogPython: Error:   File "<string>", line 1, in <module>
+[2020.01.05-17.27.02:344][155]LogPython: Error: NameError: name 'python' is not defined
+[2020.01.05-17.27.08:184][827]LogPython: py -v
+[2020.01.05-17.27.08:184][827]LogPython: Error: Traceback (most recent call last):
+[2020.01.05-17.27.08:185][827]LogPython: Error:   File "<string>", line 1, in <module>
+[2020.01.05-17.27.08:185][827]LogPython: Error: NameError: name 'py' is not defined
+[2020.01.05-17.27.09:787][ 10]LogPython: python
+[2020.01.05-17.27.09:788][ 10]LogPython: Error: Traceback (most recent call last):
+[2020.01.05-17.27.09:788][ 10]LogPython: Error:   File "<string>", line 1, in <module>
+[2020.01.05-17.27.09:788][ 10]LogPython: Error: NameError: name 'python' is not defined
+[2020.01.05-17.27.32:333][664]LogPython: import sys
+[2020.01.05-17.27.38:171][338]LogPython: print (sys.version)
+[2020.01.05-17.27.38:171][338]LogPython: 2.7.14 (v2.7.14:84471935ed, Sep 16 2017, 20:25:58) [MSC v.1500 64 bit (AMD64)]
+[2020.01.05-17.33.16:830][594]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.01.05-17.33.17:275][594]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/MainLevel_Auto18FA8EB30445F51F84C41D6BE3BE95EE9.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Autosaves/Game/MainLevel_Auto1.umap'
+[2020.01.05-17.33.17:286][594]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainLevel' took 0.520
+[2020.01.05-17.33.17:287][594]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.520
+[2020.01.05-17.39.50:240][760]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{354b9f55-9037-4e42-a6d0-fe287cba09e7} was removed. Shutting down audio device.
+[2020.01.05-17.39.50:241][760]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.05-17.41.10:936][989]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.05-17.41.59:971][133]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-17.57.45:623][478]LogUObjectHash: Compacting FUObjectHashTables data took   6.32ms
+[2020.01.05-17.57.45:971][478]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/MainLevel_Auto28543B3574589358B1E877584182C1E20.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Autosaves/Game/MainLevel_Auto2.umap'
+[2020.01.05-17.57.45:977][478]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainLevel' took 0.412
+[2020.01.05-17.57.45:977][478]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.412
+[2020.01.05-17.58.04:402][307]BlueprintLog: New page: Compile MainLevel
+[2020.01.05-17.58.04:687][307]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2020.01.05-17.58.10:580][645]BlueprintLog: New page: Compile MainLevel
+[2020.01.05-17.58.10:811][645]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.01.05-17.58.13:521][727]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.05-17.58.13:544][727]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-17.58.13:545][727]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.05-17.58.13:545][727]PIE: New page: PIE session: MainLevel (Jan 5, 2020, 9:58:13 PM)
+[2020.01.05-17.58.13:545][727]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2020.01.05-17.58.13:560][727]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014485s)
+[2020.01.05-17.58.13:562][727]LogAIModule: Creating AISystem for world MainLevel
+[2020.01.05-17.58.13:562][727]LogPlayLevel: PIE: World Init took: (0.001732s)
+[2020.01.05-17.58.13:562][727]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.016805s)
+[2020.01.05-17.58.13:600][727]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.01.05-17.58.13:629][727]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-17.58.13:640][727]LogInit: FAudioDevice initialized.
+[2020.01.05-17.58.13:654][727]LogLoad: Game class is 'MyGameModeBase'
+[2020.01.05-17.58.13:657][727]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2020.01.05-19.58.13
+[2020.01.05-17.58.13:658][727]LogWorld: Bringing up level for play took: 0.002972
+[2020.01.05-17.58.13:658][727]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.01.05-17.58.13:665][727]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.664
+[2020.01.05-17.58.13:666][727]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-17.58.14:625][783]Cmd: python run_stl_to_fbx.py
+[2020.01.05-17.58.20:826][114]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.05-18.00.03:545][578]LogPython: Error: Traceback (most recent call last):
+[2020.01.05-18.00.03:545][578]LogPython: Error:   File "<string>", line 3, in <module>
+[2020.01.05-18.00.03:545][578]LogPython: Error:   File "C:/integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/PythonScripts\run_stl_to_fbx.py", line 19, in run_cmd
+[2020.01.05-18.00.03:546][578]LogPython: Error:     # cp = subprocess.run(
+[2020.01.05-18.00.03:546][578]LogPython: Error: AttributeError: 'module' object has no attribute 'run'
+[2020.01.05-18.00.03:546][578]LogBlueprintUserMessages: [MainLevel_C_5] STL Converted into FBX
+[2020.01.05-18.00.03:578][579]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.05-18.00.03:620][579]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.00.03:621][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-18.00.03:621][579]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2020.01.05-18.00.03:621][579]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.05-18.00.03:905][579]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.05-18.00.03:906][579]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.00.03:950][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-18.00.03:955][579]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.01.05-18.00.03:991][580]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.01.05-18.01.24:675][301]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.05-18.01.24:705][301]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.01.24:705][301]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.05-18.01.24:705][301]PIE: New page: PIE session: MainLevel (Jan 5, 2020, 10:01:24 PM)
+[2020.01.05-18.01.24:706][301]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2020.01.05-18.01.24:729][301]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023491s)
+[2020.01.05-18.01.24:731][301]LogAIModule: Creating AISystem for world MainLevel
+[2020.01.05-18.01.24:731][301]LogPlayLevel: PIE: World Init took: (0.001599s)
+[2020.01.05-18.01.24:731][301]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.025701s)
+[2020.01.05-18.01.24:772][301]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.01.05-18.01.24:805][301]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-18.01.24:817][301]LogInit: FAudioDevice initialized.
+[2020.01.05-18.01.24:829][301]LogLoad: Game class is 'MyGameModeBase'
+[2020.01.05-18.01.24:833][301]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2020.01.05-20.01.24
+[2020.01.05-18.01.24:834][301]LogWorld: Bringing up level for play took: 0.003648
+[2020.01.05-18.01.24:834][301]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.01.05-18.01.24:841][301]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel -0.161
+[2020.01.05-18.01.24:841][301]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.02.21:714][387]LogBlueprintUserMessages: [MainLevel_C_5] STL Converted into FBX
+[2020.01.05-18.02.25:312][567]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.05-18.03.59:598][962]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.03.59:599][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-18.03.59:599][962]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2020.01.05-18.03.59:600][962]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.05-18.03.59:654][962]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.05-18.03.59:654][962]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.03.59:698][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-18.03.59:703][962]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.01.05-18.03.59:761][963]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.01.05-18.08.47:569][717]BlueprintLog: New page: Compile MainLevel
+[2020.01.05-18.08.47:846][717]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2020.01.05-18.09.09:556][997]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.05-18.09.09:582][997]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.09.09:582][997]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.05-18.09.09:583][997]LogPlayLevel: [PlayLevel] Compiling MainLevel before play...
+[2020.01.05-18.09.09:815][997]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.01.05-18.09.09:815][997]LogPlayLevel: PlayLevel: Blueprint regeneration took 232 ms (1 blueprints)
+[2020.01.05-18.09.09:815][997]PIE: New page: PIE session: MainLevel (Jan 5, 2020, 10:09:09 PM)
+[2020.01.05-18.09.09:815][997]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2020.01.05-18.09.09:831][997]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015142s)
+[2020.01.05-18.09.09:832][997]LogAIModule: Creating AISystem for world MainLevel
+[2020.01.05-18.09.09:832][997]LogPlayLevel: PIE: World Init took: (0.001396s)
+[2020.01.05-18.09.09:833][997]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.017061s)
+[2020.01.05-18.09.09:869][997]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.01.05-18.09.09:899][997]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-18.09.09:911][997]LogInit: FAudioDevice initialized.
+[2020.01.05-18.09.09:920][997]LogLoad: Game class is 'MyGameModeBase'
+[2020.01.05-18.09.09:923][997]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2020.01.05-20.09.09
+[2020.01.05-18.09.09:924][997]LogWorld: Bringing up level for play took: 0.002717
+[2020.01.05-18.09.09:924][997]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.01.05-18.09.09:931][997]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.929
+[2020.01.05-18.09.09:931][997]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.10.36:070][ 84]LogBlueprintUserMessages: [MainLevel_C_7] DIICOM Converted into STL
+[2020.01.05-18.11.29:488][ 84]LogBlueprintUserMessages: [MainLevel_C_7] STL Converted into FBX
+[2020.01.05-18.11.29:503][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.05-18.12.07:018][ 22]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.12.07:019][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-18.12.07:019][ 22]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2020.01.05-18.12.07:020][ 22]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.05-18.12.07:045][ 22]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.05-18.12.07:045][ 22]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.12.07:089][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-18.12.07:095][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.01.05-18.12.07:145][ 23]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.01.05-18.13.34:212][155]BlueprintLog: New page: Collapse to Function
+[2020.01.05-18.13.39:049][433]BlueprintLog: New page: Compile MainLevel
+[2020.01.05-18.13.39:324][433]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2020.01.05-18.14.52:939][742]BlueprintLog: New page: Compile MainLevel
+[2020.01.05-18.14.53:171][742]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2020.01.05-18.16.17:516][750]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.01.05-18.16.17:851][750]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/MainLevel_Auto3AEE68879423F124ACF7F8C8120A20F78.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/Autosaves/Game/MainLevel_Auto3.umap'
+[2020.01.05-18.16.17:856][750]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainLevel' took 0.378
+[2020.01.05-18.16.17:856][750]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.378
+[2020.01.05-18.21.11:633][509]BlueprintLog: New page: Compile MainLevel
+[2020.01.05-18.21.11:864][509]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2020.01.05-18.21.57:102][ 44]BlueprintLog: New page: Collapse to Function
+[2020.01.05-18.22.21:562][453]BlueprintLog: New page: Collapse to Function
+[2020.01.05-18.23.04:803][947]BlueprintLog: New page: Compile MainLevel
+[2020.01.05-18.23.05:097][947]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2020.01.05-18.23.31:609][514]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.05-18.23.31:639][514]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.23.31:640][514]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.05-18.23.31:640][514]PIE: New page: PIE session: MainLevel (Jan 5, 2020, 10:23:31 PM)
+[2020.01.05-18.23.31:641][514]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2020.01.05-18.23.31:665][514]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024305s)
+[2020.01.05-18.23.31:667][514]LogAIModule: Creating AISystem for world MainLevel
+[2020.01.05-18.23.31:668][514]LogPlayLevel: PIE: World Init took: (0.002333s)
+[2020.01.05-18.23.31:668][514]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.027262s)
+[2020.01.05-18.23.31:710][514]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.01.05-18.23.31:739][514]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-18.23.31:750][514]LogInit: FAudioDevice initialized.
+[2020.01.05-18.23.31:762][514]LogLoad: Game class is 'MyGameModeBase'
+[2020.01.05-18.23.31:765][514]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2020.01.05-20.23.31
+[2020.01.05-18.23.31:766][514]LogWorld: Bringing up level for play took: 0.003642
+[2020.01.05-18.23.31:766][514]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.01.05-18.23.31:772][514]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.77
+[2020.01.05-18.23.31:772][514]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.24.01:353][590]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.05-18.24.01:479][590]LogBlueprintUserMessages: [MainLevel_C_12] folder chosen
+[2020.01.05-18.24.01:480][590]LogPython: Error: SyntaxError: invalid syntax (<string>, line 3)
+[2020.01.05-18.24.01:480][590]LogPython: Error: SyntaxError: invalid syntax (<string>, line 3)
+[2020.01.05-18.24.01:480][590]LogBlueprintUserMessages: [MainLevel_C_12] DIICOM Converted into STL
+[2020.01.05-18.24.02:365][590]LogBlueprintUserMessages: [MainLevel_C_12] STL Converted into FBX
+[2020.01.05-18.24.25:443][865]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.24.25:444][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-18.24.25:445][865]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2020.01.05-18.24.25:445][865]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.05-18.24.25:463][865]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.05-18.24.25:464][865]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.24.25:512][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-18.24.25:517][865]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.01.05-18.24.25:544][866]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.01.05-18.24.53:370][470]BlueprintLog: New page: Compile MainLevel
+[2020.01.05-18.24.53:609][470]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2020.01.05-18.25.52:812][845]BlueprintLog: New page: Compile MainLevel
+[2020.01.05-18.25.53:130][845]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2020.01.05-18.27.22:006][160]BlueprintLog: New page: Compile MainLevel
+[2020.01.05-18.27.22:271][160]LogUObjectHash: Compacting FUObjectHashTables data took   5.94ms
+[2020.01.05-18.27.23:753][241]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.05-18.27.23:782][241]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.27.23:782][241]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.05-18.27.23:783][241]PIE: New page: PIE session: MainLevel (Jan 5, 2020, 10:27:23 PM)
+[2020.01.05-18.27.23:783][241]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2020.01.05-18.27.23:800][241]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017076s)
+[2020.01.05-18.27.23:801][241]LogAIModule: Creating AISystem for world MainLevel
+[2020.01.05-18.27.23:802][241]LogPlayLevel: PIE: World Init took: (0.001341s)
+[2020.01.05-18.27.23:802][241]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.019016s)
+[2020.01.05-18.27.23:845][241]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2020.01.05-18.27.23:878][241]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-18.27.23:893][241]LogInit: FAudioDevice initialized.
+[2020.01.05-18.27.23:901][241]LogLoad: Game class is 'MyGameModeBase'
+[2020.01.05-18.27.23:903][241]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2020.01.05-20.27.23
+[2020.01.05-18.27.23:904][241]LogWorld: Bringing up level for play took: 0.002623
+[2020.01.05-18.27.23:905][241]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.01.05-18.27.23:911][241]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.909
+[2020.01.05-18.27.23:911][241]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.27.59:927][308]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.05-18.28.00:053][308]LogBlueprintUserMessages: [MainLevel_C_15] Dicom chosen folder: C:/Users/DAN/Google Drive/!!!Afeka/MedicalImaginginVRFinalProject/DICOM Files/!!!DicomsForAlpha/Anonymized20190403
+[2020.01.05-18.28.28:263][660]Cmd: SELECT NONE
+[2020.01.05-18.28.29:907][754]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.28.29:908][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-18.28.29:909][754]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2020.01.05-18.28.29:910][754]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.05-18.28.29:926][754]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.05-18.28.29:926][754]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.28.29:981][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-18.28.29:987][754]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2020.01.05-18.28.30:053][755]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.01.05-18.29.35:421][554]BlueprintLog: New page: Compile MainLevel
+[2020.01.05-18.29.35:692][554]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2020.01.05-18.30.27:924][530]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.01.05-18.30.27:994][530]LogStaticMesh: Building static mesh untitled_Cube...
+[2020.01.05-18.30.27:995][530]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2020.01.05-18.30.27:995][530]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.05-18.30.28:014][530]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2020.01.05-18.30.28:015][530]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.01.05-18.30.28:015][530]LogStaticMesh: Built static mesh [0.02s] /Game/DicomMeshes/1/untitled_Cube.untitled_Cube
+[2020.01.05-18.30.28:070][530]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2020.01.05-18.30.30:572][530]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.05-18.30.30:586][530]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/DicomMeshes/1/untitled_Mesh.untitled_Mesh
+	Asset Name: /Game/DicomMeshes/1/Material.Material
+	Asset Name: /Game/DicomMeshes/1/untitled_Cube.untitled_Cube
+[2020.01.05-18.30.33:980][530]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2020.01.05-18.30.34:036][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.01.05-18.30.34:089][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.01.05-18.30.34:143][530]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.01.05-18.30.34:196][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.01.05-18.30.34:977][532]LogPython: Display: Generating Python API stub file...
+[2020.01.05-18.30.35:349][532]LogPython: Display:   ...generating Python API: glue code
+[2020.01.05-18.30.35:804][532]LogPython: Display:   ...generating Python API: additional code
+[2020.01.05-18.30.35:883][532]LogPython: Display:   ...generated: C:/integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Intermediate/PythonStub/unreal.py
+[2020.01.05-18.31.44:228][501]BlueprintLog: New page: Compile MainLevel
+[2020.01.05-18.31.44:676][501]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
+[2020.01.05-18.32.04:112][634]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2020.01.05-18.32.04:510][634]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/MainLevel317FEDB546DB9BBA1F355183A9E3D212.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/MainLevel.umap'
+[2020.01.05-18.32.04:568][634]LogFileHelpers: Saving map 'MainLevel' took 0.507
+[2020.01.05-18.32.13:462][159]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.05-18.32.13:486][159]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.32.13:487][159]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.05-18.32.13:487][159]PIE: New page: PIE session: MainLevel (Jan 5, 2020, 10:32:13 PM)
+[2020.01.05-18.32.13:487][159]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2020.01.05-18.32.13:503][159]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015658s)
+[2020.01.05-18.32.13:504][159]LogAIModule: Creating AISystem for world MainLevel
+[2020.01.05-18.32.13:505][159]LogPlayLevel: PIE: World Init took: (0.001414s)
+[2020.01.05-18.32.13:505][159]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.017563s)
+[2020.01.05-18.32.13:550][159]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2020.01.05-18.32.13:581][159]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-18.32.13:591][159]LogInit: FAudioDevice initialized.
+[2020.01.05-18.32.13:598][159]LogLoad: Game class is 'MyGameModeBase'
+[2020.01.05-18.32.13:600][159]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2020.01.05-20.32.13
+[2020.01.05-18.32.13:601][159]LogWorld: Bringing up level for play took: 0.002410
+[2020.01.05-18.32.13:601][159]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.01.05-18.32.13:606][159]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.605
+[2020.01.05-18.32.13:607][159]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.32.37:654][213]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.05-18.32.37:761][213]LogBlueprintUserMessages: [MainLevel_C_18] Dicom chosen folder: C:/Users/DAN/Google Drive/!!!Afeka/MedicalImaginginVRFinalProject/DICOM Files/!!!DicomsForAlpha/Anonymized20190403
+[2020.01.05-18.32.37:761][213]LogPython: Error: SyntaxError: invalid syntax (<string>, line 3)
+[2020.01.05-18.32.37:761][213]LogBlueprintUserMessages: [MainLevel_C_18] DIICOM Converted into STL
+[2020.01.05-18.32.38:518][213]LogBlueprintUserMessages: [MainLevel_C_18] STL Converted into FBX
+[2020.01.05-18.32.38:519][213]LogPython: Error: SyntaxError: invalid syntax (<string>, line 3)
+[2020.01.05-18.32.38:519][213]LogBlueprintUserMessages: [MainLevel_C_18] FBX converted into UEAsset
+[2020.01.05-18.32.55:207][ 77]LogSlate: Window 'MainLevel' being destroyed
+[2020.01.05-18.32.56:388][146]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.32.56:389][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-18.32.56:389][146]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2020.01.05-18.32.56:389][146]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.05-18.32.56:408][146]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.05-18.32.56:408][146]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.32.56:467][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-18.32.56:472][146]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2020.01.05-18.32.56:505][147]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.01.05-18.33.01:906][467]BlueprintLog: New page: Compile MainLevel
+[2020.01.05-18.33.02:181][467]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2020.01.05-18.33.07:598][785]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.05-18.33.07:622][785]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.33.07:623][785]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.05-18.33.07:623][785]PIE: New page: PIE session: MainLevel (Jan 5, 2020, 10:33:07 PM)
+[2020.01.05-18.33.07:623][785]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2020.01.05-18.33.07:638][785]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015237s)
+[2020.01.05-18.33.07:639][785]LogAIModule: Creating AISystem for world MainLevel
+[2020.01.05-18.33.07:639][785]LogPlayLevel: PIE: World Init took: (0.001091s)
+[2020.01.05-18.33.07:639][785]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.016506s)
+[2020.01.05-18.33.07:682][785]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2020.01.05-18.33.07:708][785]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-18.33.07:718][785]LogInit: FAudioDevice initialized.
+[2020.01.05-18.33.07:726][785]LogLoad: Game class is 'MyGameModeBase'
+[2020.01.05-18.33.07:728][785]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2020.01.05-20.33.07
+[2020.01.05-18.33.07:728][785]LogWorld: Bringing up level for play took: 0.002252
+[2020.01.05-18.33.07:729][785]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.01.05-18.33.07:734][785]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.733
+[2020.01.05-18.33.07:735][785]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.33.30:036][843]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.05-18.33.30:146][843]LogBlueprintUserMessages: [MainLevel_C_19] Dicom chosen folder: C:/Users/DAN/Google Drive/!!!Afeka/MedicalImaginginVRFinalProject/DICOM Files/!!!DicomsForAlpha/Anonymized20190403
+[2020.01.05-18.33.30:147][843]LogPython: Error: SyntaxError: invalid syntax (<string>, line 3)
+[2020.01.05-18.33.30:147][843]LogBlueprintUserMessages: [MainLevel_C_19] DIICOM Converted into STL
+[2020.01.05-18.34.12:832][840]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.34.12:833][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-18.34.12:834][840]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2020.01.05-18.34.12:834][840]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.05-18.34.12:849][840]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.05-18.34.12:849][840]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.34.12:898][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-18.34.12:903][840]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.01.05-18.34.12:934][841]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.01.05-18.35.53:064][817]BlueprintLog: New page: Compile MainLevel
+[2020.01.05-18.35.53:341][817]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2020.01.05-18.35.53:953][845]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2020.01.05-18.35.54:321][845]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/MainLevelC4DA3C59453BB5705212298CA970B0AF.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/MainLevel.umap'
+[2020.01.05-18.35.54:369][845]LogFileHelpers: Saving map 'MainLevel' took 0.461
+[2020.01.05-18.35.59:341][133]LogUObjectHash: Compacting FUObjectHashTables data took   7.11ms
+[2020.01.05-18.36.03:024][352]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.05-18.36.03:052][352]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.36.03:052][352]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.05-18.36.03:052][352]PIE: New page: PIE session: MainLevel (Jan 5, 2020, 10:36:03 PM)
+[2020.01.05-18.36.03:052][352]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2020.01.05-18.36.03:075][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022475s)
+[2020.01.05-18.36.03:076][352]LogAIModule: Creating AISystem for world MainLevel
+[2020.01.05-18.36.03:077][352]LogPlayLevel: PIE: World Init took: (0.001620s)
+[2020.01.05-18.36.03:077][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.024371s)
+[2020.01.05-18.36.03:125][352]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2020.01.05-18.36.03:160][352]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-18.36.03:173][352]LogInit: FAudioDevice initialized.
+[2020.01.05-18.36.03:185][352]LogLoad: Game class is 'MyGameModeBase'
+[2020.01.05-18.36.03:189][352]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2020.01.05-20.36.03
+[2020.01.05-18.36.03:189][352]LogWorld: Bringing up level for play took: 0.003742
+[2020.01.05-18.36.03:190][352]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.01.05-18.36.03:197][352]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.195
+[2020.01.05-18.36.03:197][352]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.36.04:853][446]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.36.04:855][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-18.36.04:855][446]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2020.01.05-18.36.04:856][446]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.05-18.36.04:870][446]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.05-18.36.04:871][446]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.36.04:920][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-18.36.04:926][446]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.01.05-18.36.04:995][448]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.01.05-18.36.10:344][766]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.05-18.36.10:367][766]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.36.10:367][766]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.05-18.36.10:367][766]PIE: New page: PIE session: MainLevel (Jan 5, 2020, 10:36:10 PM)
+[2020.01.05-18.36.10:367][766]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2020.01.05-18.36.10:382][766]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014334s)
+[2020.01.05-18.36.10:383][766]LogAIModule: Creating AISystem for world MainLevel
+[2020.01.05-18.36.10:384][766]LogPlayLevel: PIE: World Init took: (0.001358s)
+[2020.01.05-18.36.10:384][766]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.016265s)
+[2020.01.05-18.36.10:429][766]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.01.05-18.36.10:461][766]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-18.36.10:471][766]LogInit: FAudioDevice initialized.
+[2020.01.05-18.36.10:482][766]LogLoad: Game class is 'MyGameModeBase'
+[2020.01.05-18.36.10:485][766]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2020.01.05-20.36.10
+[2020.01.05-18.36.10:486][766]LogWorld: Bringing up level for play took: 0.003643
+[2020.01.05-18.36.10:486][766]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.01.05-18.36.10:492][766]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel -0.509
+[2020.01.05-18.36.10:492][766]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.36.19:838][816]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.05-18.36.19:939][816]LogBlueprintUserMessages: [MainLevel_C_21] Dicom chosen folder: C:/Users/DAN/Google Drive/!!!Afeka/MedicalImaginginVRFinalProject/DICOM Files/!!!DicomsForAlpha/Anonymized20190403
+[2020.01.05-18.36.19:939][816]LogPython: Error: SyntaxError: invalid syntax (<string>, line 3)
+[2020.01.05-18.36.19:939][816]LogBlueprintUserMessages: [MainLevel_C_21] DIICOM Converted into STL
+[2020.01.05-18.44.43:965][217]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.44.43:967][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-18.44.43:967][217]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2020.01.05-18.44.43:968][217]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.05-18.44.43:988][217]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.05-18.44.43:988][217]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.44.44:040][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-18.44.44:046][217]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2020.01.05-18.44.44:076][218]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.01.05-18.44.56:448][957]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.05-18.44.56:475][957]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.44.56:475][957]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.05-18.44.56:476][957]LogPlayLevel: [PlayLevel] Compiling MainLevel before play...
+[2020.01.05-18.44.56:763][957]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2020.01.05-18.44.56:763][957]LogPlayLevel: PlayLevel: Blueprint regeneration took 287 ms (1 blueprints)
+[2020.01.05-18.44.56:763][957]PIE: New page: PIE session: MainLevel (Jan 5, 2020, 10:44:56 PM)
+[2020.01.05-18.44.56:763][957]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2020.01.05-18.44.56:779][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015539s)
+[2020.01.05-18.44.56:780][957]LogAIModule: Creating AISystem for world MainLevel
+[2020.01.05-18.44.56:781][957]LogPlayLevel: PIE: World Init took: (0.001328s)
+[2020.01.05-18.44.56:781][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.017458s)
+[2020.01.05-18.44.56:825][957]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.01.05-18.44.56:856][957]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-18.44.56:867][957]LogInit: FAudioDevice initialized.
+[2020.01.05-18.44.56:883][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-18.44.56:883][957]LogLoad: Game class is 'MyGameModeBase'
+[2020.01.05-18.44.56:887][957]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2020.01.05-20.44.56
+[2020.01.05-18.44.56:888][957]LogWorld: Bringing up level for play took: 0.003277
+[2020.01.05-18.44.56:888][957]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.01.05-18.44.56:892][957]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.05-18.44.56:901][957]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel -0.101
+[2020.01.05-18.44.56:902][957]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.44.56:970][958]LogRenderer: Reallocating scene render targets to support 1280x716 Format 26 NumSamples 1 (Frame:1).
+[2020.01.05-18.44.59:787][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 1
+[2020.01.05-18.44.59:788][ 58]LogPython: Error: SyntaxError: invalid syntax (<string>, line 3)
+[2020.01.05-18.44.59:788][ 58]LogBlueprintUserMessages: [MainLevel_C_22] DIICOM Converted into STL
+[2020.01.05-18.46.34:845][328]LogSlate: Window 'VRoscopy Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.05-18.46.34:863][328]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.46.34:863][328]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2020.01.05-18.46.34:864][328]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.05-18.46.34:881][328]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.05-18.46.34:881][328]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.46.34:945][328]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.01.05-18.46.35:160][329]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.01.05-18.49.10:464][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.01.05-18.49.10:555][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.01.05-18.49.11:032][919]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/MainLevel5E7A5DAC4B2ABEF9B4F7DCB91AEFA1EB.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/MainLevel.umap'
+[2020.01.05-18.49.11:083][919]LogFileHelpers: Saving map 'MainLevel' took 0.585
+[2020.01.05-18.49.12:707][ 12]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.05-18.49.12:730][ 12]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.49.12:731][ 12]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.05-18.49.12:731][ 12]PIE: New page: PIE session: MainLevel (Jan 5, 2020, 10:49:12 PM)
+[2020.01.05-18.49.12:731][ 12]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2020.01.05-18.49.12:749][ 12]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016993s)
+[2020.01.05-18.49.12:750][ 12]LogAIModule: Creating AISystem for world MainLevel
+[2020.01.05-18.49.12:750][ 12]LogPlayLevel: PIE: World Init took: (0.001384s)
+[2020.01.05-18.49.12:750][ 12]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.018927s)
+[2020.01.05-18.49.12:804][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2020.01.05-18.49.12:846][ 12]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-18.49.12:859][ 12]LogInit: FAudioDevice initialized.
+[2020.01.05-18.49.12:867][ 12]LogLoad: Game class is 'MyGameModeBase'
+[2020.01.05-18.49.12:870][ 12]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2020.01.05-20.49.12
+[2020.01.05-18.49.12:871][ 12]LogWorld: Bringing up level for play took: 0.003446
+[2020.01.05-18.49.12:871][ 12]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.01.05-18.49.12:880][ 12]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel -0.122
+[2020.01.05-18.49.12:880][ 12]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.49.14:038][ 77]LogPython: Error: SyntaxError: invalid syntax (<string>, line 3)
+[2020.01.05-18.49.14:039][ 77]LogBlueprintUserMessages: [MainLevel_C_23] DIICOM Converted into STL
+[2020.01.05-18.49.19:478][403]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.05-18.49.21:330][514]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.49.21:331][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-18.49.21:332][514]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2020.01.05-18.49.21:333][514]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.05-18.49.21:345][514]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.05-18.49.21:345][514]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.49.21:394][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-18.49.21:400][514]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2020.01.05-18.49.21:466][516]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.01.05-18.52.15:030][197]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.05-18.52.15:060][197]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.52.15:061][197]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.05-18.52.15:061][197]PIE: New page: PIE session: MainLevel (Jan 5, 2020, 10:52:15 PM)
+[2020.01.05-18.52.15:061][197]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2020.01.05-18.52.15:081][197]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020141s)
+[2020.01.05-18.52.15:083][197]LogAIModule: Creating AISystem for world MainLevel
+[2020.01.05-18.52.15:083][197]LogPlayLevel: PIE: World Init took: (0.001647s)
+[2020.01.05-18.52.15:083][197]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.022375s)
+[2020.01.05-18.52.15:139][197]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2020.01.05-18.52.15:174][197]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-18.52.15:189][197]LogInit: FAudioDevice initialized.
+[2020.01.05-18.52.15:204][197]LogLoad: Game class is 'MyGameModeBase'
+[2020.01.05-18.52.15:208][197]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2020.01.05-20.52.15
+[2020.01.05-18.52.15:209][197]LogWorld: Bringing up level for play took: 0.003630
+[2020.01.05-18.52.15:209][197]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.01.05-18.52.15:217][197]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.215
+[2020.01.05-18.52.15:217][197]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.52.16:161][248]LogPython: Error: SyntaxError: invalid syntax (<string>, line 3)
+[2020.01.05-18.52.16:161][248]LogBlueprintUserMessages: [MainLevel_C_23] DIICOM Converted into STL
+[2020.01.05-18.52.21:830][588]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.52.21:833][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-18.52.21:833][588]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2020.01.05-18.52.21:834][588]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.05-18.52.21:855][588]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.05-18.52.21:855][588]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.52.21:905][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-18.52.21:913][588]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2020.01.05-18.52.21:948][589]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.01.05-18.53.13:977][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.05-18.53.15:484][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.05-18.53.40:659][567]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.05-18.53.40:686][567]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.53.40:686][567]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.05-18.53.40:687][567]LogPlayLevel: [PlayLevel] Compiling MainLevel before play...
+[2020.01.05-18.53.41:024][567]LogUObjectHash: Compacting FUObjectHashTables data took   6.04ms
+[2020.01.05-18.53.41:025][567]LogPlayLevel: PlayLevel: Blueprint regeneration took 338 ms (1 blueprints)
+[2020.01.05-18.53.41:025][567]PIE: New page: PIE session: MainLevel (Jan 5, 2020, 10:53:41 PM)
+[2020.01.05-18.53.41:025][567]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2020.01.05-18.53.41:044][567]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019198s)
+[2020.01.05-18.53.41:046][567]LogAIModule: Creating AISystem for world MainLevel
+[2020.01.05-18.53.41:046][567]LogPlayLevel: PIE: World Init took: (0.001479s)
+[2020.01.05-18.53.41:046][567]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.021291s)
+[2020.01.05-18.53.41:095][567]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.01.05-18.53.41:125][567]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-18.53.41:136][567]LogInit: FAudioDevice initialized.
+[2020.01.05-18.53.41:147][567]LogLoad: Game class is 'MyGameModeBase'
+[2020.01.05-18.53.41:150][567]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2020.01.05-20.53.41
+[2020.01.05-18.53.41:150][567]LogWorld: Bringing up level for play took: 0.002912
+[2020.01.05-18.53.41:151][567]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.01.05-18.53.41:158][567]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.157
+[2020.01.05-18.53.41:158][567]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.54.38:722][625]LogBlueprintUserMessages: [MainLevel_C_24] STL Converted into FBX
+[2020.01.05-18.54.44:299][924]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.54.44:301][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-18.54.44:301][924]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2020.01.05-18.54.44:302][924]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.05-18.54.44:315][924]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.05-18.54.44:315][924]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.54.44:379][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-18.54.44:387][924]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2020.01.05-18.54.44:423][925]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.01.05-18.54.50:652][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.05-18.54.52:478][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.05-18.54.57:573][461]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.05-18.54.57:597][461]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.54.57:597][461]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.05-18.54.57:598][461]LogPlayLevel: [PlayLevel] Compiling MainLevel before play...
+[2020.01.05-18.54.57:935][461]LogUObjectHash: Compacting FUObjectHashTables data took   6.67ms
+[2020.01.05-18.54.57:936][461]LogPlayLevel: PlayLevel: Blueprint regeneration took 338 ms (1 blueprints)
+[2020.01.05-18.54.57:936][461]PIE: New page: PIE session: MainLevel (Jan 5, 2020, 10:54:57 PM)
+[2020.01.05-18.54.57:936][461]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2020.01.05-18.54.57:955][461]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018374s)
+[2020.01.05-18.54.57:956][461]LogAIModule: Creating AISystem for world MainLevel
+[2020.01.05-18.54.57:956][461]LogPlayLevel: PIE: World Init took: (0.001288s)
+[2020.01.05-18.54.57:956][461]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.020139s)
+[2020.01.05-18.54.58:003][461]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2020.01.05-18.54.58:031][461]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-18.54.58:041][461]LogInit: FAudioDevice initialized.
+[2020.01.05-18.54.58:050][461]LogLoad: Game class is 'MyGameModeBase'
+[2020.01.05-18.54.58:052][461]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2020.01.05-20.54.58
+[2020.01.05-18.54.58:053][461]LogWorld: Bringing up level for play took: 0.002655
+[2020.01.05-18.54.58:054][461]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.01.05-18.54.58:059][461]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 1.057
+[2020.01.05-18.54.58:060][461]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.55.50:149][511]LogBlueprintUserMessages: [MainLevel_C_25] STL Converted into FBX
+[2020.01.05-18.55.50:383][511]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/DAN/Desktop/untitled.fbx)
+[2020.01.05-18.55.50:647][511]LogFbx: Loading FBX Scene from C:/Users/DAN/Desktop/untitled.fbx
+[2020.01.05-18.55.52:683][511]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.05-18.55.52:890][511]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.01.05-18.55.52:915][511]LogFbx: Display: Triangulating static mesh Cube
+[2020.01.05-18.56.17:610][511]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2020.01.05-18.56.17:611][511]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2020.01.05-18.56.17:611][511]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.01.05-18.56.17:611][511]LogStaticMesh: Building static mesh untitled...
+[2020.01.05-18.56.48:947][511]LogStaticMesh: Built static mesh [31.34s] /Game/StaticMeshes/untitled.untitled
+[2020.01.05-18.57.06:835][511]LogStaticMesh: Warning: untitled has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.01.05-18.57.06:836][511]LogStaticMesh: Warning: untitled has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.05-18.57.24:819][511]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.05-18.57.24:820][511]FBXImport: Warning: untitled has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.01.05-18.57.24:821][511]FBXImport: Warning: untitled has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.01.05-18.57.24:827][511]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.05-18.57.44:091][511]LogFileHelpers: No new changes to save!
+[2020.01.05-18.57.44:092][511]LogPython: Imported: /Game/StaticMeshes/untitled.untitled
+[2020.01.05-18.57.44:092][511]LogBlueprintUserMessages: [MainLevel_C_25] FBX converted into UEAsset
+[2020.01.05-18.57.53:423][988]LogSlate: Window 'Message Log' being destroyed
+[2020.01.05-18.57.53:444][988]LogSlate: Window 'Message Log' being destroyed
+[2020.01.05-18.58.13:982][200]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.58.13:983][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-18.58.13:983][200]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2020.01.05-18.58.13:984][200]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.05-18.58.13:998][200]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.05-18.58.13:998][200]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.58.14:047][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-18.58.14:053][200]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.01.05-18.58.14:094][202]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.01.05-18.58.16:981][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.01.05-18.58.18:596][344]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.05-18.58.19:709][344]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.01.05-18.58.19:768][344]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.01.05-18.58.19:807][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.01.05-18.58.34:775][216]BlueprintLog: New page: Compile MainLevel
+[2020.01.05-18.58.35:052][216]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2020.01.05-18.58.44:651][481]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.05-18.58.44:688][481]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.58.44:689][481]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.05-18.58.44:689][481]PIE: New page: PIE session: MainLevel (Jan 5, 2020, 10:58:44 PM)
+[2020.01.05-18.58.44:689][481]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2020.01.05-18.58.44:710][481]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020811s)
+[2020.01.05-18.58.44:712][481]LogAIModule: Creating AISystem for world MainLevel
+[2020.01.05-18.58.44:712][481]LogPlayLevel: PIE: World Init took: (0.001867s)
+[2020.01.05-18.58.44:712][481]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.023266s)
+[2020.01.05-18.58.44:766][481]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2020.01.05-18.58.44:799][481]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-18.58.44:810][481]LogInit: FAudioDevice initialized.
+[2020.01.05-18.58.44:822][481]LogLoad: Game class is 'MyGameModeBase'
+[2020.01.05-18.58.44:824][481]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2020.01.05-20.58.44
+[2020.01.05-18.58.44:825][481]LogWorld: Bringing up level for play took: 0.002871
+[2020.01.05-18.58.44:826][481]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.01.05-18.58.44:833][481]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel -0.169
+[2020.01.05-18.58.44:833][481]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.58.46:342][563]LogPython: Error: SyntaxError: invalid syntax (<string>, line 3)
+[2020.01.05-18.58.46:342][563]LogBlueprintUserMessages: [MainLevel_C_26] DIICOM Converted into STL
+[2020.01.05-18.58.50:390][804]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.05-18.58.52:227][914]Cmd: SELECT NONE
+[2020.01.05-18.58.56:958][197]Cmd: SELECT NONE
+[2020.01.05-18.59.07:427][656]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.59.07:428][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-18.59.07:428][656]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2020.01.05-18.59.07:428][656]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.05-18.59.07:445][656]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.05-18.59.07:445][656]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.59.07:493][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-18.59.07:499][656]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.01.05-18.59.07:540][657]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.01.05-18.59.37:190][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.01.05-18.59.37:691][420]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/MainLevelFA05E14B4611F7EA5F26CFB5BD87E908.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/MainLevel.umap'
+[2020.01.05-18.59.37:758][420]LogFileHelpers: Saving map 'MainLevel' took 0.623
+[2020.01.05-18.59.38:187][441]BlueprintLog: New page: Compile MainLevel
+[2020.01.05-18.59.38:547][441]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2020.01.05-18.59.40:290][522]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2020.01.05-18.59.40:363][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.01.05-18.59.40:746][522]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/MainLevel7BCA9A714BB8BE7B8E3F6AAB483C397F.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/MainLevel.umap'
+[2020.01.05-18.59.40:794][522]LogFileHelpers: Saving map 'MainLevel' took 0.475
+[2020.01.05-18.59.41:511][561]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.05-18.59.41:534][561]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-18.59.41:534][561]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.05-18.59.41:535][561]PIE: New page: PIE session: MainLevel (Jan 5, 2020, 10:59:41 PM)
+[2020.01.05-18.59.41:535][561]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2020.01.05-18.59.41:555][561]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019736s)
+[2020.01.05-18.59.41:557][561]LogAIModule: Creating AISystem for world MainLevel
+[2020.01.05-18.59.41:557][561]LogPlayLevel: PIE: World Init took: (0.001875s)
+[2020.01.05-18.59.41:557][561]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.022191s)
+[2020.01.05-18.59.41:610][561]LogUObjectHash: Compacting FUObjectHashTables data took   7.33ms
+[2020.01.05-18.59.41:643][561]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-18.59.41:653][561]LogInit: FAudioDevice initialized.
+[2020.01.05-18.59.41:666][561]LogLoad: Game class is 'MyGameModeBase'
+[2020.01.05-18.59.41:669][561]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2020.01.05-20.59.41
+[2020.01.05-18.59.41:669][561]LogWorld: Bringing up level for play took: 0.002687
+[2020.01.05-18.59.41:670][561]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.01.05-18.59.41:676][561]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.675
+[2020.01.05-18.59.41:676][561]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.01.09:701][698]LogBlueprintUserMessages: [MainLevel_C_29] DIICOM Converted into STL
+[2020.01.05-19.01.28:746][812]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.01.28:747][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-19.01.28:747][812]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2020.01.05-19.01.28:748][812]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.05-19.01.28:767][812]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.05-19.01.28:767][812]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.01.28:827][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-19.01.28:833][812]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2020.01.05-19.01.28:866][813]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.01.05-19.01.33:023][851]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.05-19.03.44:769][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.01.05-19.03.44:845][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.01.05-19.03.45:245][944]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/MainLevelA9619F124F97B41684A444AADCFB2FBA.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/MainLevel.umap'
+[2020.01.05-19.03.45:297][944]LogFileHelpers: Saving map 'MainLevel' took 0.498
+[2020.01.05-19.03.46:347][  1]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.05-19.03.46:371][  1]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.03.46:372][  1]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.05-19.03.46:372][  1]PIE: New page: PIE session: MainLevel (Jan 5, 2020, 11:03:46 PM)
+[2020.01.05-19.03.46:372][  1]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2020.01.05-19.03.46:388][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016245s)
+[2020.01.05-19.03.46:389][  1]LogAIModule: Creating AISystem for world MainLevel
+[2020.01.05-19.03.46:390][  1]LogPlayLevel: PIE: World Init took: (0.001244s)
+[2020.01.05-19.03.46:390][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.017987s)
+[2020.01.05-19.03.46:441][  1]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2020.01.05-19.03.46:476][  1]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-19.03.46:486][  1]LogInit: FAudioDevice initialized.
+[2020.01.05-19.03.46:496][  1]LogLoad: Game class is 'MyGameModeBase'
+[2020.01.05-19.03.46:500][  1]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2020.01.05-21.03.46
+[2020.01.05-19.03.46:501][  1]LogWorld: Bringing up level for play took: 0.004313
+[2020.01.05-19.03.46:502][  1]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.01.05-19.03.46:508][  1]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel -0.494
+[2020.01.05-19.03.46:508][  1]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.04.27:737][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.05-19.04.27:856][ 52]LogBlueprintUserMessages: [MainLevel_C_30] Dicom chosen folder: C:/Users/DAN/Google Drive/!!!Afeka/MedicalImaginginVRFinalProject/DICOM Files/!!!DicomsForAlpha/Anonymized20190403
+[2020.01.05-19.04.29:641][ 52]LogBlueprintUserMessages: [MainLevel_C_30] DIICOM Converted into STL
+[2020.01.05-19.04.30:563][ 52]LogBlueprintUserMessages: [MainLevel_C_30] STL Converted into FBX
+[2020.01.05-19.04.30:570][ 52]LogFactory: Error: Can't find file 'C:/Users/DAN/Desktop/untitled.fbx' for import
+[2020.01.05-19.04.30:578][ 52]LogAssetTools: Warning: Failed to import 'C:/Users/DAN/Desktop/untitled.fbx'. Failed to create asset '/Game/StaticMeshes/untitled'.
+Please see Output Log for details.
+[2020.01.05-19.04.30:579][ 52]LogFileHelpers: No new changes to save!
+[2020.01.05-19.04.30:579][ 52]LogBlueprintUserMessages: [MainLevel_C_30] FBX converted into UEAsset
+[2020.01.05-19.04.53:478][233]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.05-19.04.53:586][233]LogBlueprintUserMessages: [MainLevel_C_30] Dicom chosen folder: 
+[2020.01.05-19.04.55:260][233]LogBlueprintUserMessages: [MainLevel_C_30] DIICOM Converted into STL
+[2020.01.05-19.04.56:018][233]LogBlueprintUserMessages: [MainLevel_C_30] STL Converted into FBX
+[2020.01.05-19.04.56:024][233]LogFactory: Error: Can't find file 'C:/Users/DAN/Desktop/untitled.fbx' for import
+[2020.01.05-19.04.56:024][233]LogAssetTools: Warning: Failed to import 'C:/Users/DAN/Desktop/untitled.fbx'. Failed to create asset '/Game/StaticMeshes/untitled'.
+Please see Output Log for details.
+[2020.01.05-19.04.56:024][233]LogFileHelpers: No new changes to save!
+[2020.01.05-19.04.56:025][233]LogBlueprintUserMessages: [MainLevel_C_30] FBX converted into UEAsset
+[2020.01.05-19.05.03:711][552]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.05-19.05.03:819][552]LogBlueprintUserMessages: [MainLevel_C_30] Dicom chosen folder: C:/Users/DAN/Google Drive/!!!Afeka/MedicalImaginginVRFinalProject/DICOM Files/!!!DicomsForAlpha/Anonymized20190403
+[2020.01.05-19.05.05:635][552]LogBlueprintUserMessages: [MainLevel_C_30] DIICOM Converted into STL
+[2020.01.05-19.05.06:430][552]LogBlueprintUserMessages: [MainLevel_C_30] STL Converted into FBX
+[2020.01.05-19.05.06:437][552]LogFactory: Error: Can't find file 'C:/Users/DAN/Desktop/untitled.fbx' for import
+[2020.01.05-19.05.06:437][552]LogAssetTools: Warning: Failed to import 'C:/Users/DAN/Desktop/untitled.fbx'. Failed to create asset '/Game/StaticMeshes/untitled'.
+Please see Output Log for details.
+[2020.01.05-19.05.06:438][552]LogFileHelpers: No new changes to save!
+[2020.01.05-19.05.06:438][552]LogBlueprintUserMessages: [MainLevel_C_30] FBX converted into UEAsset
+[2020.01.05-19.05.24:958][526]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.05.24:959][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-19.05.24:960][526]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2020.01.05-19.05.24:960][526]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.05-19.05.24:975][526]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.05-19.05.24:975][526]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.05.25:026][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-19.05.25:033][526]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2020.01.05-19.05.25:061][527]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.01.05-19.05.27:707][621]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.05-19.06.46:772][351]BlueprintLog: New page: Compile MainLevel
+[2020.01.05-19.06.47:062][351]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2020.01.05-19.08.49:647][656]BlueprintLog: New page: Compile MainLevel
+[2020.01.05-19.08.49:960][656]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2020.01.05-19.08.57:322][974]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x505)
+[2020.01.05-19.08.58:052][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2020.01.05-19.08.58:065][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.05-19.08.58:148][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.01.05-19.08.58:566][ 13]LogSavePackage: Moving '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Saved/MainLevelC622D83C4F1481BAD304FAA23D24010D.tmp' to '../../../../../../integrationcourseenv/Projects/!!!AfekaFinalProject/VRoscopy/UnrealEngine/VRoscopy/Content/MainLevel.umap'
+[2020.01.05-19.08.58:622][ 13]LogFileHelpers: Saving map 'MainLevel' took 0.527
+[2020.01.05-19.08.59:961][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.05-19.09.00:010][ 92]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.05-19.09.00:037][ 92]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.09.00:038][ 92]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.05-19.09.00:038][ 92]PIE: New page: PIE session: MainLevel (Jan 5, 2020, 11:09:00 PM)
+[2020.01.05-19.09.00:038][ 92]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2020.01.05-19.09.00:057][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018029s)
+[2020.01.05-19.09.00:058][ 92]LogAIModule: Creating AISystem for world MainLevel
+[2020.01.05-19.09.00:058][ 92]LogPlayLevel: PIE: World Init took: (0.001491s)
+[2020.01.05-19.09.00:059][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.020133s)
+[2020.01.05-19.09.00:105][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2020.01.05-19.09.00:134][ 92]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-19.09.00:143][ 92]LogInit: FAudioDevice initialized.
+[2020.01.05-19.09.00:155][ 92]LogLoad: Game class is 'MyGameModeBase'
+[2020.01.05-19.09.00:157][ 92]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2020.01.05-21.09.00
+[2020.01.05-19.09.00:157][ 92]LogWorld: Bringing up level for play took: 0.003167
+[2020.01.05-19.09.00:158][ 92]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.01.05-19.09.00:164][ 92]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel -0.837
+[2020.01.05-19.09.00:164][ 92]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.09.12:564][161]LogBlueprintUserMessages: [MainLevel_C_33] Dicom chosen folder: C:/Users/DAN/Google Drive/!!!Afeka/MedicalImaginginVRFinalProject/DICOM Files/!!!DicomsForAlpha/Anonymized20190403
+[2020.01.05-19.09.14:207][161]LogBlueprintUserMessages: [MainLevel_C_33] DIICOM Converted into STL
+[2020.01.05-19.09.15:048][161]LogBlueprintUserMessages: [MainLevel_C_33] STL Converted into FBX
+[2020.01.05-19.09.15:055][161]LogFactory: Error: Can't find file 'C:/Users/DAN/Desktop/untitled.fbx' for import
+[2020.01.05-19.09.15:055][161]LogAssetTools: Warning: Failed to import 'C:/Users/DAN/Desktop/untitled.fbx'. Failed to create asset '/Game/StaticMeshes/untitled'.
+Please see Output Log for details.
+[2020.01.05-19.09.15:056][161]LogFileHelpers: No new changes to save!
+[2020.01.05-19.09.15:056][161]LogBlueprintUserMessages: [MainLevel_C_33] FBX converted into UEAsset
+[2020.01.05-19.09.24:330][706]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.09.24:331][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-19.09.24:331][706]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2020.01.05-19.09.24:332][706]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.05-19.09.24:350][706]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.05-19.09.24:350][706]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.09.24:399][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-19.09.24:405][706]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.01.05-19.09.24:431][707]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.01.05-19.09.25:532][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.05-19.09.29:039][979]Cmd: SELECT NONE
+[2020.01.05-19.10.00:344][852]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.05-19.10.00:379][852]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.10.00:380][852]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.05-19.10.00:382][852]LogPlayLevel: [PlayLevel] Compiling MainLevel before play...
+[2020.01.05-19.10.00:783][852]LogUObjectHash: Compacting FUObjectHashTables data took   7.25ms
+[2020.01.05-19.10.00:783][852]LogPlayLevel: PlayLevel: Blueprint regeneration took 402 ms (1 blueprints)
+[2020.01.05-19.10.00:784][852]PIE: New page: PIE session: MainLevel (Jan 5, 2020, 11:10:00 PM)
+[2020.01.05-19.10.00:784][852]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2020.01.05-19.10.00:805][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020385s)
+[2020.01.05-19.10.00:806][852]LogAIModule: Creating AISystem for world MainLevel
+[2020.01.05-19.10.00:806][852]LogPlayLevel: PIE: World Init took: (0.001691s)
+[2020.01.05-19.10.00:807][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.022787s)
+[2020.01.05-19.10.00:856][852]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.01.05-19.10.00:883][852]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-19.10.00:894][852]LogInit: FAudioDevice initialized.
+[2020.01.05-19.10.00:901][852]LogLoad: Game class is 'MyGameModeBase'
+[2020.01.05-19.10.00:904][852]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2020.01.05-21.10.00
+[2020.01.05-19.10.00:904][852]LogWorld: Bringing up level for play took: 0.002330
+[2020.01.05-19.10.00:905][852]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.01.05-19.10.00:911][852]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel -0.091
+[2020.01.05-19.10.00:912][852]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.10.10:646][951]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.05-19.10.10:765][951]LogBlueprintUserMessages: [MainLevel_C_34] Dicom chosen folder: C:/Users/DAN/Google Drive/!!!Afeka/MedicalImaginginVRFinalProject/DICOM Files/!!!DicomsForAlpha/Anonymized20190403
+[2020.01.05-19.10.12:410][951]LogBlueprintUserMessages: [MainLevel_C_34] DIICOM Converted into STL
+[2020.01.05-19.10.13:146][951]LogBlueprintUserMessages: [MainLevel_C_34] STL Converted into FBX
+[2020.01.05-19.10.13:152][951]LogFactory: Error: Can't find file 'C:/Users/DAN/Desktop/untitled.fbx' for import
+[2020.01.05-19.10.13:152][951]LogAssetTools: Warning: Failed to import 'C:/Users/DAN/Desktop/untitled.fbx'. Failed to create asset '/Game/StaticMeshes/untitled'.
+Please see Output Log for details.
+[2020.01.05-19.10.13:153][951]LogFileHelpers: No new changes to save!
+[2020.01.05-19.10.13:153][951]LogBlueprintUserMessages: [MainLevel_C_34] FBX converted into UEAsset
+[2020.01.05-19.10.34:293][200]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.10.34:295][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-19.10.34:296][200]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2020.01.05-19.10.34:296][200]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.05-19.10.34:316][200]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.05-19.10.34:316][200]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.10.34:373][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-19.10.34:379][200]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.01.05-19.10.34:401][201]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.01.05-19.12.18:194][354]BlueprintLog: New page: Compile MainLevel
+[2020.01.05-19.12.18:533][354]LogUObjectHash: Compacting FUObjectHashTables data took   6.44ms
+[2020.01.05-19.12.20:343][456]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.05-19.12.20:366][456]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.12.20:366][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.05-19.12.20:367][456]PIE: New page: PIE session: MainLevel (Jan 5, 2020, 11:12:20 PM)
+[2020.01.05-19.12.20:367][456]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2020.01.05-19.12.20:384][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016818s)
+[2020.01.05-19.12.20:385][456]LogAIModule: Creating AISystem for world MainLevel
+[2020.01.05-19.12.20:385][456]LogPlayLevel: PIE: World Init took: (0.001203s)
+[2020.01.05-19.12.20:385][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.018487s)
+[2020.01.05-19.12.20:436][456]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2020.01.05-19.12.20:471][456]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-19.12.20:482][456]LogInit: FAudioDevice initialized.
+[2020.01.05-19.12.20:494][456]LogLoad: Game class is 'MyGameModeBase'
+[2020.01.05-19.12.20:497][456]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2020.01.05-21.12.20
+[2020.01.05-19.12.20:498][456]LogWorld: Bringing up level for play took: 0.003459
+[2020.01.05-19.12.20:499][456]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.01.05-19.12.20:506][456]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel -0.496
+[2020.01.05-19.12.20:506][456]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.12.29:978][500]LogBlueprintUserMessages: [MainLevel_C_35] Dicom chosen folder: C:/Users/DAN/Google Drive/!!!Afeka/MedicalImaginginVRFinalProject/DICOM Files/!!!DicomsForAlpha/Anonymized20190403
+[2020.01.05-19.12.37:142][925]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.05-19.13.25:411][713]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.13.25:413][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-19.13.25:413][713]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2020.01.05-19.13.25:414][713]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.05-19.13.25:433][713]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.05-19.13.25:433][713]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.13.25:492][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-19.13.25:498][713]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2020.01.05-19.13.25:540][714]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.01.05-19.13.38:721][493]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.05-19.13.38:746][493]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.13.38:746][493]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.05-19.13.38:748][493]LogPlayLevel: [PlayLevel] Compiling MainLevel before play...
+[2020.01.05-19.13.39:039][493]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2020.01.05-19.13.39:039][493]LogPlayLevel: PlayLevel: Blueprint regeneration took 292 ms (1 blueprints)
+[2020.01.05-19.13.39:039][493]PIE: New page: PIE session: MainLevel (Jan 5, 2020, 11:13:39 PM)
+[2020.01.05-19.13.39:039][493]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2020.01.05-19.13.39:055][493]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016748s)
+[2020.01.05-19.13.39:057][493]LogAIModule: Creating AISystem for world MainLevel
+[2020.01.05-19.13.39:057][493]LogPlayLevel: PIE: World Init took: (0.001602s)
+[2020.01.05-19.13.39:058][493]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.019074s)
+[2020.01.05-19.13.39:103][493]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.01.05-19.13.39:132][493]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-19.13.39:142][493]LogInit: FAudioDevice initialized.
+[2020.01.05-19.13.39:158][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-19.13.39:159][493]LogLoad: Game class is 'MyGameModeBase'
+[2020.01.05-19.13.39:162][493]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2020.01.05-21.13.39
+[2020.01.05-19.13.39:163][493]LogWorld: Bringing up level for play took: 0.003227
+[2020.01.05-19.13.39:164][493]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2020.01.05-19.13.39:166][493]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.05-19.13.39:175][493]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.174
+[2020.01.05-19.13.39:176][493]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.13.41:074][596]LogSlate: FSceneViewport::OnFocusLost() reason 1
+[2020.01.05-19.13.48:777][596]LogBlueprintUserMessages: [MainLevel_C_36] Dicom chosen folder: C:/Users/DAN/Google Drive/!!!Afeka/MedicalImaginginVRFinalProject/DICOM Files/!!!DicomsForAlpha/Anonymized20190403
+[2020.01.05-19.13.50:786][596]LogBlueprintUserMessages: [MainLevel_C_36] DIICOM Converted into STL
+[2020.01.05-19.15.03:157][520]LogBlueprintUserMessages: [MainLevel_C_36] STL Converted into FBX
+[2020.01.05-19.15.03:164][520]LogFactory: Error: Can't find file 'C:/Users/DAN/Desktop/untitled.fbx' for import
+[2020.01.05-19.15.03:164][520]LogAssetTools: Warning: Failed to import 'C:/Users/DAN/Desktop/untitled.fbx'. Failed to create asset '/Game/StaticMeshes/untitled'.
+Please see Output Log for details.
+[2020.01.05-19.15.03:164][520]LogFileHelpers: No new changes to save!
+[2020.01.05-19.15.03:165][520]LogBlueprintUserMessages: [MainLevel_C_36] FBX converted into UEAsset
+[2020.01.05-19.15.32:773][121]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.15.32:774][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-19.15.32:774][121]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2020.01.05-19.15.32:797][121]LogSlate: Window 'VRoscopy Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.05-19.15.32:802][121]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.05-19.15.32:818][121]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.05-19.15.32:819][121]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.15.32:876][121]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2020.01.05-19.15.32:916][122]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.01.05-19.16.30:918][566]BlueprintLog: New page: Compile MainLevel
+[2020.01.05-19.16.31:270][566]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2020.01.05-19.16.33:017][667]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.05-19.16.33:042][667]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.16.33:042][667]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.05-19.16.33:043][667]PIE: New page: PIE session: MainLevel (Jan 5, 2020, 11:16:33 PM)
+[2020.01.05-19.16.33:043][667]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2020.01.05-19.16.33:059][667]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015389s)
+[2020.01.05-19.16.33:060][667]LogAIModule: Creating AISystem for world MainLevel
+[2020.01.05-19.16.33:060][667]LogPlayLevel: PIE: World Init took: (0.001576s)
+[2020.01.05-19.16.33:061][667]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.017562s)
+[2020.01.05-19.16.33:105][667]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2020.01.05-19.16.33:136][667]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-19.16.33:149][667]LogInit: FAudioDevice initialized.
+[2020.01.05-19.16.33:164][667]LogLoad: Game class is 'MyGameModeBase'
+[2020.01.05-19.16.33:167][667]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2020.01.05-21.16.33
+[2020.01.05-19.16.33:168][667]LogWorld: Bringing up level for play took: 0.003591
+[2020.01.05-19.16.33:168][667]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.01.05-19.16.33:176][667]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.174
+[2020.01.05-19.16.33:176][667]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.17.23:178][730]LogBlueprintUserMessages: [MainLevel_C_37] C:/Users/DAN/Desktop/
+[2020.01.05-19.17.24:848][730]LogBlueprintUserMessages: [MainLevel_C_37] DIICOM Converted into STL
+[2020.01.05-19.17.25:595][730]LogBlueprintUserMessages: [MainLevel_C_37] STL Converted into FBX
+[2020.01.05-19.17.25:602][730]LogFactory: Error: Can't find file 'C:/Users/DAN/Desktop/untitled.fbx' for import
+[2020.01.05-19.17.25:603][730]LogAssetTools: Warning: Failed to import 'C:/Users/DAN/Desktop/untitled.fbx'. Failed to create asset '/Game/StaticMeshes/untitled'.
+Please see Output Log for details.
+[2020.01.05-19.17.25:603][730]LogFileHelpers: No new changes to save!
+[2020.01.05-19.17.25:603][730]LogBlueprintUserMessages: [MainLevel_C_37] FBX converted into UEAsset
+[2020.01.05-19.17.36:360][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.05-19.17.39:375][282]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.17.39:376][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-19.17.39:376][282]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2020.01.05-19.17.39:376][282]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.05-19.17.39:395][282]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.05-19.17.39:395][282]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.17.39:454][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-19.17.39:459][282]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.01.05-19.17.39:495][283]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.01.05-19.17.54:094][150]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.05-19.17.54:117][150]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.17.54:118][150]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.05-19.17.54:119][150]LogPlayLevel: [PlayLevel] Compiling MainLevel before play...
+[2020.01.05-19.17.54:422][150]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2020.01.05-19.17.54:422][150]LogPlayLevel: PlayLevel: Blueprint regeneration took 304 ms (1 blueprints)
+[2020.01.05-19.17.54:423][150]PIE: New page: PIE session: MainLevel (Jan 5, 2020, 11:17:54 PM)
+[2020.01.05-19.17.54:423][150]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2020.01.05-19.17.54:445][150]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021912s)
+[2020.01.05-19.17.54:447][150]LogAIModule: Creating AISystem for world MainLevel
+[2020.01.05-19.17.54:447][150]LogPlayLevel: PIE: World Init took: (0.001761s)
+[2020.01.05-19.17.54:447][150]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.024434s)
+[2020.01.05-19.17.54:504][150]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.01.05-19.17.54:535][150]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-19.17.54:546][150]LogInit: FAudioDevice initialized.
+[2020.01.05-19.17.54:560][150]LogLoad: Game class is 'MyGameModeBase'
+[2020.01.05-19.17.54:563][150]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2020.01.05-21.17.54
+[2020.01.05-19.17.54:564][150]LogWorld: Bringing up level for play took: 0.003429
+[2020.01.05-19.17.54:564][150]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2020.01.05-19.17.54:571][150]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel -0.431
+[2020.01.05-19.17.54:572][150]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.17.55:725][214]LogBlueprintUserMessages: [MainLevel_C_38] C:/Users/DAN/Desktop/
+[2020.01.05-19.17.57:359][214]LogBlueprintUserMessages: [MainLevel_C_38] DIICOM Converted into STL
+[2020.01.05-19.17.58:197][214]LogBlueprintUserMessages: [MainLevel_C_38] STL Converted into FBX
+[2020.01.05-19.17.58:204][214]LogFactory: Error: Can't find file 'C:/Users/DAN/Desktop/untitled.fbx' for import
+[2020.01.05-19.17.58:204][214]LogAssetTools: Warning: Failed to import 'C:/Users/DAN/Desktop/untitled.fbx'. Failed to create asset '/Game/StaticMeshes/untitled'.
+Please see Output Log for details.
+[2020.01.05-19.17.58:205][214]LogFileHelpers: No new changes to save!
+[2020.01.05-19.17.58:205][214]LogBlueprintUserMessages: [MainLevel_C_38] FBX converted into UEAsset
+[2020.01.05-19.18.01:681][418]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.18.01:683][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-19.18.01:683][418]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2020.01.05-19.18.01:684][418]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.05-19.18.01:697][418]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.05-19.18.01:698][418]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.18.01:747][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-19.18.01:754][418]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.01.05-19.18.01:782][419]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.01.05-19.18.03:337][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.05-19.19.40:815][801]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.05-19.19.40:838][801]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.19.40:839][801]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.05-19.19.40:839][801]LogPlayLevel: [PlayLevel] Compiling MainLevel before play...
+[2020.01.05-19.19.41:130][801]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2020.01.05-19.19.41:130][801]LogPlayLevel: PlayLevel: Blueprint regeneration took 291 ms (1 blueprints)
+[2020.01.05-19.19.41:130][801]PIE: New page: PIE session: MainLevel (Jan 5, 2020, 11:19:41 PM)
+[2020.01.05-19.19.41:130][801]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2020.01.05-19.19.41:147][801]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016191s)
+[2020.01.05-19.19.41:149][801]LogAIModule: Creating AISystem for world MainLevel
+[2020.01.05-19.19.41:149][801]LogPlayLevel: PIE: World Init took: (0.001168s)
+[2020.01.05-19.19.41:149][801]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.017873s)
+[2020.01.05-19.19.41:192][801]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.01.05-19.19.41:221][801]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-19.19.41:231][801]LogInit: FAudioDevice initialized.
+[2020.01.05-19.19.41:249][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-19.19.41:249][801]LogLoad: Game class is 'MyGameModeBase'
+[2020.01.05-19.19.41:254][801]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2020.01.05-21.19.41
+[2020.01.05-19.19.41:255][801]LogWorld: Bringing up level for play took: 0.004691
+[2020.01.05-19.19.41:255][801]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2020.01.05-19.19.41:258][801]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.05-19.19.41:267][801]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.265
+[2020.01.05-19.19.41:268][801]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.19.42:785][882]LogSlate: FSceneViewport::OnFocusLost() reason 1
+[2020.01.05-19.20.32:905][882]LogBlueprintUserMessages: [MainLevel_C_39] STL Converted into FBX
+[2020.01.05-19.20.33:107][882]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/DAN/Desktop/untitled.fbx)
+[2020.01.05-19.20.33:314][882]LogFbx: Loading FBX Scene from C:/Users/DAN/Desktop/untitled.fbx
+[2020.01.05-19.20.35:243][882]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.05-19.20.35:265][882]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.01.05-19.20.35:288][882]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2020.01.05-19.20.35:288][882]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2020.01.05-19.20.35:288][882]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.01.05-19.20.35:288][882]LogFbx: Display: Triangulating static mesh Cube
+[2020.01.05-19.21.00:730][882]LogStaticMesh: Building static mesh untitled...
+[2020.01.05-19.21.31:299][882]LogStaticMesh: Built static mesh [30.57s] /Game/StaticMeshes/untitled.untitled
+[2020.01.05-19.21.48:994][882]LogStaticMesh: Warning: untitled has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.01.05-19.21.48:994][882]LogStaticMesh: Warning: untitled has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.05-19.22.07:219][882]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.05-19.22.07:219][882]FBXImport: Warning: untitled has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.01.05-19.22.07:220][882]FBXImport: Warning: untitled has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.01.05-19.22.26:979][882]LogFileHelpers: No new changes to save!
+[2020.01.05-19.22.26:979][882]LogPython: Imported: /Game/StaticMeshes/untitled.untitled
+[2020.01.05-19.22.26:979][882]LogBlueprintUserMessages: [MainLevel_C_39] FBX converted into UEAsset
+[2020.01.05-19.22.39:993][566]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.22.39:994][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-19.22.39:994][566]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2020.01.05-19.22.40:018][566]LogSlate: Window 'VRoscopy Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.05-19.22.40:022][566]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.05-19.22.40:040][566]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.05-19.22.40:040][566]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.22.40:098][566]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2020.01.05-19.22.40:121][567]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.01.05-19.22.42:905][708]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.01.05-19.22.44:344][708]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.05-19.22.45:410][708]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.01.05-19.22.46:407][761]LogSlate: Window 'Message Log' being destroyed
+[2020.01.05-19.22.46:426][761]LogSlate: Window 'Message Log' being destroyed
+[2020.01.05-19.23.08:282][847]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.05-19.23.08:304][847]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.23.08:305][847]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.05-19.23.08:306][847]LogPlayLevel: [PlayLevel] Compiling MainLevel before play...
+[2020.01.05-19.23.08:654][847]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2020.01.05-19.23.08:654][847]LogPlayLevel: PlayLevel: Blueprint regeneration took 349 ms (1 blueprints)
+[2020.01.05-19.23.08:654][847]PIE: New page: PIE session: MainLevel (Jan 5, 2020, 11:23:08 PM)
+[2020.01.05-19.23.08:655][847]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2020.01.05-19.23.08:671][847]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015819s)
+[2020.01.05-19.23.08:672][847]LogAIModule: Creating AISystem for world MainLevel
+[2020.01.05-19.23.08:672][847]LogPlayLevel: PIE: World Init took: (0.001419s)
+[2020.01.05-19.23.08:673][847]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.017847s)
+[2020.01.05-19.23.08:717][847]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2020.01.05-19.23.08:747][847]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-19.23.08:758][847]LogInit: FAudioDevice initialized.
+[2020.01.05-19.23.08:770][847]LogLoad: Game class is 'MyGameModeBase'
+[2020.01.05-19.23.08:773][847]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2020.01.05-21.23.08
+[2020.01.05-19.23.08:773][847]LogWorld: Bringing up level for play took: 0.002611
+[2020.01.05-19.23.08:774][847]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2020.01.05-19.23.08:780][847]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel -0.221
+[2020.01.05-19.23.08:781][847]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.23.17:788][892]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.05-19.23.17:898][892]LogBlueprintUserMessages: [MainLevel_C_40] C:/Users/DAN/Desktop/
+[2020.01.05-19.23.19:551][892]LogBlueprintUserMessages: [MainLevel_C_40] DIICOM Converted into STL
+[2020.01.05-19.23.31:976][453]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.23.31:976][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-19.23.31:977][453]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2020.01.05-19.23.31:977][453]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.05-19.23.31:992][453]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.05-19.23.31:992][453]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.23.32:043][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-19.23.32:049][453]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.01.05-19.23.32:091][455]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2020.01.05-19.23.49:696][491]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.05-19.23.49:718][491]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.23.49:719][491]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.05-19.23.49:720][491]LogPlayLevel: [PlayLevel] Compiling MainLevel before play...
+[2020.01.05-19.23.50:028][491]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2020.01.05-19.23.50:028][491]LogPlayLevel: PlayLevel: Blueprint regeneration took 309 ms (1 blueprints)
+[2020.01.05-19.23.50:029][491]PIE: New page: PIE session: MainLevel (Jan 5, 2020, 11:23:50 PM)
+[2020.01.05-19.23.50:029][491]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2020.01.05-19.23.50:053][491]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024335s)
+[2020.01.05-19.23.50:055][491]LogAIModule: Creating AISystem for world MainLevel
+[2020.01.05-19.23.50:056][491]LogPlayLevel: PIE: World Init took: (0.001909s)
+[2020.01.05-19.23.50:056][491]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.026941s)
+[2020.01.05-19.23.50:116][491]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.01.05-19.23.50:150][491]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-19.23.50:167][491]LogInit: FAudioDevice initialized.
+[2020.01.05-19.23.50:176][491]LogLoad: Game class is 'MyGameModeBase'
+[2020.01.05-19.23.50:179][491]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2020.01.05-21.23.50
+[2020.01.05-19.23.50:180][491]LogWorld: Bringing up level for play took: 0.003253
+[2020.01.05-19.23.50:180][491]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2020.01.05-19.23.50:187][491]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 1.186
+[2020.01.05-19.23.50:188][491]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.24.00:834][541]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.05-19.24.00:944][541]LogBlueprintUserMessages: [MainLevel_C_41] C:/Users/DAN/Google Drive/!!!Afeka/MedicalImaginginVRFinalProject/DICOM Files/!!!DicomsForAlpha/Anonymized20190403
+[2020.01.05-19.24.02:579][541]LogBlueprintUserMessages: [MainLevel_C_41] DIICOM Converted into STL
+[2020.01.05-19.24.10:738][999]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetSystemLibrary::PrintString' [Element not found.]
+[2020.01.05-19.24.10:965][ 12]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.24.10:966][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-19.24.10:966][ 12]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2020.01.05-19.24.10:966][ 12]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.05-19.24.10:982][ 12]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.05-19.24.10:983][ 12]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.24.11:041][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-19.24.11:050][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2020.01.05-19.24.11:104][ 13]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2020.01.05-19.24.15:386][264]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.05-19.24.15:410][264]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.24.15:411][264]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.05-19.24.15:412][264]LogPlayLevel: [PlayLevel] Compiling MainLevel before play...
+[2020.01.05-19.24.15:702][264]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2020.01.05-19.24.15:703][264]LogPlayLevel: PlayLevel: Blueprint regeneration took 292 ms (1 blueprints)
+[2020.01.05-19.24.15:703][264]PIE: New page: PIE session: MainLevel (Jan 5, 2020, 11:24:15 PM)
+[2020.01.05-19.24.15:703][264]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2020.01.05-19.24.15:719][264]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015880s)
+[2020.01.05-19.24.15:721][264]LogAIModule: Creating AISystem for world MainLevel
+[2020.01.05-19.24.15:721][264]LogPlayLevel: PIE: World Init took: (0.001796s)
+[2020.01.05-19.24.15:722][264]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.018523s)
+[2020.01.05-19.24.15:767][264]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.01.05-19.24.15:796][264]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-19.24.15:806][264]LogInit: FAudioDevice initialized.
+[2020.01.05-19.24.15:820][264]LogLoad: Game class is 'MyGameModeBase'
+[2020.01.05-19.24.15:822][264]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2020.01.05-21.24.15
+[2020.01.05-19.24.15:823][264]LogWorld: Bringing up level for play took: 0.002484
+[2020.01.05-19.24.15:823][264]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2020.01.05-19.24.15:830][264]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.828
+[2020.01.05-19.24.15:830][264]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.24.25:863][321]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.05-19.24.25:971][321]LogBlueprintUserMessages: [MainLevel_C_42] C:/Users/DAN/Google Drive/!!!Afeka/MedicalImaginginVRFinalProject/DICOM Files/!!!DicomsForAlpha/Anonymized20190403
+[2020.01.05-19.24.27:616][321]LogBlueprintUserMessages: [MainLevel_C_42] DIICOM Converted into STL
+[2020.01.05-19.24.46:245][423]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.24.46:246][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-19.24.46:246][423]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2020.01.05-19.24.46:247][423]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.05-19.24.46:261][423]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.05-19.24.46:261][423]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.24.46:323][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-19.24.46:332][423]LogUObjectHash: Compacting FUObjectHashTables data took   5.98ms
+[2020.01.05-19.24.46:385][424]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2020.01.05-19.25.13:180][ 21]BlueprintLog: New page: Compile MainLevel
+[2020.01.05-19.25.13:465][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2020.01.05-19.25.15:246][121]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.05-19.25.15:273][121]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.25.15:273][121]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.05-19.25.15:274][121]PIE: New page: PIE session: MainLevel (Jan 5, 2020, 11:25:15 PM)
+[2020.01.05-19.25.15:274][121]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2020.01.05-19.25.15:293][121]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019920s)
+[2020.01.05-19.25.15:295][121]LogAIModule: Creating AISystem for world MainLevel
+[2020.01.05-19.25.15:295][121]LogPlayLevel: PIE: World Init took: (0.001770s)
+[2020.01.05-19.25.15:296][121]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.022440s)
+[2020.01.05-19.25.15:353][121]LogUObjectHash: Compacting FUObjectHashTables data took   6.56ms
+[2020.01.05-19.25.15:393][121]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-19.25.15:408][121]LogInit: FAudioDevice initialized.
+[2020.01.05-19.25.15:422][121]LogLoad: Game class is 'MyGameModeBase'
+[2020.01.05-19.25.15:426][121]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2020.01.05-21.25.15
+[2020.01.05-19.25.15:427][121]LogWorld: Bringing up level for play took: 0.004054
+[2020.01.05-19.25.15:428][121]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2020.01.05-19.25.15:437][121]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.435
+[2020.01.05-19.25.15:437][121]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.25.23:735][169]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.05-19.25.23:851][169]LogBlueprintUserMessages: [MainLevel_C_43] C:/Users/DAN/Google Drive/!!!Afeka/MedicalImaginginVRFinalProject/DICOM Files/!!!DicomsForAlpha/Anonymized20190403
+[2020.01.05-19.25.23:852][169]LogPython: Error: SyntaxError: invalid syntax (<string>, line 3)
+[2020.01.05-19.25.23:852][169]LogBlueprintUserMessages: [MainLevel_C_43] DIICOM Converted into STL
+[2020.01.05-19.25.32:160][660]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.25.32:161][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-19.25.32:162][660]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2020.01.05-19.25.32:163][660]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.05-19.25.32:180][660]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.05-19.25.32:180][660]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.25.32:229][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-19.25.32:235][660]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.01.05-19.25.32:266][661]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2020.01.05-19.25.33:492][731]LogEditorTransaction: Undo Change String Pin Value
+[2020.01.05-19.25.34:208][771]LogEditorTransaction: Undo Change String Pin Value
+[2020.01.05-19.25.36:123][883]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.05-19.25.36:150][883]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.25.36:151][883]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.05-19.25.36:151][883]LogPlayLevel: [PlayLevel] Compiling MainLevel before play...
+[2020.01.05-19.25.36:447][883]LogUObjectHash: Compacting FUObjectHashTables data took   7.41ms
+[2020.01.05-19.25.36:448][883]LogPlayLevel: PlayLevel: Blueprint regeneration took 297 ms (1 blueprints)
+[2020.01.05-19.25.36:448][883]PIE: New page: PIE session: MainLevel (Jan 5, 2020, 11:25:36 PM)
+[2020.01.05-19.25.36:448][883]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2020.01.05-19.25.36:478][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029812s)
+[2020.01.05-19.25.36:481][883]LogAIModule: Creating AISystem for world MainLevel
+[2020.01.05-19.25.36:481][883]LogPlayLevel: PIE: World Init took: (0.002277s)
+[2020.01.05-19.25.36:482][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.033255s)
+[2020.01.05-19.25.36:538][883]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.01.05-19.25.36:569][883]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-19.25.36:578][883]LogInit: FAudioDevice initialized.
+[2020.01.05-19.25.36:589][883]LogLoad: Game class is 'MyGameModeBase'
+[2020.01.05-19.25.36:592][883]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2020.01.05-21.25.36
+[2020.01.05-19.25.36:593][883]LogWorld: Bringing up level for play took: 0.003274
+[2020.01.05-19.25.36:593][883]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2020.01.05-19.25.36:600][883]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel -0.402
+[2020.01.05-19.25.36:600][883]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.25.46:569][939]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.05-19.25.46:692][939]LogBlueprintUserMessages: [MainLevel_C_44] C:/Users/DAN/Google Drive/!!!Afeka/MedicalImaginginVRFinalProject/DICOM Files/!!!DicomsForAlpha/Anonymized20190403
+[2020.01.05-19.25.48:506][939]LogBlueprintUserMessages: [MainLevel_C_44] DIICOM Converted into STL
+[2020.01.05-19.26.19:870][907]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.26.19:872][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-19.26.19:872][907]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2020.01.05-19.26.19:873][907]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.05-19.26.19:887][907]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.05-19.26.19:887][907]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.26.19:939][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-19.26.19:945][907]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.01.05-19.26.19:977][908]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2020.01.05-19.26.43:232][570]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.05-19.26.43:257][570]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.26.43:257][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.05-19.26.43:258][570]PIE: New page: PIE session: MainLevel (Jan 5, 2020, 11:26:43 PM)
+[2020.01.05-19.26.43:258][570]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2020.01.05-19.26.43:273][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015114s)
+[2020.01.05-19.26.43:274][570]LogAIModule: Creating AISystem for world MainLevel
+[2020.01.05-19.26.43:275][570]LogPlayLevel: PIE: World Init took: (0.001241s)
+[2020.01.05-19.26.43:275][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.016796s)
+[2020.01.05-19.26.43:319][570]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2020.01.05-19.26.43:348][570]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-19.26.43:360][570]LogInit: FAudioDevice initialized.
+[2020.01.05-19.26.43:373][570]LogLoad: Game class is 'MyGameModeBase'
+[2020.01.05-19.26.43:375][570]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2020.01.05-21.26.43
+[2020.01.05-19.26.43:376][570]LogWorld: Bringing up level for play took: 0.002517
+[2020.01.05-19.26.43:376][570]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2020.01.05-19.26.43:382][570]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.38
+[2020.01.05-19.26.43:382][570]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.26.48:902][630]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.05-19.26.48:999][630]LogBlueprintUserMessages: [MainLevel_C_44] C:/Users/DAN/Desktop/Anonymized2019040
+[2020.01.05-19.28.15:535][630]LogBlueprintUserMessages: [MainLevel_C_44] DIICOM Converted into STL
+[2020.01.05-19.28.24:192][806]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.28.24:192][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-19.28.24:193][806]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2020.01.05-19.28.24:193][806]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.05-19.28.24:208][806]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.05-19.28.24:208][806]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.28.24:261][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-19.28.24:268][806]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.01.05-19.28.24:301][807]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2020.01.05-19.28.38:374][644]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.05-19.28.38:397][644]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.28.38:397][644]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.05-19.28.38:398][644]LogPlayLevel: [PlayLevel] Compiling MainLevel before play...
+[2020.01.05-19.28.38:727][644]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2020.01.05-19.28.38:727][644]LogPlayLevel: PlayLevel: Blueprint regeneration took 329 ms (1 blueprints)
+[2020.01.05-19.28.38:727][644]PIE: New page: PIE session: MainLevel (Jan 5, 2020, 11:28:38 PM)
+[2020.01.05-19.28.38:727][644]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2020.01.05-19.28.38:744][644]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016676s)
+[2020.01.05-19.28.38:745][644]LogAIModule: Creating AISystem for world MainLevel
+[2020.01.05-19.28.38:746][644]LogPlayLevel: PIE: World Init took: (0.001808s)
+[2020.01.05-19.28.38:747][644]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.019189s)
+[2020.01.05-19.28.38:794][644]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.01.05-19.28.38:823][644]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-19.28.38:834][644]LogInit: FAudioDevice initialized.
+[2020.01.05-19.28.38:846][644]LogLoad: Game class is 'MyGameModeBase'
+[2020.01.05-19.28.38:849][644]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2020.01.05-21.28.38
+[2020.01.05-19.28.38:849][644]LogWorld: Bringing up level for play took: 0.002406
+[2020.01.05-19.28.38:850][644]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2020.01.05-19.28.38:855][644]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel -0.146
+[2020.01.05-19.28.38:856][644]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.28.44:117][720]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.05-19.28.44:220][720]LogBlueprintUserMessages: [MainLevel_C_45] 
+[2020.01.05-19.28.45:947][720]LogBlueprintUserMessages: [MainLevel_C_45] DIICOM Converted into STL
+[2020.01.05-19.28.46:885][720]LogBlueprintUserMessages: [MainLevel_C_45] STL Converted into FBX
+[2020.01.05-19.28.46:892][720]LogFactory: Error: Can't find file 'C:/Users/DAN/Desktop/untitled.fbx' for import
+[2020.01.05-19.28.46:893][720]LogAssetTools: Warning: Failed to import 'C:/Users/DAN/Desktop/untitled.fbx'. Failed to create asset '/Game/StaticMeshes/untitled'.
+Please see Output Log for details.
+[2020.01.05-19.28.46:893][720]LogFileHelpers: No new changes to save!
+[2020.01.05-19.28.46:893][720]LogBlueprintUserMessages: [MainLevel_C_45] FBX converted into UEAsset
+[2020.01.05-19.28.46:915][721]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.28.46:916][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-19.28.46:916][721]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2020.01.05-19.28.46:917][721]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.05-19.28.46:940][721]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.05-19.28.46:940][721]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.28.47:000][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-19.28.47:010][721]LogUObjectHash: Compacting FUObjectHashTables data took   6.35ms
+[2020.01.05-19.28.47:042][722]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2020.01.05-19.28.52:608][ 50]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.05-19.28.52:640][ 50]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.28.52:641][ 50]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.05-19.28.52:641][ 50]PIE: New page: PIE session: MainLevel (Jan 5, 2020, 11:28:52 PM)
+[2020.01.05-19.28.52:642][ 50]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2020.01.05-19.28.52:660][ 50]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018500s)
+[2020.01.05-19.28.52:661][ 50]LogAIModule: Creating AISystem for world MainLevel
+[2020.01.05-19.28.52:662][ 50]LogPlayLevel: PIE: World Init took: (0.001257s)
+[2020.01.05-19.28.52:662][ 50]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.020262s)
+[2020.01.05-19.28.52:704][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.01.05-19.28.52:732][ 50]LogInit: XAudio2 using 'TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.05-19.28.52:743][ 50]LogInit: FAudioDevice initialized.
+[2020.01.05-19.28.52:754][ 50]LogLoad: Game class is 'MyGameModeBase'
+[2020.01.05-19.28.52:756][ 50]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2020.01.05-21.28.52
+[2020.01.05-19.28.52:757][ 50]LogWorld: Bringing up level for play took: 0.002560
+[2020.01.05-19.28.52:757][ 50]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2020.01.05-19.28.52:765][ 50]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel -0.237
+[2020.01.05-19.28.52:766][ 50]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.29.00:224][108]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.05-19.29.00:346][108]LogBlueprintUserMessages: [MainLevel_C_45] C:/Users/DAN/Desktop/Anonymized2019040
+[2020.01.05-19.30.29:160][108]LogBlueprintUserMessages: [MainLevel_C_45] DIICOM Converted into STL
+[2020.01.05-19.31.39:888][108]LogBlueprintUserMessages: [MainLevel_C_45] STL Converted into FBX
+[2020.01.05-19.31.40:110][108]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/DAN/Desktop/untitled.fbx)
+[2020.01.05-19.31.40:331][108]LogFbx: Loading FBX Scene from C:/Users/DAN/Desktop/untitled.fbx
+[2020.01.05-19.31.42:577][108]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.05-19.31.42:597][108]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.01.05-19.31.42:626][108]LogFbx: Display: Triangulating static mesh Cube
+[2020.01.05-19.32.25:490][108]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2020.01.05-19.32.25:490][108]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2020.01.05-19.32.25:490][108]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.01.05-19.32.25:491][108]LogStaticMesh: Building static mesh untitled...
+[2020.01.05-19.33.05:467][108]LogStaticMesh: Built static mesh [39.98s] /Game/StaticMeshes/untitled.untitled
+[2020.01.05-19.33.25:037][108]LogStaticMesh: Warning: untitled has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.01.05-19.33.25:038][108]LogStaticMesh: Warning: untitled has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.05-19.33.45:165][108]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.05-19.33.45:166][108]FBXImport: Warning: untitled has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.01.05-19.33.45:166][108]FBXImport: Warning: untitled has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.01.05-19.34.04:308][108]LogFileHelpers: No new changes to save!
+[2020.01.05-19.34.04:308][108]LogPython: Imported: /Game/StaticMeshes/untitled.untitled
+[2020.01.05-19.34.04:309][108]LogBlueprintUserMessages: [MainLevel_C_45] FBX converted into UEAsset
+[2020.01.05-19.34.30:936][664]LogSlate: Window 'Message Log' being destroyed
+[2020.01.05-19.34.30:979][664]LogSlate: Window 'Message Log' being destroyed
+[2020.01.05-19.34.35:201][905]LogActorFactory: Actor Factory created untitled
+[2020.01.05-19.34.35:206][905]PIE: Warning: Mobility of /Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.untitled : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.05-19.34.35:207][905]PIE: Warning: Mobility of /Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.untitled : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.05-19.34.35:215][905]PIE: Warning: Mobility of /Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.untitled : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.05-19.34.35:225][906]PIE: Warning: Mobility of /Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.untitled : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.05-19.34.35:240][906]PIE: Warning: Mobility of /Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.untitled : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.05-19.34.35:251][907]PIE: Warning: Mobility of /Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.untitled : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.05-19.34.35:253][907]PIE: Warning: Mobility of /Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.untitled : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.05-19.34.35:262][907]PIE: Warning: Mobility of /Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.untitled : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.05-19.34.35:264][907]PIE: Warning: Mobility of /Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.untitled : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.05-19.34.35:275][907]PIE: Warning: Mobility of /Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.untitled : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.05-19.34.35:284][908]PIE: Warning: Mobility of /Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.untitled : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.05-19.34.35:286][908]PIE: Warning: Mobility of /Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.untitled : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.05-19.34.35:292][908]PIE: Warning: Mobility of /Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.untitled : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.05-19.34.35:294][908]PIE: Warning: Mobility of /Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.untitled : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.05-19.34.35:296][908]PIE: Warning: Mobility of /Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.untitled : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.05-19.34.35:306][908]PIE: Warning: Mobility of /Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.untitled : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.05-19.34.35:316][909]PIE: Warning: Mobility of /Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.untitled : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.05-19.34.35:318][909]PIE: Warning: Mobility of /Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.untitled : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.05-19.34.35:323][909]PIE: Warning: Mobility of /Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.untitled : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.05-19.34.35:325][909]PIE: Warning: Mobility of /Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.untitled : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.05-19.34.35:338][909]PIE: Warning: Mobility of /Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.untitled : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.05-19.34.35:350][910]PIE: Warning: Mobility of /Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.untitled : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.05-19.34.35:352][910]PIE: Warning: Mobility of /Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.untitled : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.05-19.34.35:365][910]PIE: Warning: Mobility of /Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.untitled : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.05-19.34.35:379][911]PIE: Warning: Mobility of /Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.untitled : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.05-19.34.35:380][911]PIE: Warning: Mobility of /Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.untitled : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.05-19.34.35:394][911]PIE: Warning: Mobility of /Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.untitled : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.05-19.34.35:408][912]PIE: Warning: Mobility of /Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.untitled : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.05-19.34.35:410][912]PIE: Warning: Mobility of /Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.untitled : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.05-19.34.36:098][944]LogActorFactory: Actor Factory created untitled
+[2020.01.05-19.34.47:808][529]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.34.47:810][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-19.34.47:810][529]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2020.01.05-19.34.47:810][529]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.05-19.34.47:866][529]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.05-19.34.47:867][529]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2020.01.05-19.34.47:919][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.05-19.34.47:926][529]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2020.01.05-19.34.47:939][529]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.05-19.34.48:006][530]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2020.01.05-19.34.49:391][606]LogSlate: Window 'Message Log' being destroyed
+[2020.01.05-19.34.49:413][606]LogSlate: Window 'Message Log' being destroyed
+[2020.01.05-19.34.55:372][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.05-19.34.57:657][ 57]LogActorFactory: Actor Factory created untitled
+[2020.01.05-19.34.58:235][ 80]LogActorFactory: Actor Factory created untitled
+[2020.01.05-19.35.10:072][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (untitled)
+[2020.01.05-19.35.12:290][727]Cmd: DELETE
+[2020.01.05-19.35.12:290][727]Cmd: ACTOR DELETE
+[2020.01.05-19.35.12:309][727]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.05-19.35.12:357][727]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.01.05-19.35.12:358][727]LogEditorActor: Deleted 1 Actors (0.059 secs)
