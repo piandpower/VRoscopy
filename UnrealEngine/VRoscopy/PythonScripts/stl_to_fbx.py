@@ -1,6 +1,7 @@
 import bpy
 import sys
 
+
 ######## Script converts stl to fbx using blender #######
 
 argv = sys.argv

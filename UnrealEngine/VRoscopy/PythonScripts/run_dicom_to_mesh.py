@@ -1,6 +1,13 @@
 # import os
 import subprocess
 
+######## Script runs Invesalius 3 for converting dicoms to .stl mesh #######
+
+
+### copy inside execute python script in ue4 ####
+# import run_dicom_to_mesh
+# reload(run_dicom_to_mesh)
+# run_dicom_to_mesh.dicoms_to_mesh(
 
 # import run_dicom_to_mesh
 # reload(run_dicom_to_mesh)
