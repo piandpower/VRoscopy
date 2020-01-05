@@ -1,16 +1,5 @@
-D:\VRoscopy_repo\VRoscopy\UnrealEngine\VRoscopy\Intermediate\Build\Win64\UE4Editor\Development\VRoscopy\Definitions.VRoscopy.h
-J:\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-J:\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:\VRoscopy_repo\VRoscopy\UnrealEngine\VRoscopy\Source\VRoscopy/FileChooser.h
-J:\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/WorldSettings.h
-J:\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/DamageType.h
-J:\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DamageType.generated.h
-J:\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Info.h
-J:\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Info.generated.h
-J:\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/AudioVolume.h
-J:\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Volume.h
-J:\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Volume.generated.h
-J:\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioVolume.generated.h
-J:\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/ConstructorHelpers.h
-J:\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\WorldSettings.generated.h
-d:\vroscopy_repo\vroscopy\unrealengine\vroscopy\intermediate\build\win64\ue4editor\inc\vroscopy\FileChooser.generated.h
+C:\integrationcourseenv\Projects\!!!AfekaFinalProject\VRoscopy\UnrealEngine\VRoscopy\Intermediate\Build\Win64\UE4Editor\Development\VRoscopy\Definitions.VRoscopy.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\integrationcourseenv\Projects\!!!AfekaFinalProject\VRoscopy\UnrealEngine\VRoscopy\Source\VRoscopy/FileChooser.h
+c:\integrationcourseenv\projects\!!!afekafinalproject\vroscopy\unrealengine\vroscopy\intermediate\build\win64\ue4editor\inc\vroscopy\FileChooser.generated.h
