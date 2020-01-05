@@ -39,7 +39,7 @@
 *.sdf
 *.VC.db
 *.VC.opendb
-
+*.sln
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
@@ -50,6 +50,7 @@ Plugins/*/Binaries/*
 
 # Builds
 Build/*
+
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
