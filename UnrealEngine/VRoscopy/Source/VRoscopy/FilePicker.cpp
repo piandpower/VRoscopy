@@ -24,6 +24,23 @@ void UFilePicker::OpenFileDialog(const FString& DialogTitle, const FString& Defa
 	}
 }
 
+void UFilePicker::OpenFolderDialog(const FString& DialogTitle, const FString& DefaultPath, const FString& FileTypes, FString& OutFolder)
+{
+	if (GEngine)
+	{
+		if (GEngine->GameViewport)
+		{
+			void* ParentWindowHandle = GEngine->GameViewport->GetWindow()->GetNativeWindow()->GetOSWindowHandle();
+			IDesktopPlatform* DesktopPlatform = FDesktopPlatformModule::Get();
+			if (DesktopPlatform)
+			{
+				//Opening the file picker!
+				DesktopPlatform->OpenDirectoryDialog(ParentWindowHandle, DialogTitle, DefaultPath, OutFolder);
+			}
+		}
+	}
+}
+
 void UFilePicker::PrintData(const FString& File)
 {
 	//Parse the data into a string array
