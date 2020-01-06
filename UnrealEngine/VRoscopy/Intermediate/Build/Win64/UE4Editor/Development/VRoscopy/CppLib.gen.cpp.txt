@@ -1,5 +1,0 @@
-C:\integrationcourseenv\Projects\!!!AfekaFinalProject\VRoscopy\UnrealEngine\VRoscopy\Intermediate\Build\Win64\UE4Editor\Development\VRoscopy\Definitions.VRoscopy.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\integrationcourseenv\Projects\!!!AfekaFinalProject\VRoscopy\UnrealEngine\VRoscopy\Source\VRoscopy/CppLib.h
-c:\integrationcourseenv\projects\!!!afekafinalproject\vroscopy\unrealengine\vroscopy\intermediate\build\win64\ue4editor\inc\vroscopy\CppLib.generated.h
