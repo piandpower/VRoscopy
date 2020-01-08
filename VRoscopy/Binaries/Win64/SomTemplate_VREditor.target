@@ -4,7 +4,7 @@
 	"Configuration": "Development",
 	"TargetType": "Editor",
 	"Architecture": "",
-	"Project": "../../VRoscopy.uproject",
+	"Project": "../../SomTemplate_VR.uproject",
 	"Launch": "$(EngineDir)/Binaries/Win64/UE4Editor.exe",
 	"Version": 
 	{
@@ -882,6 +882,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Binaries/Win64/UE4Editor-VulkanShaderFormat.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/UE4Editor-TextureFormatAndroid.dll",
 			"Type": "DynamicLibrary"
 		},
 		{
@@ -2291,7 +2295,7 @@
 	],
 	"RuntimeDependencies": [
 		{
-			"Path": "$(ProjectDir)/VRoscopy.uproject",
+			"Path": "$(ProjectDir)/SomTemplate_VR.uproject",
 			"Type": "UFS"
 		},
 		{
