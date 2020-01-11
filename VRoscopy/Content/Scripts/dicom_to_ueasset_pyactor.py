@@ -7,11 +7,13 @@ import os.path
 ue.log('dicom to ueasset_pyactor')
 
 
-class Dicom_Mesh:
+class Dicom_Mesh_PyActor:
     path_to_output_asset = '/Game/DicomMeshAssets/1'
     fbx_factory = PyFbxFactory()
     mesh = None
     world = ue.get_editor_world()
+
+
 
     # this is called on game start
     def begin_play(self):
@@ -35,31 +37,33 @@ class Dicom_Mesh:
             self.fbx_factory.ImportUI.bImportTextures = False
             self.fbx_factory.ImportUI.bImportAnimations = False
 
-            self.fbx_factory.ImportUI.bImportAsSkeletal = True
+            # self.fbx_factory.ImportUI.bImportAsSkeletal = True
 
 
             # import the mesh
             self.mesh = self.fbx_factory.factory_import_object(path_to_fbx, self.path_to_output_asset)
             self.mesh.save_package()
             ue.add_on_screen_debug_message(1, 30, self.mesh)
-            # self.create_blueprint_from_mesh()
-            self.add_mesh_to_level()
+            self.create_blueprint_from_mesh()
+            # self.add_mesh_to_level()
+            # self.add_mesh_to_actor()
             #self.add_mesh_to_level()
 
     def create_blueprint_from_mesh(self):
-        # new_blueprint = ue.find_asset(self.path_to_output_asset + '/Kaiju_BP')
-        #         # if new_blueprint is not None:
-        #         #     ue.delete_asset(new_blueprint.get_path_name())
-        #         # new_blueprint = ue.create_blueprint(Character, self.path_to_output_asset + '/Kaiju_BP')
-        #         # # new_blueprint.GeneratedClass.get_cdo().Mesh.StaticMesh = self.mesh
-        #         # new_blueprint.GeneratedClass.get_cdo().Mesh.RelativeLocation = FVector(0, 0, -140)
-        #         # new_blueprint.GeneratedClass.get_cdo().Mesh.RelativeRotation = FRotator(0, 0, -90)
-        #         # new_blueprint.GeneratedClass.get_cdo().CapsuleComponent.CapsuleHalfHeight = 150
-        #         # new_blueprint.GeneratedClass.get_cdo().CapsuleComponent.CapsuleRadius = 50
-        #         # #add empty static mesh component to blueprint class
-        #         # st_component = ue.add_component_to_blueprint(new_blueprint, StaticMeshComponent, 'dicom_mesh')
-        #         # st_component.StaticMesh = ue.load_object(StaticMesh, '/Game/DicomMeshAssets/1/test')
-        #         # new_blueprint.SimpleConstructionScript.DefaultSceneRootNode.ChildNodes[0].ComponentTemplate.StaticMesh = self.mesh
+        new_blueprint = ue.find_asset(self.path_to_output_asset + '/mesh')
+        if new_blueprint is None:
+            ue.log("blueprint class doesn't exists")
+            new_blueprint = ue.create_blueprint(Character, self.path_to_output_asset + '/mesh')
+        else:
+            ue.log("blueprint class exists")
+            new_blueprint = ue.find_asset(self.path_to_output_asset + '/mesh')
+        new_blueprint.GeneratedClass.get_cdo().Mesh.RelativeLocation = FVector(0, 0, -140)
+        new_blueprint.GeneratedClass.get_cdo().Mesh.RelativeRotation = FRotator(0, 0, -90)
+        #add empty static mesh component to blueprint class
+        new_blueprint.GeneratedClass.get_cdo().CapsuleComponent.CapsuleHalfHeight = 150
+        new_blueprint.GeneratedClass.get_cdo().CapsuleComponent.CapsuleRadius = 50
+        st_component = ue.add_component_to_blueprint(new_blueprint, StaticMeshComponent, 'dicom_mesh')
+        st_component.StaticMesh = ue.load_object(StaticMesh, '/Game/DicomMeshAssets/1/test')
 
 
         ue.compile_blueprint(new_blueprint)
@@ -69,6 +73,7 @@ class Dicom_Mesh:
 
         world = ue.get_editor_world()
         new_actor = world.actor_spawn(new_blueprint.GeneratedClass, FVector(0, 0, 150))
+        # new_actor = world.actor_spawn(new_blueprint.GeneratedClass, self.get_actor_location())
 
 
 
@@ -90,11 +95,15 @@ class Dicom_Mesh:
 
 
 
-    def add_mesh_to_level(self, mesh = ''):
+    def add_mesh_to_level(self):
         dicom_mesh_actor = self.world.actor_spawn(StaticMeshActor)
         dicom_mesh_actor.StaticMeshComponent.StaticMesh = ue.load_object(StaticMesh, '/Game/DicomMeshAssets/1/test')
         dicom_mesh_actor.set_actor_label('Dicom Mesh Actor')
+
+
         # mesh = ue.load_object(StaticMesh, '/Game/DicomMeshAssets/1/test')
         # obj = ue.get_editor_world().actor_spawn(StaticMeshActor)
         # obj.StaticMeshComponent.StaticMesh = self.mesh
         pass
+
+
