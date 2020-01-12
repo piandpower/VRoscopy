@@ -1,7 +1,11 @@
-from unreal_engine.classes import Actor, PyFbxFactory, StaticMeshActor, StaticMesh, AnimBlueprintFactory, Character, BlueprintFactory, StaticMeshComponent
+import os.path
+import subprocess
 import unreal_engine as ue
 from unreal_engine import FVector, FRotator
-import os.path
+from unreal_engine.classes import Actor, PyFbxFactory, StaticMeshActor, StaticMesh, AnimBlueprintFactory, Character, \
+    BlueprintFactory, StaticMeshComponent
+
+# blender --background --python C:/integrationcourseenv/VRoscopy/VRoscopy/Content/Scripts/stl_to_fbx.py -- "C:/Users/DAN/Desktop/test.stl" "C:/Users/DAN/Desktop/test.fbx"
 
 
 ue.log('dicom to ueasset_pyactor')
@@ -13,8 +17,6 @@ class Dicom_Mesh_PyActor:
     mesh = None
     world = ue.get_editor_world()
 
-
-
     # this is called on game start
     def begin_play(self):
         ue.log('Begin Play on Dicom_Mesh class')
@@ -25,57 +27,87 @@ class Dicom_Mesh_PyActor:
     def tick(self, delta_time):
         pass
 
-    def run_fbx_to_ueasset(self, path_to_fbx = ''):
-        if path_to_fbx is None:
-            print("provide correct path to file and proper fbx name")
-        else:
-            print(path_to_fbx)
+    def get_full_path(self, path):
+        return os.path.join(os.path.expanduser('~'), path)
 
+    def dicoms_to_mesh(self, args):
+        # TODO add checkers for file paths
+        # TODO consider migrating to subprocess instead of os
+        args_lst = args.split("#")
+        (invesalius_path, dicoms_folder_path, output_stl_path) = (args_lst[0], args_lst[1], args_lst[2])
+        invesalius_path = self.get_full_path(invesalius_path)
+        dicoms_folder_path = self.get_full_path(dicoms_folder_path)
+        output_stl_path = self.get_full_path(output_stl_path)
+        ue.log("invesalius path = " + invesalius_path)
+        ue.log("dicoms_folder_path = " + dicoms_folder_path)
+        ue.log("stl_path = " + output_stl_path)
+        ue.log("calling for invisalius via command line for mesh to stl conversion")
+        subprocess.call("(python " + invesalius_path + "/app.py --no-gui -i " + dicoms_folder_path + " -t 200,3033 -e "
+                        + output_stl_path + ")", shell=True)
+        ue.log("finished conversion from dicom files to stl")
+
+    def stl_to_fbx(self, args):
+        path_to_stl_to_fbx_script = "C:/integrationcourseenv/VRoscopy/VRoscopy/Content/Scripts/stl_to_fbx.py"
+        args_lst = args.split("#")
+        (path_to_stl, fbx_export_path) = (args_lst[0], args_lst[1])
+        path_to_stl = self.get_full_path(path_to_stl)
+        fbx_export_path = self.get_full_path(fbx_export_path)
+        ue.log("path_to_stl = " + path_to_stl)
+        ue.log("fbx_export_path = " + fbx_export_path)
+        ue.log("calling command line for stl to fbx conversion")
+        # blender --background --python C:/integrationcourseenv/VRoscopy/VRoscopy/Content/Scripts/stl_to_fbx.py -- "C:/Users/DAN/Desktop/test.stl" "C:/Users/DAN/Desktop/test.fbx"
+        subprocess.call("(blender --background --python " + path_to_stl_to_fbx_script + " -- " + "\"" + path_to_stl
+                        + "\"" + " \"" + fbx_export_path + "\")", shell=True)
+        ue.log("finished conversion from stl to fbx")
+
+    def run_fbx_to_ueasset(self, path_to_fbx=''):
+        if path_to_fbx is None:
+            ue.log("provide correct path to file and proper fbx name")
+        else:
+            path_to_fbx = self.get_full_path(path_to_fbx)
+            ue.log("path_to_fbx = " + path_to_fbx)
             # configure the factory
             self.fbx_factory.ImportUI.bCreatePhysicsAsset = False
             self.fbx_factory.ImportUI.bImportMaterials = False
             self.fbx_factory.ImportUI.bImportTextures = False
             self.fbx_factory.ImportUI.bImportAnimations = False
-
-            # self.fbx_factory.ImportUI.bImportAsSkeletal = True
-
+            self.fbx_factory.ImportUI.bImportAsSkeletal = True
+            self.fbx_factory.ImportUI.SkeletalMeshImportData.ImportUniformScale = 0.1
 
             # import the mesh
+            ue.log("starting to import fbx to unreal engine")
+            ###### asset = factory.factory_import_object(filename, asset_name)
             self.mesh = self.fbx_factory.factory_import_object(path_to_fbx, self.path_to_output_asset)
+            ue.log("finished to import fbx to unreal engine ")
             self.mesh.save_package()
+            ue.log("save uasset as package")
             ue.add_on_screen_debug_message(1, 30, self.mesh)
             self.create_blueprint_from_mesh()
-            # self.add_mesh_to_level()
-            # self.add_mesh_to_actor()
-            #self.add_mesh_to_level()
 
     def create_blueprint_from_mesh(self):
-        new_blueprint = ue.find_asset(self.path_to_output_asset + '/mesh')
+        new_blueprint = ue.find_asset(self.path_to_output_asset + '/main_mesh')
         if new_blueprint is None:
             ue.log("blueprint class doesn't exists")
-            new_blueprint = ue.create_blueprint(Character, self.path_to_output_asset + '/mesh')
+            new_blueprint = ue.create_blueprint(Character, self.path_to_output_asset + '/main_mesh')
         else:
             ue.log("blueprint class exists")
-            new_blueprint = ue.find_asset(self.path_to_output_asset + '/mesh')
+            new_blueprint = ue.find_asset(self.path_to_output_asset + '/main_mesh')
         new_blueprint.GeneratedClass.get_cdo().Mesh.RelativeLocation = FVector(0, 0, -140)
         new_blueprint.GeneratedClass.get_cdo().Mesh.RelativeRotation = FRotator(0, 0, -90)
-        #add empty static mesh component to blueprint class
+        # add empty static mesh component to blueprint class
         new_blueprint.GeneratedClass.get_cdo().CapsuleComponent.CapsuleHalfHeight = 150
         new_blueprint.GeneratedClass.get_cdo().CapsuleComponent.CapsuleRadius = 50
         st_component = ue.add_component_to_blueprint(new_blueprint, StaticMeshComponent, 'dicom_mesh')
-        st_component.StaticMesh = ue.load_object(StaticMesh, '/Game/DicomMeshAssets/1/test')
-
+        ue.log("self.mesh.get_name() = " + self.mesh.get_name())
+        st_component.StaticMesh = ue.load_object(StaticMesh, self.path_to_output_asset + "/test_test")
 
         ue.compile_blueprint(new_blueprint)
 
-        #saves uasset on the hard disk
+        # saves uasset on the hard disk
         new_blueprint.save_package()
 
         world = ue.get_editor_world()
         new_actor = world.actor_spawn(new_blueprint.GeneratedClass, FVector(0, 0, 150))
-        # new_actor = world.actor_spawn(new_blueprint.GeneratedClass, self.get_actor_location())
-
-
 
         # anim_bp = ue.find_asset(self.path_to_output_asset+'.test')
         # bpFactory = BlueprintFactory()
@@ -93,17 +125,12 @@ class Dicom_Mesh_PyActor:
         #
         # anim_bp = anim_bp_factory.factory_create_new(self.path_to_output_asset+'testAnimBP')
 
-
-
     def add_mesh_to_level(self):
         dicom_mesh_actor = self.world.actor_spawn(StaticMeshActor)
         dicom_mesh_actor.StaticMeshComponent.StaticMesh = ue.load_object(StaticMesh, '/Game/DicomMeshAssets/1/test')
         dicom_mesh_actor.set_actor_label('Dicom Mesh Actor')
 
-
         # mesh = ue.load_object(StaticMesh, '/Game/DicomMeshAssets/1/test')
         # obj = ue.get_editor_world().actor_spawn(StaticMeshActor)
         # obj.StaticMeshComponent.StaticMesh = self.mesh
         pass
-
-
