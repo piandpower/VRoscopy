@@ -1,5 +1,6 @@
 import os.path
 import subprocess
+import sys
 import unreal_engine as ue
 from unreal_engine import FVector, FRotator
 from unreal_engine.classes import Actor, PyFbxFactory, StaticMeshActor, StaticMesh, AnimBlueprintFactory, Character, \
@@ -13,6 +14,16 @@ ue.log('dicom to ueasset_pyactor')
 
 def get_full_path(path):
     return os.path.join(os.path.expanduser('~'), path)
+
+def runProcess(command):
+    p = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=subprocess.STDOUT, universal_newlines=True, shell=True)
+    while True:
+        # returns None while subprocess is running
+        retcode = p.poll()
+        line = p.stdout.readline()
+        ue.log(line)
+        if retcode is not None:
+            break
 
 
 class Dicom_Mesh_PyActor:
@@ -32,6 +43,16 @@ class Dicom_Mesh_PyActor:
     def tick(self, delta_time):
         pass
 
+    def runProcess(self, command):
+        p = subprocess.Popen(exe, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
+        while (True):
+            # returns None while subprocess is running
+            retcode = p.poll()
+            line = p.stdout.readline()
+            yield line
+            if retcode is not None:
+                break
+
     def dicoms_to_mesh(self, args):
         # TODO add checkers for file paths
         # TODO consider migrating to subprocess instead of os
@@ -44,8 +65,10 @@ class Dicom_Mesh_PyActor:
         ue.log("dicoms_folder_path = " + dicoms_folder_path)
         ue.log("stl_path = " + output_stl_path)
         ue.log("calling for invisalius via command line for mesh to stl conversion")
-        subprocess.call("(python " + invesalius_path + "/app.py --no-gui -i " + dicoms_folder_path + " -t 200,3033 -e "
-                        + output_stl_path + ")", shell=True)
+        runProcess("python " + invesalius_path + "/app.py --no-gui -i " + dicoms_folder_path + " -t 200,3033 -e "
+                   + output_stl_path)
+        # subprocess.call("(python " + invesalius_path + "/app.py --no-gui -i " + dicoms_folder_path + " -t 200,3033 -e "
+        #                 + output_stl_path + ")", shell=True)
         ue.log("finished conversion from dicom files to stl")
 
     def stl_to_fbx(self, args):
