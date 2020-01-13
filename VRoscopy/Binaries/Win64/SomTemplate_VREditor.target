@@ -4,7 +4,7 @@
 	"Configuration": "Development",
 	"TargetType": "Editor",
 	"Architecture": "",
-	"Project": "../../SomTemplate_VR.uproject",
+	"Project": "../../VRoscopy.uproject",
 	"Launch": "$(EngineDir)/Binaries/Win64/UE4Editor.exe",
 	"Version": 
 	{
@@ -2295,7 +2295,7 @@
 	],
 	"RuntimeDependencies": [
 		{
-			"Path": "$(ProjectDir)/SomTemplate_VR.uproject",
+			"Path": "$(ProjectDir)/VRoscopy.uproject",
 			"Type": "UFS"
 		},
 		{
