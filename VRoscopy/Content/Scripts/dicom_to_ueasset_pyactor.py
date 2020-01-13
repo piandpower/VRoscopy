@@ -11,11 +11,16 @@ from unreal_engine.classes import Actor, PyFbxFactory, StaticMeshActor, StaticMe
 ue.log('dicom to ueasset_pyactor')
 
 
+def get_full_path(path):
+    return os.path.join(os.path.expanduser('~'), path)
+
+
 class Dicom_Mesh_PyActor:
     path_to_output_asset = '/Game/DicomMeshAssets/1'
     fbx_factory = PyFbxFactory()
     mesh = None
     world = ue.get_editor_world()
+    dilimiter = '#'
 
     # this is called on game start
     def begin_play(self):
@@ -27,17 +32,14 @@ class Dicom_Mesh_PyActor:
     def tick(self, delta_time):
         pass
 
-    def get_full_path(self, path):
-        return os.path.join(os.path.expanduser('~'), path)
-
     def dicoms_to_mesh(self, args):
         # TODO add checkers for file paths
         # TODO consider migrating to subprocess instead of os
-        args_lst = args.split("#")
+        args_lst = args.split(self.dilimiter)
         (invesalius_path, dicoms_folder_path, output_stl_path) = (args_lst[0], args_lst[1], args_lst[2])
-        invesalius_path = self.get_full_path(invesalius_path)
-        dicoms_folder_path = self.get_full_path(dicoms_folder_path)
-        output_stl_path = self.get_full_path(output_stl_path)
+        invesalius_path = get_full_path(invesalius_path)
+        dicoms_folder_path = get_full_path(dicoms_folder_path)
+        output_stl_path = get_full_path(output_stl_path)
         ue.log("invesalius path = " + invesalius_path)
         ue.log("dicoms_folder_path = " + dicoms_folder_path)
         ue.log("stl_path = " + output_stl_path)
@@ -48,10 +50,10 @@ class Dicom_Mesh_PyActor:
 
     def stl_to_fbx(self, args):
         path_to_stl_to_fbx_script = "C:/integrationcourseenv/VRoscopy/VRoscopy/Content/Scripts/stl_to_fbx.py"
-        args_lst = args.split("#")
+        args_lst = args.split(self.dilimiter)
         (path_to_stl, fbx_export_path) = (args_lst[0], args_lst[1])
-        path_to_stl = self.get_full_path(path_to_stl)
-        fbx_export_path = self.get_full_path(fbx_export_path)
+        path_to_stl = get_full_path(path_to_stl)
+        fbx_export_path = get_full_path(fbx_export_path)
         ue.log("path_to_stl = " + path_to_stl)
         ue.log("fbx_export_path = " + fbx_export_path)
         ue.log("calling command line for stl to fbx conversion")
@@ -64,7 +66,7 @@ class Dicom_Mesh_PyActor:
         if path_to_fbx is None:
             ue.log("provide correct path to file and proper fbx name")
         else:
-            path_to_fbx = self.get_full_path(path_to_fbx)
+            path_to_fbx = get_full_path(path_to_fbx)
             ue.log("path_to_fbx = " + path_to_fbx)
             # configure the factory
             self.fbx_factory.ImportUI.bCreatePhysicsAsset = False
