@@ -18,6 +18,16 @@ public class SomTemplate_VR : ModuleRules
         // Uncomment if you are using Slate UI
         PrivateDependencyModuleNames.AddRange(new string[] { "Slate", "SlateCore" });
 
+        if (Target.Type == TargetRules.TargetType.Editor)
+    {
+        PrivateDependencyModuleNames.AddRange(
+        new string[]
+        {
+            "UnrealEd", "PythonConsole", "PythonEditor", "PythonAutomation"
+		}
+        );
+    }
+
         // Uncomment if you are using online features
         // PrivateDependencyModuleNames.Add("OnlineSubsystem");
 

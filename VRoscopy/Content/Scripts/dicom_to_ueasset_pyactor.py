@@ -3,8 +3,9 @@ import subprocess
 import sys
 import unreal_engine as ue
 from unreal_engine import FVector, FRotator
-from unreal_engine.classes import Actor, PyFbxFactory, StaticMeshActor, StaticMesh, AnimBlueprintFactory, Character, \
+from unreal_engine.classes import Actor, FbxFactory, StaticMeshActor, StaticMesh, AnimBlueprintFactory, Character, \
     BlueprintFactory, StaticMeshComponent
+#PyFbxFactory
 
 # blender --background --python C:/integrationcourseenv/VRoscopy/VRoscopy/Content/Scripts/stl_to_fbx.py -- "C:/Users/DAN/Desktop/test.stl" "C:/Users/DAN/Desktop/test.fbx"
 
@@ -28,7 +29,7 @@ def runProcess(command):
 
 class Dicom_Mesh_PyActor:
     path_to_output_asset = '/Game/DicomMeshAssets/1'
-    fbx_factory = PyFbxFactory()
+    fbx_factory = FbxFactory()
     mesh = None
     world = ue.get_editor_world()
     dilimiter = '#'
@@ -67,8 +68,6 @@ class Dicom_Mesh_PyActor:
         ue.log("calling for invisalius via command line for mesh to stl conversion")
         runProcess("python " + invesalius_path + "/app.py --no-gui -i " + dicoms_folder_path + " -t 200,3033 -e "
                    + output_stl_path)
-        # subprocess.call("(python " + invesalius_path + "/app.py --no-gui -i " + dicoms_folder_path + " -t 200,3033 -e "
-        #                 + output_stl_path + ")", shell=True)
         ue.log("finished conversion from dicom files to stl")
 
     def stl_to_fbx(self, args):
@@ -102,6 +101,7 @@ class Dicom_Mesh_PyActor:
             # import the mesh
             ue.log("starting to import fbx to unreal engine")
             ###### asset = factory.factory_import_object(filename, asset_name)
+            # self.mesh = self.fbx_factory.factory_import_object(path_to_fbx, self.path_to_output_asset)
             self.mesh = self.fbx_factory.factory_import_object(path_to_fbx, self.path_to_output_asset)
             ue.log("finished to import fbx to unreal engine ")
             self.mesh.save_package()
@@ -117,8 +117,8 @@ class Dicom_Mesh_PyActor:
         else:
             ue.log("blueprint class exists")
             new_blueprint = ue.find_asset(self.path_to_output_asset + '/main_mesh')
-        new_blueprint.GeneratedClass.get_cdo().Mesh.RelativeLocation = FVector(0, 0, -140)
-        new_blueprint.GeneratedClass.get_cdo().Mesh.RelativeRotation = FRotator(0, 0, -90)
+        new_blueprint.GeneratedClass.get_cdo().Mesh.RelativeLocation = FVector(0, -200, 150)
+        new_blueprint.GeneratedClass.get_cdo().Mesh.RelativeRotation = FRotator(0, 0, 0)
         # add empty static mesh component to blueprint class
         new_blueprint.GeneratedClass.get_cdo().CapsuleComponent.CapsuleHalfHeight = 150
         new_blueprint.GeneratedClass.get_cdo().CapsuleComponent.CapsuleRadius = 50
