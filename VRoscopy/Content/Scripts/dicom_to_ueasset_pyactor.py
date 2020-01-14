@@ -105,6 +105,7 @@ class Dicom_Mesh_PyActor:
             ###### asset = factory.factory_import_object(filename, asset_name)
             # self.mesh = self.fbx_factory.factory_import_object(path_to_fbx, self.path_to_output_asset)
             self.mesh = self.fbx_factory.factory_import_object(path_to_fbx, self.path_to_output_asset)
+            self.mesh = ue.find_asset(self.path_to_output_asset + '/test_test')
             ue.log("finished to import fbx to unreal engine ")
             self.mesh.save_package()
             ue.log("save uasset as package")
