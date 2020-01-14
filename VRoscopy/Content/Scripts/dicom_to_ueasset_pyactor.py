@@ -80,8 +80,10 @@ class Dicom_Mesh_PyActor:
         ue.log("fbx_export_path = " + fbx_export_path)
         ue.log("calling command line for stl to fbx conversion")
         # blender --background --python C:/integrationcourseenv/VRoscopy/VRoscopy/Content/Scripts/stl_to_fbx.py -- "C:/Users/DAN/Desktop/test.stl" "C:/Users/DAN/Desktop/test.fbx"
-        subprocess.call("(blender --background --python " + path_to_stl_to_fbx_script + " -- " + "\"" + path_to_stl
-                        + "\"" + " \"" + fbx_export_path + "\")", shell=True)
+        runProcess("blender --background --python " + path_to_stl_to_fbx_script + " -- " + "\"" + path_to_stl
+                        + "\"" + " \"" + fbx_export_path)
+        # subprocess.call("(blender --background --python " + path_to_stl_to_fbx_script + " -- " + "\"" + path_to_stl
+        #                 + "\"" + " \"" + fbx_export_path + "\")", shell=True)
         ue.log("finished conversion from stl to fbx")
 
     def run_fbx_to_ueasset(self, path_to_fbx=''):
@@ -117,8 +119,8 @@ class Dicom_Mesh_PyActor:
         else:
             ue.log("blueprint class exists")
             new_blueprint = ue.find_asset(self.path_to_output_asset + '/main_mesh')
-        new_blueprint.GeneratedClass.get_cdo().Mesh.RelativeLocation = FVector(0, -200, 150)
-        new_blueprint.GeneratedClass.get_cdo().Mesh.RelativeRotation = FRotator(0, 0, 0)
+        # new_blueprint.GeneratedClass.get_cdo().Mesh.RelativeLocation = FVector(0, -200, 150)
+        # new_blueprint.GeneratedClass.get_cdo().Mesh.RelativeRotation = FRotator(0, 0, 0)
         # add empty static mesh component to blueprint class
         new_blueprint.GeneratedClass.get_cdo().CapsuleComponent.CapsuleHalfHeight = 150
         new_blueprint.GeneratedClass.get_cdo().CapsuleComponent.CapsuleRadius = 50
