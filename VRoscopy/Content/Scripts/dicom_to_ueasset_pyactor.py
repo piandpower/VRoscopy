@@ -110,7 +110,6 @@ class Dicom_Mesh_PyActor:
             self.mesh.save_package()
             ue.log("save uasset as package")
             ue.add_on_screen_debug_message(1, 30, self.mesh)
-            self.create_blueprint_from_mesh()
 
     def create_blueprint_from_mesh(self):
         new_blueprint = ue.find_asset(self.path_to_output_asset + '/main_mesh')
